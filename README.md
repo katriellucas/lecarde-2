@@ -4,6 +4,14 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 ## Changelog
 
+#### [0.1.0] - 2023-02-22
+
+`REMOVED` - Support for DirectX 8, only DirectX 9 and up are now supported.  
+`FIXED` - Several water areas opacity problems.  
+`FIXED` - A few transparency effects on waterfalls and fogs.  
+`FIXED` - Some problems day/night cycle shading effects caused by DirectX 8.  
+`FIXED` - Some text alignment on saves and new/load game screen.  
+
 #### [0.0.2] - 2023-02-21
 
 `ADDED` - New icon on application  
