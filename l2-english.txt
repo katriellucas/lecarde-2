@@ -1225,7 +1225,7 @@ P13:
 P14:
 
 P15: // !!!
-Â«Silk veils hide wicked facesÂ»
+«Silk veils hide wicked faces»
 Constance d'Albaret
 
 P16:
