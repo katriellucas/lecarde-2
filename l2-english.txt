@@ -1535,7 +1535,7 @@ P36: // !!!
 I couldn't hurt it with my own sword and had to run away...
 
 P37: // !!! ???
-I lost my sword during the fight, but fortunately I have managed to find a similar one. (
+I lost my sword during the fight, but fortunately I have managed to find a similar one.
 
 P38:
 Another night the same copy of myself fought me.
