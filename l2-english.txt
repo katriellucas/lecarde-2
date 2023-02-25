@@ -1370,11 +1370,11 @@ P3: // !!!
 â†’ UNDERGROUND CAVE
 
 P4: // !!!
-← ENTRANCE HALL
+← ENTRANCE HALL
 → CASTLE CLOCKWORK
 
 P5: // !!!
-← ENTRANCE HALL
+← ENTRANCE HALL
 → HORROR GALLERY
 
 P6: // !!!
@@ -1605,8 +1605,8 @@ P6:
 Though, i have found other valuable things.
 
 P7: // !!!
-â† HORROR GALLERY
-â†’ FOUR SEASONS HALL
+← HORROR GALLERY
+→ FOUR SEASONS HALL
 
 
 P8: // !!!
