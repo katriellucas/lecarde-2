@@ -1038,7 +1038,7 @@ The Azur Lake is beautiful. There's a rumor that a giant fish swims in it during
 
 P13: // !!!
 Earldom of Servigny
-La MÃ©sange District
+La Mésange District
 
 P14: // !!!
 La MÃ©sange District is the main district of the Earldom of Servigny.
