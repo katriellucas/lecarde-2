@@ -1615,8 +1615,8 @@ P8: // !!!
 
 
 P9: // !!!
-â† HORROR GALLERY
-â†’ ALTAR
+← HORROR GALLERY
+→ ALTAR
 
 
 P10:
