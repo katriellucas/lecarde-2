@@ -1673,8 +1673,8 @@ P2:
 The gate has reacted to the SKULL EMBLEM.
 
 P3: // !!!
-â† ALTAR
-â†’ GARDEN
+← ALTAR
+→ GARDEN
 
 
 P4: // !!!
