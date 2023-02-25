@@ -1195,7 +1195,7 @@ P3:
 The ORNAMENTAL CRUCIFIX has been used.
 
 P4: // !!!
-That emblem..Youâ€™re a member of the Lecarde clan.
+That emblem..You're a member of the Lecarde clan.
 
 P5:
 Let me introduce myself, I am Alucard..
