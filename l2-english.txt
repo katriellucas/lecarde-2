@@ -1163,12 +1163,12 @@ P14: // !!!
 Maximilien de Servigny
 
 
-P15:
+P15: // !!!
 Â«Death comes from skiesÂ»
 Nicolas Xavier de La Tourvelle
 
 
-P16:
+P16: // !!!
 Â«Silk veils hide wicked facesÂ»
 Constance d'Albaret
 
