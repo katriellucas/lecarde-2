@@ -1006,7 +1006,7 @@ P3:
 You have found the SILVER ANGEL STATUETTE.
 
 P4: // !!!
-Â«Life begins in darknessÂ»
+«Life begins in darkness»
 Maximilien de Servigny
 
 P5: // !!!
