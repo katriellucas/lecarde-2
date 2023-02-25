@@ -894,7 +894,7 @@ Saint Anselme Valley
 
 P3: // !!!
 WEST-Saint Anselme Forest
-EAST- La MÃ©sange District
+EAST- La Mésange District
           L'Auberge rouge Inn
 
 P4:
