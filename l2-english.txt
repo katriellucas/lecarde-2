@@ -1626,8 +1626,8 @@ This ring should be of interest to you.
 - 4 Seasons Hall
 
 P1: // !!!
-â† FOUR SEASONS HALL
-â†’ GARDEN
+← FOUR SEASONS HALL
+→ GARDEN
 
 
 P2: // !!!
