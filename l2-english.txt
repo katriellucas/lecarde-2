@@ -935,7 +935,7 @@ WEST- St Anselme District
 EAST- Servigny Mansion
 
 P13: // !!!
-La MÃ©sange Bridge
+La Mésange Bridge
 Built in 1713
 
 P14:
