@@ -1523,7 +1523,7 @@ P32: // !!! ???
 P. Ogouz HNK ep 37
 
 P33: // !!!
-This hasnâ€™t got interestâ€¦
+This hasn't got interest...
 
 P34:
 Memories of a castle guard 
