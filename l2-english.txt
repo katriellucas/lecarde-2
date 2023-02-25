@@ -1361,23 +1361,23 @@ Twill serve you well to take this music box.
 P1:
 Before the endless night, there will be endless day and the sheep will be blinded and burned while their Shepherd weeps.
 
-P2:
+P2: // !!!
 â† ENTRANCE HALL
 â†’ ANCIENT LIBRARY
 
-P3:
+P3: // !!!
 â† ENTRANCE HALL
 â†’ UNDERGROUND CAVE
 
-P4:
+P4: // !!!
 â† ENTRANCE HALL
 â†’ CASTLE CLOCKWORK
 
-P5:
+P5: // !!!
 â† ENTRANCE HALL
 â†’ HORROR GALLERY
 
-P6:
+P6: // !!!
 â† ENTRANCE HALL
 â†’ GARDEN OF THE DEAD
 
