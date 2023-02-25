@@ -1578,7 +1578,7 @@ P49:
 Think well before entering this place, because you cannot leave it then.
 
 P50: // !!!
-Dieâ€¦ Dieâ€¦ Die... Dieâ€¦ Dieâ€¦
+Die... Die... Die... Die... Die...
 
 P51: // !!!
 The whole book is written with these words. It is scaryâ€¦
