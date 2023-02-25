@@ -1572,7 +1572,7 @@ P47: // !!!
 If you want to end your miserable life, go into the Death Room.
 
 P48: // !!!
-Itâ€™s a beautiful room with yellow curtains. It contains everything for your preferred way to die.
+It's a beautiful room with yellow curtains. It contains everything for your preferred way to die.
 
 P49:
 Think well before entering this place, because you cannot leave it then.
