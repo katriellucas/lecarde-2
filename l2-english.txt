@@ -1378,8 +1378,8 @@ P5: // !!!
 → HORROR GALLERY
 
 P6: // !!!
-â† ENTRANCE HALL
-â†’ GARDEN OF THE DEAD
+← ENTRANCE HALL
+→ GARDEN OF THE DEAD
 
 P7:
 You have used the GOLD KEY.
