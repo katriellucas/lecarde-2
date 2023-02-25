@@ -1687,7 +1687,7 @@ LE PETIT THEATRE DE DARZINKI
 
 P6: // !!!
 Marionette presentation.
-The showâ€™s length is: 150 years..
+The show's length is: 150 years..
 
 
 P7:
