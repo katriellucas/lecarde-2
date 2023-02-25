@@ -1581,7 +1581,7 @@ P50: // !!!
 Die... Die... Die... Die... Die...
 
 P51: // !!!
-The whole book is written with these words. It is scaryâ€¦
+The whole book is written with these words. It is scary...
 
 
 - Horror Gallery
