@@ -1159,7 +1159,7 @@ P13:
 VON VILTHEIM AURA BLAST's level max has increased.
 
 P14: // !!!
- Â«Life begins in darknessÂ»
+«Life begins in darkness»
 Maximilien de Servigny
 
 
