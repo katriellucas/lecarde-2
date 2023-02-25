@@ -1388,7 +1388,7 @@ You have used the GOLD KEY.
 - Castle Clockwork
 
 P1: // !!!
-The Iron Ballâ€™s location has changed.
+The Iron Ball's location has changed.
 
 P2:
 Nothing happened...
