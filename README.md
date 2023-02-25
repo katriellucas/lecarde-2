@@ -4,6 +4,13 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 ## Changelog
 
+#### [0.1.1] - 2023-02-25
+
+`CHANGED` - Game behavior of removing all sounds when unfocused for better streaming experience (Jupiter Climb recommendation)  
+`CHANGED` - Dafault controller of the first player to joystick 1  
+`FIXED` - Most if not all reported water/dark transparency effects should be fixed  
+`NEW` - Full english dialogue is available in the repository  
+
 #### [0.1.0] - 2023-02-22
 
 `REMOVED` - Support for DirectX 8, only DirectX 9 and up are now supported.  
