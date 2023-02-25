@@ -582,7 +582,7 @@ Saint Anselme District
 
 P15: // !!!
 Welcome to the inn
- Â« Le chien de chasse Â».
+« Le chien de chasse ».
 
 P16:
 The GONDRE MINE is deep. It's far to the West near the border with the La Tourvelle Earldom.
