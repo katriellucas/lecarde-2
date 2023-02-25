@@ -1647,8 +1647,8 @@ P3:
 The V.V AURA BLAST's maximum level has increased.
 
 P4: // !!!
-â† GARDEN OF THE DEAD
-â†’ UNDERGROUND CAVE
+← GARDEN OF THE DEAD
+→ UNDERGROUND CAVE
 
 
 P5: // !!!
