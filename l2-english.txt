@@ -1517,7 +1517,7 @@ P30: // !!!
 « A Nicolas Xavier De la Tourvelle »
 
 P31: // !!!
-Â« Si tu veux parler de moi quand j'Ã©tais jeune, Nicolas Xavier, câ€™est fini Ã§a fait un bout temps que cette chÃ¨re image mâ€™a quittÃ©â€¦ Â»
+« Si tu veux parler de moi quand j'étais jeune, Nicolas Xavier, c'est fini ça fait un bout temps que cette chère image m'a quitté...»
 
 P32: // !!! ???
 P. Ogouz HNK ep 37
