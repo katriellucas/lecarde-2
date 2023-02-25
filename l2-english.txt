@@ -1490,7 +1490,7 @@ The castle is full of traps and mechanisms. The Castle Clockwork is where they a
 
 P23: // !!!
 Castle of Eternal Night
-Castleâ€™s History
+Castle's History
 
 
 P24:
