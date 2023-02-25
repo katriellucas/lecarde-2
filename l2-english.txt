@@ -1328,7 +1328,7 @@ P16:
 
 P17: // !!!
 Piano..
-â†‘â†â†“â†’ â†“â†â†‘
+↓←↑←↓→↓←↑
 
 P18:
 Something happened in the garden.
