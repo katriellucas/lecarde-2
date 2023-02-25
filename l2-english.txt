@@ -1362,8 +1362,8 @@ P1:
 Before the endless night, there will be endless day and the sheep will be blinded and burned while their Shepherd weeps.
 
 P2: // !!!
-â† ENTRANCE HALL
-â†’ ANCIENT LIBRARY
+← ENTRANCE HALL
+→ ANCIENT LIBRARY
 
 P3: // !!!
 â† ENTRANCE HALL
