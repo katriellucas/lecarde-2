@@ -1041,7 +1041,7 @@ Earldom of Servigny
 La Mésange District
 
 P14: // !!!
-La MÃ©sange District is the main district of the Earldom of Servigny.
+La Mésange District is the main district of the Earldom of Servigny.
 
 P15:
 The count's mansion is there. It stands in a huge valley where a beautiful flower can be found -- the Black Lotus.
