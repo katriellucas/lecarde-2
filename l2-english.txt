@@ -1052,7 +1052,7 @@ The great bridge over the lake is a masterpiece!
 P17: // !!!
 Death and birth.
 Death of Maximilien de Servigny.
-Building year of the MÃ©sange Bridge.
+Building year of the Mésange Bridge.
 
 
 - La Tourvelle earldom
