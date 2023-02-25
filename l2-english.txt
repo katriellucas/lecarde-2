@@ -1678,8 +1678,8 @@ P3: // !!!
 
 
 P4: // !!!
-â†GARDEN
-â†’ TRIANON
+← GARDEN
+→ TRIANON
 
 
 P5:
