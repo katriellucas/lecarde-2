@@ -1610,8 +1610,8 @@ P7: // !!!
 
 
 P8: // !!!
-â† UNDERGROUND CAVE
-â†’ HORROR GALLERY
+← UNDERGROUND CAVE
+→ HORROR GALLERY
 
 
 P9: // !!!
