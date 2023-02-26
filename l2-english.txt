@@ -1991,8 +1991,8 @@ P1: // !!!
 Four angels lead the path...
 
 P2: // !!!
-â† ALTAR
-â†’ UNDERGROUND AQUEDUCT
+← ALTAR
+→ UNDERGROUND AQUEDUCT
 
 P3:
 Come Lucifer... Rise from the depths of Hell. 
