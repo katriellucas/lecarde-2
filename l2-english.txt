@@ -1786,7 +1786,7 @@ P2: // !!!
 The clock's hands move strangely...
 
 P3: // !!!
-Iâ€™m so tiredâ€¦
+I'm so tired...
 
 
 P4: // !!!
