@@ -1561,7 +1561,7 @@ P44:
 In order to complete the ritual you need the blood of an innocent young girl.
 
 P45: // !!!
-Itâ€™s very important because without it the result could be very uncertainâ€¦
+It's very important because without it the result could be very uncertain...
 
 P46:
 Castle of Eternal Night 
