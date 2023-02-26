@@ -1436,7 +1436,7 @@ P6:
 A surge of power from the book has overcome your WILL and taken hold of your soul.
 
 P7: // !!!
-Your WILL has overcome the bookâ€™s evil power.
+Your WILL has overcome the book's evil power.
 
 P8:
 The gate has reacted to the SKULL EMBLEM.
