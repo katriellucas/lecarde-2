@@ -1815,7 +1815,7 @@ P11:
 Indeed you are a worthy opponent. 
 
 P12: // !!!
-Prepare to dieâ€¦
+Prepare to die...
 
 P13:
 Finally, i have found it!
