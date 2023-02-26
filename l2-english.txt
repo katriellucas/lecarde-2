@@ -1796,7 +1796,7 @@ P5: // !!!
 I can now rest in peace. Farewellâ€¦
 
 P6: // !!!
-Itâ€™s written â€œPOISONâ€ on the label.
+It's written "POISON" on the label.
 
 P7: // !!!
 It was disgusting â€¦ A very violent pain engulfs your bodyâ€¦And then your heartbeat stopsâ€¦
