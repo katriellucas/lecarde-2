@@ -1845,7 +1845,7 @@ P21:
 This room contains everything you need for your preferred way to die.
 
 P22: // !!!
-Choose your deathâ€¦.
+Choose your death...
 
 P23:
 But I cannot allow you to go any further.
