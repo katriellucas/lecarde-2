@@ -1783,7 +1783,7 @@ P1:
 The gate has reacted to the SKULL EMBLEM.
 
 P2: // !!!
-The clockâ€™s hands move strangelyâ€¦
+The clock's hands move strangely...
 
 P3: // !!!
 Iâ€™m so tiredâ€¦
