@@ -2010,7 +2010,7 @@ P7:
 This cannot be! The ritual is incomplete!
 
 P8: // !!!
-DIEâ€¦
+DIE...
 
 P9: // !!!
 Something can be inserted in the pedestal of this statue...
