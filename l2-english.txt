@@ -1509,8 +1509,8 @@ P28:
 Pages have been torn off.
 
 P29: // !!!
-â† PRINCELY ROOMS
-â†’ ANCIENT LIBRARY
+← PRINCELY ROOMS
+→ ANCIENT LIBRARY
 
 
 P30: // !!!
