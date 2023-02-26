@@ -1799,7 +1799,7 @@ P6: // !!!
 It's written "POISON" on the label.
 
 P7: // !!!
-It was disgusting â€¦ A very violent pain engulfs your bodyâ€¦And then your heartbeat stopsâ€¦
+It was disgusting... A very violent pain engulfs your body... And then your heartbeat stops...!
 
 P8:
 A powerful force has neutralized the poison effect!
