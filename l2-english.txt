@@ -1402,8 +1402,8 @@ P4: // !!!
 
 
 P5: // !!!
-â† CASTLE CLOCKWORK
-â†’ PRINCELY ROOMS
+← CASTLE CLOCKWORK
+→ PRINCELY ROOMS
 
 
 P6: // !!!
