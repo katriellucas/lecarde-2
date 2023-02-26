@@ -1055,7 +1055,141 @@ Death of Maximilien de Servigny.
 Building year of the Mésange Bridge.
 
 
-- La Tourvelle earldom
+La Tourvelle earldom
+
+P1:
+EAST-
+Earldom of Servigny
+
+P2:
+Guillecourt Duchy
+You are entering the La Tourvelle Earldom.
+
+P3:
+WEST-
+Isigny Plains
+
+P4:
+EAST-
+Isigny Woods
+
+P5:
+NORTH-
+Noyon Swamp
+
+P6:
+WEST-
+Isigny Mountains
+Rivoire Cave
+
+P7:
+HELOISE DE LA TOURVELLE
+(1720-1745)
+Denied her family. Shame be upon her.
+
+P8:
+The La Tourvelle family had turned evil.
+I will help you. Take this item.
+
+P9:
+Farewell...
+
+P10:
+EAST-
+Isigny Plains
+Rivoire Cave
+
+P11:
+WEST-
+Isigny Village
+
+P12:
+SOUTH-
+Isigny Plains
+
+P13:
+Be careful traveler!
+The air ahead is poisonous.
+
+P14:
+EAST-
+Isigny Village
+
+P15:
+WEST-
+La Perdrix Falls
+
+P16:
+Beyond this post you will be frozen to death...
+Nicolas Xavier De La Tourvelle.
+
+P17:
+EAST-
+La Perdrix Mountains
+
+P18:
+WEST-
+La Perdrix Narrow pass
+
+P19:
+WEST-
+Sarelle Mountains
+
+P20:
+EAST-
+La Perdrix Narrow pass
+
+P21:
+Sarelle Cemetery.
+May God be gracious to us.
+
+P22:
+You have used the WIND BELL.
+
+P23: // !!!
+Hello, Iâ€™m Gabrielle de La Tourvelle. I was condemned to live here for the rest of my life.
+
+P24:
+I would like to see the 8 BLACK ORBS. They are breathtaking..
+
+P25:
+The 8 BLACK ORBS are so beautiful. 
+
+P26:
+Take this. I found it a long time ago, it will help you in your quest.
+
+P27: // !!!
+I can now rest in peaceâ€¦
+
+
+- Sautelle cemetery
+
+P1:
+We are gathered here today to celebrate the life of our friend.
+
+P2:
+He has now returned to his home with Our God, The Father.
+
+P3:
+Let us go in peace to live out the Word of God.
+
+P4:
+Rest in peace our beloved..
+
+P5:
+Efrain Lecarde..
+
+P6:
+It says: 3-B-2 times.
+
+P7:
+It says: 1-C-3 times.
+
+P8:
+It says: 2-A-5 times.
+
+
+- La Tourvelle castle
 
 P1:
 You have used the WIND BELL.
@@ -1087,7 +1221,7 @@ The great castle of the La Tourvelle family stands there.
 P9:
 This looks strange:
 - I Gold          - II Gold
--III Silver       -IV Silver
+- III Silver      - IV Silver
 
 P10:
 Earldom of La Tourvelle
