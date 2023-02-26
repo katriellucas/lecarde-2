@@ -2013,7 +2013,7 @@ P8: // !!!
 DIEâ€¦
 
 P9: // !!!
-Something can be inserted in the pedestal of this statueâ€¦
+Something can be inserted in the pedestal of this statue...
 
 P10: // !!!
 Forgive me... Prince of Darkness...
