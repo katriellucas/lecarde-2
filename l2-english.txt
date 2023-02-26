@@ -1833,7 +1833,7 @@ P17:
 I must return to my slumber and leave you to restore peace.
 
 P18: // !!!
-Farewell Lecardeâ€¦
+Farewell Lecarde...
 
 P19:
 Words are carved here...
