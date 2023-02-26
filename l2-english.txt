@@ -1853,7 +1853,7 @@ But I cannot allow you to go any further.
 
 - Altar
 
-P1:
+P1: // !!!
 Four angels lead the pathâ€¦
 
 P2: // !!!
