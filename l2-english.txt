@@ -1790,7 +1790,7 @@ I'm so tired...
 
 
 P4: // !!!
-I wonâ€™t need this weapon anymore.
+I won't need this weapon anymore.
 
 P5: // !!!
 I can now rest in peace. Farewellâ€¦
