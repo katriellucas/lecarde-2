@@ -1469,7 +1469,7 @@ Castle of Eternal Night
 Garden of the Dead
 
 P17: // !!!
-A beautiful, green underground graveyard lies deep under the castle. Itâ€™s called the Garden of the Dead.
+A beautiful, green underground graveyard lies deep under the castle. It's called the Garden of the Dead.
 
 P18:
 Beautiful flowers can blossom in that dark place, thanks to the light brought by Lucifer.
