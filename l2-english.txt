@@ -1631,8 +1631,8 @@ P1: // !!!
 
 
 P2: // !!!
-â† FOUR SEASONS HALL
-â†’ CHAMBER OF ILLUSIONS
+← FOUR SEASONS HALL
+→ CHAMBER OF ILLUSIONS
 
 
 - Underground Caves
