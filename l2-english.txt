@@ -1793,7 +1793,7 @@ P4: // !!!
 I won't need this weapon anymore.
 
 P5: // !!!
-I can now rest in peace. Farewellâ€¦
+I can now rest in peace. Farewell...
 
 P6: // !!!
 It's written "POISON" on the label.
