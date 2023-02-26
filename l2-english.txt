@@ -1147,7 +1147,7 @@ P22:
 You have used the WIND BELL.
 
 P23: // !!!
-Hello, Iâ€™m Gabrielle de La Tourvelle. I was condemned to live here for the rest of my life.
+Hello, I'm Gabrielle de La Tourvelle. I was condemned to live here for the rest of my life.
 
 P24:
 I would like to see the 8 BLACK ORBS. They are breathtaking..
