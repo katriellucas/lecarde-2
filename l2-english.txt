@@ -1839,7 +1839,7 @@ P19:
 Words are carved here...
 
 P20: // !!!
-Welcome to the end of your life. You will never leave this placeâ€¦
+Welcome to the end of your life. You will never leave this place...
 
 P21:
 This room contains everything you need for your preferred way to die.
