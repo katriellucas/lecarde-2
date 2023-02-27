@@ -11,6 +11,7 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 `FIXED` - Some illumination effects.  
 `FIXED` - In game timer never moved foward.  
 `FIXED` - Centered wrongly aligned text.  
+`FIXED` - Warp room wrong color.  
 
 #### [0.1.1] - 2023-02-25
 
