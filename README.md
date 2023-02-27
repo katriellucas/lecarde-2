@@ -4,6 +4,14 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 ## Changelog
 
+#### [0.2.0] - 2023-02-26
+
+`CHANGED` - How trasparency works, it should behave more like the original.  
+`FIXED` - More transparency errors (mostly waterfalls).  
+`FIXED` - Some illumination effects. 
+`FIXED` - In game timer never moved foward.  
+`FIXED` - Centered wrongly aligned text.  
+
 #### [0.1.1] - 2023-02-25
 
 `CHANGED` - Keep sounds when unfocused for better streaming experience <sup>(Recommended by Jupiter Climb)</sup>  
