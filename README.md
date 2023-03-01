@@ -4,6 +4,13 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 ## Changelog
 
+#### [0.2.1] - 2023-02-28
+
+`FIXED` - More transparency errors related to enemies.  
+`FIXED` - Most if not all illumination effects.  
+`FIXED` - Fullscreen bug on music box.  
+`FIXED` - Center aligned boss rush and HUD text.  
+
 #### [0.2.0] - 2023-02-26
 
 `CHANGED` - How trasparency works, it should behave more like the original.  
