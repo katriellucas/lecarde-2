@@ -1,10 +1,11 @@
 ## Description
 Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami Games. Due to a HDD failure, the original source have been lost, this repo exists not only for preservation purposes but also to help us fix the code and languages that were corrupted in the recovering process.
+Unfortunately due to the issue of decompile tools, all non-English letters are corrupted. So this project might need several translators to fix (or re-translate) dialogue in non-English languages.
 
 ## Disclaimer
 We contacted Migami Games and have got approval to keep this repository up.  
 
-Lecarde Chronicles 2 got permission by KONAMI to release it as its current shape, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is a KONAMI IP, support the company by buying their official releases. 
+As Lecarde Chronicles 2 got permission by KONAMI to release it as it is, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is a KONAMI IP, please support the company by buying their official releases, if possible. 
 
 ## Changelog
 
