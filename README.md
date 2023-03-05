@@ -4,6 +4,12 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 ## Changelog
 
+#### [0.3.0] - 2023-03-04
+
+`FIXED` - All english text.  
+`FIXED` - Fog on entrance of Castle of Eternal Night in Albaret.  
+`FIXED` - Center aligned current saving location on loading file.  
+
 #### [0.2.1] - 2023-02-28
 
 `FIXED` - More transparency errors related to enemies.  
