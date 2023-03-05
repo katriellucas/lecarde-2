@@ -1,11 +1,17 @@
 ## Description
-Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami Games. Due to a HDD failure, the original source have been lost, this repo exists not only for preservation purposes but also to help us fix the code and languages that were corrupted in the recovering process.
-Unfortunately due to the issue of decompile tools, all non-English letters are corrupted. So this project might need several translators to fix (or re-translate) dialogue in non-English languages.
+Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami Games. Due to a HDD failure, the original source have been lost. This repo is an atempt to preserve, fix and improve this game.  
+Unfortunately, the recovery process ended up corrupting all non-English characters, many transparency effects and more. This project might need several translators to fix (or re-translate) the dialogue for non-English languages, such as:  
+- French
+- Spanish
+- German
+- Italian
+- Japanese
+- Brazilian Portuguese
 
 ## Disclaimer
-We contacted Migami Games and have got approval to keep this repository up.  
+We contacted Migami Games and got approval to keep this repository up.  
 
-As Lecarde Chronicles 2 got permission by KONAMI to release it as it is, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is a KONAMI IP, please support the company by buying their official releases, if possible. 
+The release of Lecarde Chronicles 2 got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases. 
 
 ## Changelog
 
@@ -63,6 +69,7 @@ As Lecarde Chronicles 2 got permission by KONAMI to release it as it is, the gam
 ## Thanks
 - Migami Games
 - Konami
+- Robert Belgrade
 - palmymkgames
 - Aceearly1993
 - mashedpotatoes312
