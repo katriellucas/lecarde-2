@@ -2038,3 +2038,111 @@ Before the endless night, there will be endless day.
 
 P17:
 Come face me! Your faith will not save you!
+
+
+- Music xbox // (yes, these pages have multiple P1s)
+
+P1: // page title
+Music Box
+----------------------------------------------------
+P1: // return option
+RETURN
+
+
+- Boss rush results & Boss rush results Alucard
+
+P1: // RANKING
+RANKING
+-----------------------------------------------
+P1:
+POOR
+
+P2:
+AVERAGE
+
+P3:
+GOOD
+
+P4:
+GREAT
+
+P5:
+BEST
+
+
+- Super load
+
+P1:
+NEW GAME
+
+P7:
+LOAD GAME
+------------
+P1:
+Saint Anselme
+
+P2:
+Dark Forest
+
+P3:
+Gondre Mine
+
+P4:
+Isigny
+
+P5:
+Rivoire Cave
+
+P6:
+Sarelle Cemetery
+
+P7:
+La Tourvelle Castle
+
+P8:
+Delbasse City
+
+P9:
+St Justine
+
+P10:
+Guernon university
+
+P11:
+Main Hall
+
+P12:
+Clockwork
+
+P13:
+Four Seasons Hall
+
+P14:
+Underground Caves
+
+P15:
+Underground Caves
+
+P16:
+Trianon
+
+P17:
+Garden of the Dead
+
+P18:
+Chamber of Illusion
+
+P19:
+Princely Rooms
+
+P20:
+Princely Rooms
+
+P21:
+Altar
+
+P22:
+Ancient Library
+
+P23:
+Servigny Mansion
