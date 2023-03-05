@@ -8,6 +8,11 @@ Lecarde Chronicles 2 got official permission by KONAMI, the game and its assets 
 
 ## Changelog
 
+#### [0.3.1] - 2023-03-05
+
+`FIXED` - One name on english credit text.  
+`FIXED` - Centered a few text lines on boss rush and new/loading file.  
+
 #### [0.3.0] - 2023-03-04
 
 `FIXED` - All english text.  
