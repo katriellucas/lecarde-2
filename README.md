@@ -1,6 +1,7 @@
 ## Description
-Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami Games. Due to a HDD failure, the original source have been lost. This repo is an atempt to preserve, fix and improve this game.  
-Unfortunately, the recovery process ended up corrupting all non-English characters, many transparency effects and more. This project might need several translators to fix (or re-translate) the dialogue for non-English languages, such as:  
+Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami Games. Due to a HDD failure, the original source have been lost. This repo is an atempt to preserve, fix and improve this game.
+
+Unfortunately, the recovery process ended up corrupting all non-English characters, many transparency effects and more. So, if you know any of the following languages and is interested in helping us out by fixing and re-translating this project, feel free to contact us, we are in need of:
 - French
 - Spanish
 - German
@@ -14,6 +15,10 @@ We contacted Migami Games and got approval to keep this repository up.
 The release of Lecarde Chronicles 2 got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases. 
 
 ## Changelog
+
+#### [0.3.2] - 2023-03-05
+
+`FIXED` - More reported transparency error.  
 
 #### [0.3.1] - 2023-03-05
 
