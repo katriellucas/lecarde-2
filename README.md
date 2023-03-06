@@ -16,6 +16,11 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 
 ## Changelog
 
+#### [0.3.3] - 2023-03-06
+
+`FIXED` - Anna's transparency veil.  
+`FIXED` - Color of last unique event teleporter.  
+
 #### [0.3.2] - 2023-03-05
 
 `FIXED` - More reported transparency error.  
