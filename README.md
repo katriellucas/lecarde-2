@@ -16,6 +16,12 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 
 ## Changelog
 
+#### [0.3.4] - 2023-03-06
+
+`FIXED` - Snowfall transparency effect.  
+`FIXED` - In game music, so it behaves like the original and don't get cutted.  
+`FIXED` - Music at character selection on boss rush screen.  
+
 #### [0.3.3] - 2023-03-06
 
 `FIXED` - Anna's transparency veil.  
