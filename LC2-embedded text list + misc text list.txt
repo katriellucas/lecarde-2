@@ -600,6 +600,8 @@ Frozen Eye
 
 Frozen Bones
 
+Frozen Shade
+
 Death Wall
 
 Caged Corpse
