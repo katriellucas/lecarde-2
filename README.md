@@ -6,8 +6,8 @@ Unfortunately, the recovery process ended up corrupting all non-English characte
 - Spanish
 - German
 - Italian
-- Japanese
-- Brazilian Portuguese
+- ~~Japanese~~ Initial Japanese translation script found! (thanks: theplottwist)
+- ~~Brazilian Portuguese~~ Initial Brazilian Translation script found! (thanks: theplottwist)
 
 ## Disclaimer
 We contacted Migami Games and got approval to keep this repository up.  
@@ -89,5 +89,6 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 - palmymkgames
 - Aceearly1993
 - mashedpotatoes312
+- theplottwist
 
 ... and all the people in game credits.
