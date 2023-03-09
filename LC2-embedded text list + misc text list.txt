@@ -1,0 +1,840 @@
+LC2-embedded text + misc text list
+
+MAIN SCREEN
+NEW GAME
+
+LOAD GAME
+
+CONTROLS
+
+LANGUAGE
+
+BOSS RUSH MODE
+
+RING OF FURY MODE
+
+Joystick 1 is automatically detected.
+
+Unsupported joysticks will not be detected.
+
+In this case you can use Joy2key based the keyboard map.
+
+ATTACK
+
+JUMP
+
+AURA
+
+SPECIAL
+
+SUBSCREEN
+
+MAP
+
+JOYSTICK MAPPING PRESS < SPACE >
+
+PRESS BUTTON FOR
+
+KEYBOARD MAP
+
+BACK TO MAIN SCREEN
+
+
+
+Subscreen
+
+RETURN
+
+ITEMS
+
+EQUIP
+
+RELICS
+
+GUIDE
+
+ENEMY CHART
+
+
+
+BASIC CONTROLS
+
+Jump
+
+Jump down
+
+Crouch
+
+Attack
+
+Subweapon
+
+Enter/speak
+
+Charge/ unleash Aura blast
+
+Aura type change
+
+Grab rope/ ring
+
+Slide down on rope
+
+Engage/ use a stairway
+
+Enter the map
+
+Enter the subscreen
+
+SPECIAL SKILLS
+
+Slide Move
+
+Double Jump
+
+Triple Jump
+
+Air Dash
+
+Whirlwind
+
+Air Float
+
+When Efrain is standing on the ground.
+
+When Efrain is standing on stairs or on specific platforms.
+
+When Efrain is on the ground.
+
+While Efrain is on the ground or hanging from a rope.
+
+When Efrain is standing on the ground or is in mid-air. Hearts consumption.
+
+When Efrain is standing in front of someone or a path.
+
+When Efrain is standing on the ground. Hearts consumption. Hold down, then release when the desired level is reached.
+
+When Efrain doesn't charge the Aura blast.
+
+Jump towards the rope or ring.
+
+While hanging from a rope. Hold down
+
+Efrain is in front of a stairway.
+
+
+When Efrain is crouching.
+
+While Efrain is in mid-air.
+
+When Efrain is in mid-air. After a double jump.
+
+While Efrain is in mid-air or hanging from a rope or ring.
+
+When Efrain is standing on the ground.
+
+While Efrain is in mid-air.
+
+
+
+??? When Efrain is on the ground or hanging on a rope/ring.
+
+
+
+
+
+Indicates the amount of damage dealt to the enemies.
+
+Indicates the capacity to resist against enemy attacks.
+
+Determines the enemies' rare item drop rate.
+
+Determines the critical attack's success rate.
+
+Curse   Halves Efrain's attack power.
+
+Poisoned   Efrain will lose life points over the course of time.
+
+Disabled   Efrain cannot use subweapons.
+
+Stunned   Efrain cannot use the Aura Blast.
+
+Weak   Drasticaly lowers Efrain's defense.
+
+< Space > Pause game
+
+<F2 > Reset
+
+<Esc> Quit Game
+
+
+Objects description
+
+Recovery Potion
+ Note: This could also just be called Potion 
+
+High Recovery
+Note: This could also be called high potion
+
+Ex Recovery
+Note: This could also be called Ex Potion
+
+Elixir
+
+
+Uncurse
+
+
+Antidote
+Note: This was called Serum in SOTN
+
+Capability Potion
+
+
+Focus Potion
+
+
+Screen Water
+
+
+Clear Water
+
+
+
+
+
+Short Sword
+
+
+Broad Sword
+
+
+Mace
+
+
+Hatchet
+
+
+Light Saber
+
+
+Bekatowa
+
+
+Courtoise
+
+
+Tyrfing
+
+
+Battle Mace
+
+
+Destroyer
+
+
+Nothung
+
+
+Durandal
+
+
+Von Viltheim Sword
+
+
+Lecarde Sword
+
+
+Alucard Sword
+
+
+Le Carde Sword
+
+
+
+
+
+Leather Armor
+
+
+Bronze Cuirass
+
+
+Ring Mail
+
+
+Iron Armor
+
+
+Steel Cuirass
+
+
+Hard Armor
+
+
+Golden Ring Mail
+
+
+Platinum Armor
+
+
+Heavenly Plate
+
+
+Spike Armor
+
+
+Von Viltheim Plate
+
+
+Fire Garb
+
+
+Zodiac Armor
+
+
+White Armor
+
+
+Guard Armor
+
+
+Black Armor
+
+
+
+
+
+
+Lecarde Headband
+
+
+Mask of Zoe
+
+
+Mask of the Moon
+
+
+Aura Headband
+
+
+Neptune Helmet
+
+
+Mask of Vision
+
+
+Circlet of Light
+
+
+Silver Mask
+
+
+Circlet of Will
+
+
+Von Viltheim Helmet
+
+
+Gale Headband
+
+
+Retain Mask
+
+
+Snake Headband
+
+
+Serenity Circlet
+
+
+Raven Headband
+
+
+Feather Headband
+
+
+
+
+
+
+Lecarde Ring
+
+
+Turquoise
+
+
+Lucky Ring
+
+
+Ring of Arcana
+
+
+Bronze Ring
+
+
+Iron Ring
+
+
+Crimson ring
+
+
+Ring of Mars
+
+
+Protector
+
+
+Safe Ring
+
+
+Shield ring
+
+
+Angel Ring
+
+
+Guardian Ring
+
+
+Von Viltheim Ring
+
+
+Ring of Fury
+
+
+Jupiter Ring
+
+
+
+
+
+
+Lecarde Cross
+
+
+Storm Pendant
+
+
+Rage Pendant
+
+
+Assault Pendant
+
+
+Green Necklace
+
+
+Blue Necklace
+
+
+White Necklace
+
+
+Red Necklace
+
+
+Yellow Necklace
+
+
+Mithridate Collar
+
+
+Prayer Collar
+
+
+Concentration Collar
+
+
+Resist Collar
+
+
+Wall Collar
+
+
+Divine Collar
+
+
+Von Viltheim Pendant
+
+
+
+
+
+Dagger
+
+Axe 
+
+Cross
+
+Jewel
+
+Holy Water
+
+
+
+
+
+
+
+CUTSCENES
+
+CUTSCENE 1
+
+1781  Outskirts of Rome
+Five years after his great victory against the evil Von Viltheim Family, Efrain Lecarde, the Knight of The Church, was summoned by the Pope. 
+The most troubling events had been reported somewhere in France. 
+Efrain was about to enter the worst nightmare a man can face¡­ 
+
+
+
+TEXT EMBEDDED IN ENDING PICTURE
+
+Ending C BAD ENDING
+You cannot accept such a cruel fate. Continue your investigations and get a better destiny¡­
+
+Ending B AVERAGE ENDING
+This is not that bad but you can do better. There is something that you have overlooked, find it out and enter the legend¡­
+
+Ending A BEST ENDING
+You are indeed the greatest hero of your time. You have deserved a good rest, but if you want you could try the BOSS RUSH MODE.
+
+BOSS RUSH MODE UNLOCKED.
+
+
+
+
+ENEMY CHART
+
+PAGE 1
+
+Skeleton
+
+Roman Zombie
+
+Spider
+
+Dead Fea Man
+
+Bat
+
+Roman Skeleton
+
+Colossus
+
+Medusa Statue
+
+Stone Snake
+
+Giant Crow
+
+Troll
+
+Slime Eye
+
+Fish
+
+Big Wasp
+
+Hive
+
+Living Blood
+
+Grass Man
+
+Zombie
+
+Hanged
+
+
+PAGE 2
+
+Possessed Tree
+
+Plant
+
+Dead Medusa
+
+Hand
+
+Bone Dragon
+
+Cog
+
+Upended Demon
+
+Dressed Skcleton
+
+Ectoplasm
+
+Bone Pillar
+
+Jeanne de Servigny
+
+Count Servigny
+
+Mega Raven
+
+Tarentul
+
+Death Mushroom
+
+Snake
+
+Flea Man
+
+Bird
+
+Black panther
+
+
+
+PAGE 3
+
+Frozen Eye
+
+Frozen Bones
+
+Death Wall
+
+Caged Corpse
+
+Gaged Hand
+
+Mud Man
+
+Ghost Skull
+
+Medusa Head
+
+Frozen Skull
+
+Wharg
+
+Blood Skeleton
+
+Spectral Girl
+
+Tombstone
+
+Widow
+
+Efrain Fake
+
+Poisoned Ectoplasm
+
+Upended Yorick
+
+Hornet
+
+
+
+PAGE 4
+
+Schmoo
+
+Bow Knight
+
+Count La Tourvelle
+
+Lotus Corpse
+
+Balloon Pod
+
+Fatal Chest
+
+Floating Eye
+
+Horned Bat
+
+Merman
+
+Hunter Skeleton
+
+Whitered Plant
+
+Urchin
+
+Decarabia
+
+Jelly Fish
+
+Dark Nun
+
+Mygale Spider
+
+Red Ectoplasm
+
+Constance D'Albaret
+
+Large Slime
+
+
+
+PAGE 5
+
+Living Curse
+
+Wicked Scientist
+
+Poltergeist
+
+Corpse Guest
+
+Golden Skeleton
+
+Head
+
+Slogra
+
+Headless Zombie
+
+Murderer
+
+Wicked Head
+
+Golden Dragon
+
+Occupied Wheel
+
+Dark Wanderer
+
+Malus
+
+Spell Book
+
+Trap Statue
+
+Giant Fish
+
+Death Plant
+
+Lost Head
+
+
+
+PAGE 6
+
+Two Headed Skeleton
+
+Bust
+
+Flying Picture
+
+Modern Art
+
+Artwork
+
+Hell Picture
+
+Autumn Man
+
+Grave Digger
+
+Ice Bird
+
+Frozen Mask
+
+Water Element
+
+Water Spirit
+
+White Flower
+
+Nightmare Plant
+
+Weed
+
+Cursed Skeleton
+
+Golden Pillar
+
+Fire Shade
+
+Blood Barrel
+
+
+
+
+PAGE 7
+
+Bloody Zombie
+
+Giant Skeleton
+
+Necromancer
+
+Cage
+
+Arachne
+
+Nephilia
+
+Stone Rose
+
+Carpet
+
+Clothes
+
+Axe Armor
+
+Yellow Ectoplasm
+
+Pudding
+
+Lost Skull
+
+Lady Zombie
+
+Sedan Chair
+
+Flowers Maid
+
+Anna Von Viltheim
+
+Leviathan
+
+Goliath
+
+
+
+
+PAGE 8
+
+Devil Worshipper A
+
+Devil Worshipper B
+
+Hunting Girl
+
+Decorative Head
+
+Illusionist
+
+Devil Worshipper C
+
+Bow Master
+
+Balkan
+
+Shroud
+
+Gaibon
+
+Evil Slogra
+
+Death
+
+Duke Guillecourt
+
+Servigny Shadow
+
+La Tourvelle Shadow
+
+Albaret Shadow
+
+Angel of Death
+
+Altered Lucifer
+
+Efrain Fake 2
+
