@@ -663,7 +663,7 @@ P41:
 In some places you can find a strange, red mist.
 
 P42:
-to It's likely that very tormented ghosts lurk nearby.
+So It's likely that very tormented ghosts lurk nearby.
 
 P43:
 A strange bell noise can be heard at the Sarelle Cemetery.
@@ -1609,7 +1609,7 @@ P18:
 Beautiful flowers can blossom in that dark place, thanks to the light brought by Lucifer.
 
 P19:
-Remains of tormented souls rest there for all eternity. The only way to harm her is to wear the 5..." The rest is unreadable.
+Remains of tormented souls rest there for all eternity. One of them is Anna Von Viltheim.
 
 P20:
 The only way to harm her corpse is to wear the 5.. The following is illegible.
@@ -1730,13 +1730,13 @@ P3:
 We must put it down at the source.
 
 P4:
-When this castle appeared, i sensed that my stolen item was somewhere inside of it.
+When this castle appeared, I sensed that my stolen item was somewhere inside of it.
 
 P5:
-Unfortunately i have yet to find it.
+Unfortunately I have yet to find it.
 
 P6:
-Though, i have found other valuable things.
+Though, I have found other valuable things.
 
 P7: // !!!
 ← HORROR GALLERY
@@ -1952,7 +1952,7 @@ P12: // !!!
 Prepare to die...
 
 P13:
-Finally, i have found it!
+Finally, I have found it!
 
 P14:
 My ancestors sword, it was here after all.
