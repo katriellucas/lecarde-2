@@ -482,23 +482,29 @@ CUTSCENE 1
 
 1781  Outskirts of Rome
 Five years after his great victory against the evil Von Viltheim Family, Efrain Lecarde, the Knight of The Church, was summoned by the Pope. 
-The most troubling events had been reported somewhere in France. 
-Efrain was about to enter the worst nightmare a man can face¡­ 
+He must look into report of toubling events in France.
+Efrain is about to enter the worst nightmare imaginable... 
 
 
 
 TEXT EMBEDDED IN ENDING PICTURE
 
 Ending C BAD ENDING
-You cannot accept such a cruel fate. Continue your investigations and get a better destiny¡­
+You cannot accept such a cruel fate. Continue your investigations and get a better destiny...
 
 Ending B AVERAGE ENDING
-This is not that bad but you can do better. There is something that you have overlooked, find it out and enter the legend¡­
+This is not that bad but you can do better. 
+There is something that you have overlooked, find it out and enter the legend...
 
 Ending A BEST ENDING
-You are indeed the greatest hero of your time. You have deserved a good rest, but if you want you could try the BOSS RUSH MODE.
+You are indeed the greatest hero of your time. You have deserved a good rest, but if you want, you could try the BOSS RUSH MODE.
 
 BOSS RUSH MODE UNLOCKED.
+
+
+RING OF FURY MODE SPECIAL ENDING
+
+You're a great hero...
 
 
 
