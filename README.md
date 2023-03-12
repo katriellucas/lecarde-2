@@ -16,6 +16,12 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 
 ## Changelog
 
+#### [0.4.0] - 2023-03-12
+
+`ADDED` - Reintroduced text anti-aliasing.  
+`FIXED` - Some transparent effects: Bubble enemies and its projectiles, rain and broken glass on Nightmare plant.  
+`FIXED` - Some typos on english text.  
+
 #### [0.3.4] - 2023-03-06
 
 `FIXED` - Snowfall transparency effect.  
