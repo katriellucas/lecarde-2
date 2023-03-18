@@ -96,5 +96,6 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 - Aceearly1993
 - mashedpotatoes312
 - theplottwist
+- 狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)
 
 ... and all the people in game credits.
