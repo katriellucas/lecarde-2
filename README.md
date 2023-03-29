@@ -16,6 +16,12 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 
 ## Changelog
 
+#### [0.4.1] - 2023-03-29
+
+`ADDED` - Languages in progress on the repository.  
+`FIXED` - Transparency: water droplets on Ice Cave, glass prices on Horror Gallery and tubes on Castle Clockwork.  
+`FIXED` - La Tourvelle Castle area name not showing up.  
+
 #### [0.4.0] - 2023-03-12
 
 `ADDED` - Reintroduced text anti-aliasing.  
