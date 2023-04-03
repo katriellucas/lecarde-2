@@ -18,10 +18,10 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 
 #### [0.5.0] - 2023-04-03
 
-`ADDED` - Reintroduced V-Sync to get rid of frame problems on newer computers.
-`ADDED` - Basic info of the game's original developer.
-`FIXED` - Position of most Japanese text.
-`CHANGED` - Japanese translation; it now uses the re-translated script for plain-text parts.
+`ADDED` - Reintroduced V-Sync to get rid of frame problems on newer computers.  
+`ADDED` - Basic info of the game's original developer.  
+`FIXED` - Position of most Japanese text.  
+`CHANGED` - Japanese translation; it now uses the re-translated script for plain-text parts.  
 
 #### [0.4.1] - 2023-03-29
 
