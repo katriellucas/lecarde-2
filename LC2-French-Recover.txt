@@ -1701,7 +1701,7 @@ Le District de La Mésange est le principal du comté.
 
 P15:
 The count's mansion is there. It stands in a huge valley where a beautiful flower can be found -- the Black Lotus.
-On y trouve le manoir du comte au millieu d’une grande vallée oÃ¹ de magnifiques fleurs peuvent être trouvées : les LOTUS NOIRS.
+On y trouve le manoir du comte au millieu d’une grande vallée où de magnifiques fleurs peuvent être trouvées : les LOTUS NOIRS.
 
 P16:
 The great bridge over the lake is a masterpiece!
