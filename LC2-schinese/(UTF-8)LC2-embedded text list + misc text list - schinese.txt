@@ -1,0 +1,873 @@
+LC2-embedded text + misc text list
+
+MAIN SCREEN
+
+NEW GAME
+新开游戏
+
+LOAD GAME
+读取游戏进度
+
+CONTROLS
+更改操作
+
+LANGUAGE
+语言选择
+
+BOSS RUSH MODE
+头目连战模式
+
+RING OF FURY MODE
+狂怒戒指模式
+
+Joystick 1 is automatically detected.
+手柄1会被自动检测。
+Unsupported joysticks will not be detected.
+不被支持的手柄不会被检测出来。
+In this case you can use Joy2key based the keyboard map.
+如果遇到这种情况建议使用 Joy2key或者其他工具来进行软件映射。
+ATTACK
+攻击
+JUMP
+跳跃
+AURA
+精神力
+SPECIAL
+特殊行动
+SUBSCREEN
+暂停/菜单
+MAP
+地图
+JOYSTICK MAPPING PRESS < SPACE >
+手柄改键按<空格>
+PRESS BUTTON FOR
+按下对应的键
+KEYBOARD MAP
+键盘按键
+BACK TO MAIN SCREEN
+
+
+
+Subscreen
+
+RETURN
+返回
+ITEMS
+消耗道具
+EQUIP
+装备
+RELICS
+魔导器
+GUIDE
+操作指南
+ENEMY CHART
+敌人图鉴
+
+
+BASIC CONTROLS
+基本操作
+Jump
+跳跃
+Jump down
+跳下
+Crouch
+下蹲
+Attack
+攻击
+Subweapon
+副武器
+Enter/speak
+进门/ 调查
+Charge/ unleash Aura blast
+蓄力/ 释放精神力爆发
+Aura type change
+精神力属性变更
+Grab rope/ ring
+抓住吊绳/ 吊环
+Slide down on rope
+从绳子上滑下
+Engage/ use a stairway
+登上楼梯
+Enter the map
+进入地图界面
+Enter the subscreen
+进入暂停菜单
+
+SPECIAL SKILLS
+特殊技能
+Slide Move
+滑铲
+Double Jump
+二段跳
+Triple Jump
+三段跳
+Air Dash
+空中冲刺
+Whirlwind
+旋风斩
+Air Float
+空中悬停
+When Efrain is standing on the ground.
+当艾尔弗林站在地上时使用。
+When Efrain is standing on stairs or on specific platforms.
+当艾尔弗林站在台阶上或特殊的平台上时使用。
+When Efrain is on the ground.
+当艾尔弗林在地上时使用。
+While Efrain is on the ground or hanging from a rope.
+当艾尔弗林在地上或者抓在绳子上时使用。
+When Efrain is standing on the ground or is in mid-air. Hearts consumption.
+当艾尔弗林在地上或者在空中时使用。消耗红心。
+When Efrain is standing in front of someone or a path.
+当艾尔弗林面前有物品可以调查或者有人可以交谈时使用。
+When Efrain is standing on the ground. Hearts consumption. Hold down, then release when the desired level is reached.
+当艾尔弗林站在地上时使用。消耗红心。按住 之后当达到想要的蓄力等级时放开按键。
+When Efrain doesn't charge the Aura blast.
+当艾尔弗林不使用精神力爆发时。
+Jump towards the rope or ring.
+向吊环或绳子的位置跳跃。
+While hanging from a rope. Hold down
+当抓在绳子上时，按住下
+Efrain is in front of a stairway.
+当艾尔弗林在梯子前面时。
+
+When Efrain is crouching.
+当艾尔弗林蹲下时。
+While Efrain is in mid-air.
+当艾尔弗林在空中时。
+When Efrain is in mid-air. After a double jump.
+当艾尔弗林在空中时，在二段跳之后使用。
+While Efrain is in mid-air or hanging from a rope or ring.
+当艾尔弗林在空中或者抓在绳子/吊环上。
+When Efrain is standing on the ground. Hearts consumption.
+当艾尔弗林站在地上时使用。消耗红心。
+While Efrain is in mid-air. Hearts consumption.
+当艾尔弗林在空中时使用。消耗红心。
+
+
+??? When Efrain is on the ground or hanging on a rope/ring.
+
+
+
+
+
+Indicates the amount of damage dealt to the enemies.
+代表给敌人造成的伤害基础值。
+Indicates the capacity to resist against enemy attacks.
+代表能够抵抗敌人伤害的基础值。
+Determines the enemies' rare item drop rate.
+决定敌人的稀有道具掉落率。
+Determines the critical attack's success rate.
+决定临界伤害的出现概率。
+Curse   Halves Efrain's attack power.
+诅咒  艾尔弗林的攻击力减半。
+Poisoned   Efrain will lose life points over the course of time.
+中毒  艾尔弗林会在一定时间内不断减少体力。
+Disabled   Efrain cannot use subweapons.
+剧痛  艾尔弗林不能使用副武器。
+Stunned   Efrain cannot use the Aura Blast.
+晕厥  艾尔弗林不能使用精神力爆发。
+Weak   Drasticaly lowers Efrain's defense.
+虚弱  艾尔弗林的防御力大幅降低。
+< Space > Pause game
+<空格键> 暂停游戏
+<F2 > Reset
+<F2 > 重启游戏
+<Esc> Quit Game
+<Esc> 退出游戏
+
+Objects description
+
+Recovery Potion
+ Note: This could also just be called Potion 
+回复药
+High Recovery
+Note: This could also be called high potion
+大回复药
+Ex Recovery
+Note: This could also be called Ex Potion
+超回复药
+Elixir
+全回复药
+
+Uncurse
+解咒药
+
+Antidote
+Note: This was called Serum in SOTN
+解毒药
+Capability Potion
+祛痛药
+
+Focus Potion
+正气水
+
+Screen Water
+增强药水
+
+Clear Water
+清水
+
+
+
+
+Short Sword
+短剑
+
+Broad Sword
+阔剑
+
+Mace
+长棒
+
+Hatchet
+短柄小斧
+
+Light Saber
+轻剑
+
+Bekatowa
+贝卡托瓦
+
+Courtoise
+绅士轻剑
+
+Tyrfing
+提尔锋
+
+Battle Mace
+战锤
+
+Destroyer
+摧毁者
+
+Nothung
+巴尔姆
+
+Durandal
+杜兰德尔
+
+Von Viltheim Sword
+冯.维尔特海姆之剑
+
+Lecarde Sword
+李卡德之剑
+
+Alucard Sword
+阿鲁卡多之剑
+
+Le Carde Sword
+雷卡德之剑
+
+
+
+
+Leather Armor
+皮革甲
+
+Bronze Cuirass
+青铜护胸
+
+Ring Mail
+圆环铠甲
+
+Iron Armor
+铁护甲
+
+Steel Cuirass
+钢护胸
+
+Hard Armor
+硬铁铠甲
+
+Golden Ring Mail
+黄金圆环护甲
+
+Platinum Armor
+白金护甲
+
+Heavenly Plate
+天堂护甲
+
+Spike Armor
+针刺护甲
+
+Von Viltheim Plate
+冯.维尔特海姆护甲
+
+Fire Garb
+防火服
+
+Zodiac Armor
+十二宫铠甲
+
+White Armor
+白铠甲
+
+Guard Armor
+守卫铠甲
+
+Black Armor
+黑铠甲
+
+
+
+
+
+Lecarde Headband
+李卡德头带
+
+Mask of Zoe
+佐伊面具
+
+Mask of the Moon
+月亮面具
+
+Aura Headband
+精神力头带
+
+Neptune Helmet
+海王星头盔
+
+Mask of Vision
+幻影面具
+
+Circlet of Light
+光明项圈
+
+Silver Mask
+纯银面具
+
+Circlet of Will
+意志头环
+
+Von Viltheim Helmet
+冯.维尔特海姆头盔
+
+Gale Headband
+旋风头带
+
+Retain Mask
+节制面具
+
+Snake Headband
+蛇之头带
+
+Serenity Circlet
+宁静头环
+
+Raven Headband
+乌鸦头带
+
+Feather Headband
+羽毛头带
+
+
+
+
+
+Lecarde Ring
+李卡德戒指
+
+Turquoise
+土耳其玉
+
+Lucky Ring
+幸运戒指
+
+Ring of Arcana
+圣灵戒指
+
+Bronze Ring
+青铜戒指
+
+Iron Ring
+钢铁戒指
+
+Crimson ring
+深红戒指
+
+Ring of Mars
+马尔斯戒指
+
+Protector
+保护戒指
+
+Safe Ring
+安全戒指
+
+Shield ring
+护盾戒指
+
+Angel Ring
+天使戒指
+
+Guardian Ring
+守护者戒指
+
+Von Viltheim Ring
+冯.维尔特海姆戒指
+
+Ring of Fury
+狂怒戒指
+
+Jupiter Ring
+木星戒指
+
+
+
+
+
+Lecarde Cross
+李卡德十字架
+
+Storm Pendant
+风暴项链
+
+Rage Pendant
+激怒项链
+
+Assault Pendant
+暴行项链
+
+Green Necklace
+绿宝石项链
+
+Blue Necklace
+蓝宝石项链
+
+White Necklace
+欧泊项链
+
+Red Necklace
+红宝石项链
+
+Yellow Necklace
+黄宝石项链
+
+Mithridate Collar
+解毒项圈
+
+Prayer Collar
+祈祷者项圈
+
+Concentration Collar
+集中力项圈
+
+Resist Collar
+抵抗项圈
+
+Wall Collar
+坚固项圈
+
+Divine Collar
+神圣项圈
+
+Von Viltheim Pendant
+冯.维尔特海姆项链
+
+
+
+
+Dagger
+匕首
+Axe 
+投斧
+Cross
+十字架
+Jewel
+钻石
+Holy Water
+圣水
+
+
+ferryman
+The opposite shore.
+对面的湖岸
+
+A secret place.
+秘密地点
+
+confirmation
+yes
+是
+
+no
+否
+
+
+
+CUTSCENES
+
+CUTSCENE 1
+
+1781  Outskirts of Rome
+Five years after his great victory against the evil Von Viltheim Family, Efrain Lecarde, the Knight of The Church, was summoned by the Pope. 
+The most troubling events had been reported somewhere in France. 
+Efrain was about to enter the worst nightmare imaginable… 
+
+1781年 罗马的郊外
+在战胜了邪恶的冯.维尔特海姆家族五年以后，艾尔弗林.李卡德，作为教会直属的骑士，被教皇召见了。
+报告中说在法国的各地，发生了危害人类的灵异事件。
+艾尔弗林需要尽快查明真相，但是他进入了他所能想象的最糟糕的的噩梦当中...
+
+TEXT EMBEDDED IN ENDING PICTURE
+
+Ending C BAD ENDING
+结局C 最糟糕的结局
+You cannot accept such a cruel fate. Continue your investigations and get a better destiny…
+你无法接受如此残酷的命运。继续你的冒险，尝试着将你的命运变好一些吧...
+Ending B AVERAGE ENDING
+结局B 普通结局
+This is not that bad but you can do better. There is something that you have overlooked, find it out and enter the legend…
+这个结果没有那么差，但是你应该能做得更好。你可能在冒险中漏掉了什么东西，把它们找齐以后进入传说吧...
+Ending A BEST ENDING
+结局A 最好结局
+You are indeed the greatest hero of your time. You have deserved a good rest, but if you want you could try the BOSS RUSH MODE.
+现在你确实是你这个时代最伟大的英雄。在大战结束之后你应该好好休息一下，不过如果你愿意的话可以挑战头目连战模式。
+
+BOSS RUSH MODE UNLOCKED.
+头目连战模式解锁了。
+
+
+RING OF FURY MODE SPECIAL ENDING
+
+You're a great hero...
+你是伟大的英雄...
+
+ENEMY CHART
+
+PAGE 1
+
+Skeleton
+投骨骷髅
+Roman Zombie
+罗马僵尸
+Spider
+蜘蛛
+Dead Fea Man
+跳蚤男尸骸
+Bat
+蝙蝠
+Roman Skeleton
+罗马骷髅
+Colossus
+角斗士
+Medusa Statue
+美杜莎雕像
+Stone Snake
+石头蛇
+Giant Crow
+大乌鸦
+Troll
+小鬼
+Slime Eye
+史莱姆眼
+Fish
+食人鱼
+Big Wasp
+大马蜂
+Hive
+蜂巢
+Living Blood
+血液寄生体
+Grass Man
+草人
+Zombie
+僵尸
+Hanged
+吊首男
+
+PAGE 2
+
+Possessed Tree
+亡魂树
+Plant
+植物
+Dead Medusa
+美杜莎尸骸
+Hand
+魔手
+Bone Dragon
+骨龙
+Cog
+亡魂齿轮
+Upended Demon
+倒吊恶魔
+Dressed Skeleton
+布衣骷髅
+Ectoplasm
+诅咒魔
+Bone Pillar
+骨柱
+Jeanne de Servigny
+珍妮.德.塞尔维尼
+Count Servigny
+塞尔维尼伯爵
+Mega Raven
+超大乌鸦
+Tarentul
+狼蛛
+Death Mushroom
+死亡蘑菇
+Snake
+毒蛇
+Flea Man
+跳蚤男
+Bird
+鸟
+Black panther
+黑豹
+
+
+PAGE 3
+
+Frozen Eye
+冷冻眼
+Frozen Bones
+冷冻骷髅
+Frozen Shade
+冰之女亡灵
+Death Wall
+死亡墙
+Caged Corpse
+冰封尸骸
+Gaged Hand
+冰封尸骸之手
+Mud Man
+泥人
+Ghost Skull
+亡灵头骨
+Medusa Head
+美杜莎头
+Frozen Skull
+冷冻头骨
+Wharg
+战狼
+Blood Skeleton
+血骷髅
+Spectral Girl
+女亡灵
+Tombstone
+墓碑
+Widow
+寡妇
+Efrain Fake
+生灵
+Poisoned Ectoplasm
+猛毒诅咒魔
+Upended Yorick
+倒立骷髅小子
+Hornet
+蜜蜂
+
+
+PAGE 4
+
+Schmoo
+飞头怨鬼
+Bow Knight
+弓箭骑士
+Count La Tourvelle
+拉.托尔维伯爵
+Lotus Corpse
+莲花尸骸
+Balloon Pod
+气球孢子
+Fatal Chest
+致命木箱
+Floating Eye
+监视眼
+Horned Bat
+长角蝙蝠
+Merman
+半鱼人
+Hunter Skeleton
+猎人骷髅
+Whitered Plant
+白红妖花
+Urchin
+海胆
+Decarabia
+魔海星
+Jelly Fish
+水母
+Dark Nun
+暗黑修女
+Mygale Spider
+泰坦狼蛛
+Red Ectoplasm
+红色诅咒魔
+Constance D'Albaret
+康斯坦丝.蒂.艾尔芭蕾
+Large Slime
+巨大史莱姆
+
+
+PAGE 5
+
+Living Curse
+诅咒生命体
+Wicked Scientist
+邪恶科学家
+Poltergeist
+降灵家具
+Corpse Guest
+幽灵客栈
+Golden Skeleton
+黄金骷髅
+Head
+首
+Slogra
+恶魔枪骑士斯洛格拉
+Headless Zombie
+无头僵尸
+Murderer
+虐杀者
+Wicked Head
+邪恶之头
+Golden Dragon
+黄金骨龙
+Occupied Wheel
+魔化齿轮
+Dark Wanderer
+暗黑游魂
+Malus
+邪恶矮人马鲁斯
+Spell Book
+咒术书
+Trap Statue
+陷阱雕像
+Giant Fish
+巨大鱼
+Death Plant
+死亡花
+Lost Head
+失落头颅
+
+
+PAGE 6
+
+Two Headed Skeleton
+双头骷髅
+Bust
+胸像
+Flying Picture
+飞行画框
+Modern Art
+现代雕塑
+Artwork
+工艺品
+Hell Picture
+地狱画像
+Autumn Man
+秋男
+Grave Digger
+掘墓者骷髅
+Ice Bird
+冰鸟
+Frozen Mask
+极寒面具
+Water Element
+水元素
+Water Spirit
+水精灵
+White Flower
+白花
+Nightmare Plant
+噩梦盆栽
+Weed
+妖草
+Cursed Skeleton
+诅咒骷髅
+Golden Pillar
+黄金骨柱
+Fire Shade
+火之女亡灵
+Blood Barrel
+喷血酒桶
+
+
+
+PAGE 7
+
+Bloody Zombie
+僵尸士兵
+Giant Skeleton
+巨人骷髅
+Necromancer
+亡灵法师
+Cage
+笼子
+Arachne
+阿拉克涅蜘蛛
+Nephilia
+络新妇蛛
+Stone Rose
+石玫瑰
+Carpet
+亡灵地毯
+Clothes
+亡灵衣服
+Axe Armor
+斧装甲
+Yellow Ectoplasm
+黄金诅咒魔
+Pudding
+布丁
+Lost Skull
+失落亡灵头骨
+Lady Zombie
+淑女僵尸
+Sedan Chair
+轿子骷髅
+Flowers Maid
+带花女仆
+Anna Von Viltheim
+安娜.冯.维尔特海姆
+Leviathan
+列维坦
+Goliath
+歌利亚人形
+
+
+
+PAGE 8
+
+Devil Worshipper A
+恶魔仆从A
+Devil Worshipper B
+恶魔仆从B
+Hunting Girl
+尼米西斯
+Decorative Head
+装饰头颅
+Illusionist
+幻术师
+Devil Worshipper C
+恶魔仆从C
+Bow Master
+弓骑士大师
+Balkan
+怨咒巫师巴尔干
+Shroud
+裹尸布
+Gaibon
+恶魔飞骑士贾鹏
+Evil Slogra
+邪灵枪骑士斯洛格拉
+Death
+死神
+Duke Guillecourt
+纪耶古公爵
+Servigny Shadow
+塞尔维尼伯爵幻影
+La Tourvelle Shadow
+拉.托尔维幻影
+Albaret Shadow
+艾尔芭蕾幻影
+Angel of Death
+死亡天使
+Altered Lucifer
+暗黑路西法
+Efrain Fake 2
+生灵镜像
