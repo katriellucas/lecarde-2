@@ -1,0 +1,3238 @@
+- CUTSCENES/ENDINGS
+
+P1:
+After vanquishing the evil looming over Rome, Efrain Lecarde journeyed to France.
+Après son combat contres les forces démoniaques à Rome, Efrain Lecarde voyagea jusqu’en France.
+
+P2:
+Darkness has engulfed the Duchy of Guillecourt. The common people speak of day turning into night and about inhuman creatures lurking in the shadows. Terror has found a home in their hearts, where faith once lived.
+Les ténèbres ont envahi le Duché de Guillecourt. Des créatures monstrueuses errent dans toute la contré et la course du temps se poursuit de manière anormale. La population est terrifiée et prétend avoir été oubliée de Dieu…
+
+P3:
+One night, during his journey, a vision materialized before Efrain's eyes. A damsel overtaken by sorrow asked for his help, vanishing into the night just as suddenly as she had appeared. Who could she be? Does she know anything about the misery of the populace?
+Une nuit pendant le voyage, l’image d’une jeune fille apparût devant les yeux d’Efrain. Elle demanda de l’aide et disparût aussitôt. Qui pouvait elle bien être, était elle liée aux événements annoncés.
+
+P4:
+The Duchy of Guillecourt is formed by three earldoms: Servigny, La Tourvelle and Albaret. 
+Trois comtés  forment le Duché de Guillecourt :
+- Servigny
+- La Tourvelle 
+- Albaret.
+
+P5:
+After many days and nights, Efrain reached Sevigny, where the most important mission of his life was about to begin...
+Après plusieurs jours, Efrain atteignît  le petit village de Saint Anselme à Servigny. La plus importante mission de sa vie était sur le point de commencer.
+
+
+P6:
+Unable to stop the unholy summoning of Lucifer, Efrain met his demise within the depths of the Castle of Eternal Night. His fight against evil lost, Efrain's heroism amounted to dust in the wind.
+Incapable d’arrêter l’invocation de Lucifer, Efrain expira dans les entrailles du Château de la Nuit Eternelle. Son combat contre le mal fût malheureusement  perdu. 
+
+P7:
+Efrain's name was soon forgotten by the many years of bloodshed and destruction to follow. Evil was eventually repelled by other knights of the Church, but the long lost Lecarde name was not part of this legacy...
+Le nom des Lecarde fût rapidement oublié durant les années de malheur et de destruction qui suivirent. D’autres chevaliers de l’Eglise réussirent à repousser les ténèbres mais cela n'était plus l’histoire d’Efrain.
+
+
+P8:
+After a fierce struggle inside the Castle of Eternal Night, Efrain narrowly escaped the collapsing lair. Unfortunately, the same could not be said for Christine...
+Après un combat féroce dans le château de la Nuit Eternelle, Efrain réussît à s’échapper avant l’effondrement de cet endroit maudit.
+
+P9:
+With Duke Guillecourt's successful summoning of Lucifer, many years of bloodshed soon followed. But along with other knights of the Church, Efrain managed to repel the forces of darkness.
+
+Efrain's effort was remembered and honored, but at the cost of countless lives. No honor could spare Efrain from the anguish tormenting him until the last of his days. If only he had stopped the summoning of Lucifer all those years before...
+
+Après l’invocation de Lucifer par le duc de Guillecourt, des années de sang et de destruction ravagèrent le monde. Efrain et les autres chevaliers de l’Eglise parvinrent néanmoins à repousser les forces du mal.
+Le combat d’Efrain fût salué mais la pensée de ces innombrables vies perdues le tourmenta jusqu’à la fin de sa vie.
+
+
+P10:
+
+P11:
+With the defeat of Lucifer, the evil threatening to swallow the world was finally vanquished. Following the relentless battle, the morning sun welcomed Efrain to rest with Christine.
+Après la défaite de Lucifer, la menace lugubre qui pesait sur le monde  disparût pour de bon. Efrain et Christine se reposèrent durant quelques instants dans la fraicheur matinale.
+
+P12:
+A bird appeared on the horizon, and brought the knight a message. It was a letter from Alucard.
+Soudain, un oiseau apparût dans l’horizon et apporta un message au chevalier. C’était une lettre d’Alucard.
+
+P13:
+Lecarde
+
+You are a mighty warrior indeed and worthy of my trust. I have returned to my slumber, but I have something to ask of you. 
+
+The search for my stolen sword took me many places. During my travels I encountered a Doctor bent on defying mortality. I fear if left unchecked, he will become a threat to mankind.
+
+I have left you with directions to my chamber. Travel there to return my sword to me. There will be another powerful weapon waiting there for you. 
+
+Godspeed Lecarde. 
+
+Your friend,
+
+Alucard
+
+
+Lecarde
+
+Tu es un puissant guerrier méritant toute ma confiance. Je suis retourné à mon sommeil mais j’ai quelque chose à te demander.
+
+J’ai cherché mon épée dans de nombreux endroits. Pendant mes voyages j’ai rencontré un docteur voulant défier l’immortalité. J’ai peur que cela ne devienne une menace si personne n’y prête attention.
+
+Je t’ai laissé les indications qui te mèneront à ma « chambre ». Rends-toi-y et apporte-moi mon épée. J’aurais une autre arme encore plus puissante à te remettre.
+
+Bon voyage,
+
+Ton ami Alucard
+
+P14:
+After reporting his quest in Rome, Efrain began his search for Alucard's chamber. Efrain Lecarde's name will forever be engraved in the pages of history.
+Après avoir rapporté sa quete à Rome, Efrain commença à rechercher la chambre d’Alucard.
+
+Le nom d’Efrain Lecarde restera à jamais gravé dans les livres d’histoire…
+
+
+- SUBSCREEN
+
+P1:
+Recover 30 HP.
+Récupérez  30 HP.
+
+P2:
+Recover 70 HP.
+Récupérez  70 HP.
+
+P3:
+Recover 100 HP.
+Récupérez  100 HP.
+
+P4:
+Recover full HP.
+Récupérez  tous les HP.
+
+P5:
+Remove curse.
+Retire l’affliction CURSE
+
+P6:
+Heals poison.
+Guérit l’état POISON.
+
+P7:
+Recover from disabled.
+Retire l’affliction DISABLE.
+
+P8:
+Unstun the user.
+Guérit l’état STUNNED.
+
+P9:
+Recover from weakness.
+Retire l’affliction WEAK.
+
+P10:
+Heals all afflictions.
+Guérit de toutes les afflictions.
+
+P11:
+A basic weapon. Not really powerful.
+Arme de base, peu puissante.
+
+P12:
+A cheap, large sword.
+Arme bon marché.
+
+P13:
+Heavy weapon that can crush weak enemies.
+Arme lourde qui pourfend les ennemis
+
+P14:
+A heavy weapon wielded by strong men.
+Une arme assez lourde.
+
+P15:
+Light but sharp.
+Leger mais affuté.
+
+P16:
+A nice sword used by a great warrior.
+Une belle épée utilisée par un guerrier valeureux.
+
+P17:
+A light sword carried by noblemen.
+Epée légère portée par les nobles.
+
+P18:
+A legendary weapon lost for centuries.
+Une épée légendaire perdue depuis longtemps.
+
+P19:
+A strong weapon for battle.
+Une arme puissante au combat.
+
+P20:
+Crushes enemies.
+Anéantit les ennemis.
+
+P21:
+A legendary weapon used in an ancient holy war.
+Arme légendaire utilisée dans une guerre sainte.
+
+P22:
+The strongest weapon that can be found. Brings hope to the heart of its owner.
+L’arme la plus puissante pouvant être trouvée. Apporte l’espoir.
+
+P23:
+Owned by a famous member of the Von Viltheim Family. Also known as: Rain Slayer.
+Appartenait à un membre de la famille Von Viltheim. Elle est aussi connue comme la « Massacreuse Sous la Pluie »
+
+P24:
+Family sword of the Lecardes. A gift from the Pope Innocent X in 1650.
+Epée appartenant à la famille Lecarde. Fût offerte par le pape Innocent X en 1650.
+
+P25:
+Light and cozy, but grants low protection.
+Légère et élégante mais offre peu de protection.
+
+P26:
+Quite heavy and not really resistant.
+Plutôt lourde et pas si résistante.
+
+P27:
+Cheap and not really fashionable.
+Bon marché mais pas très élégante.
+
+P28:
+Heavy but protective.
+Lourde mais protège bien.
+
+P29:
+Grants great protection.
+Offre une bonne protection.
+
+P30:
+Heavy but very resistant.
+Lourde mais très résistante.
+
+P31:
+Not really fashionable but very expensive.
+Très chère offre une bonne protection. 
+
+P32:
+High protection and a cool color scheme.
+La couleur est très belle de plus elle garantit une excellente protection.
+
+P33:
+A beautiful armor blessed by a French cardinal.
+Magnifique et bénie par un cardinal français.
+
+P34:
+Doesn't grant a good defense, but allows the wearer to traverse pikes without hurting themselves.
+La défense n’est pas très bonne mais grâce à cette armure vous pouvez franchir sans danger les zones couverts de pieux.
+
+P35:
+Not very resistant. It was a gift to the Von Viltheim Family. Must be worn in order to...
+Pas très résistante, appartient à la famille Von Viltheim, nécessaire pour…
+
+P36:
+Mediocre protection, but allows the wearer to walk through fire.
+La protection est médiocre mais vous pouvez franchir sans risque les zones de feu.
+
+P37:
+Increases its owner's faith.
+Donne la foi.
+
+P38:
+Materializes invisible monsters.
+Fait apparaitre les monstres invisibles.
+
+P39:
+Use it to detect breakable walls.
+Permet de détecter les murs cassables.
+
+P40:
+Possesses a great power. Increases the Aura's charging speed.
+Augmente la vitesse de chargement de l’aura.
+
+P41:
+Allows the wearer to stay underwater without drowning.
+Permet à celui qui le porte de rester sous l’eau sans se noyer.
+
+P42:
+Has the power to dispel illusions in the CHAMBER OF ILLUSIONS.
+Permet de révéler les illusions dans LA CHAMBRE DES ILLUSIONS.
+
+P43:
+Produces a field of light that can light up the darkest places.
+Produit une lumière qui permet d’éclairer les endroits les plus sombres.
+
+P44:
+Made to resist the swamps' poisonous atmosphere while crossing them.
+Permet de traverser les marais sans subir leur atmosphère empoisonnée.
+
+P45:
+Protects your mind against orientation troubles.
+Préserve votre esprit contre les troubles de l’orientation.
+
+P46:
+Not really protective. Once belonged to a late Von Viltheim Family member. Nevertheless it's vital for...
+Ne protège pas beaucoup, a appartenu à un membre de la famille Von Viltheim, il vous le faut pour…
+
+P47:
+Belongs to the Lecarde Family ever since 1322.
+Dans la famille depuis 1322
+
+P48:
+A beautiful ring that slightly increases monsters' rare item drop rate.
+Une belle bague qui augmente un peu la possibilité de recevoir les objets rares des ennemis.
+
+P49:
+A strange ring that increases monsters' rare item drop rate.
+Une bague étrange qui augmente assez la possibilité de recevoir les objets rares des ennemis.
+
+P50:
+A mysterious ring that greatly increases monsters' rare item drop rate.
+Une bague mystérieuse qui augmente considérablement la possibilité de recevoir les objets rares des ennemis.
+
+P51:
+Slightly increases attack power.
+Augmente un peu l’attaque.
+
+P52:
+Moderately increases attack power.
+Augmente assez l’attaque.
+
+P53:
+Significantly increases attack power.
+Augmente beaucoup l’attaque.
+
+P54:
+Greatly increases the attack power.
+Augmente considérablement l’attaque.
+
+P55:
+Slightly increases the defense.
+Augmente un peu la défense.
+
+P56:
+Moderately increases the defense.
+Augmente assez la défense.
+
+P57:
+Significantly increases the defense.
+Augment beaucoup la défense.
+
+P58:
+Greatly increases the defense.
+Augmente considérablement la défense.
+
+P59:
+The best defense ring.
+Le meilleur anneau de défense.
+
+P60:
+Slightly increases many statuses. It's also important for...
+Augmente un peu plusieurs statuts, est aussi important pour…
+
+P61:
+Family pendant. Raises its owner's bravery.
+Pendentif appartenant à la famille, augmente la bravoure.
+
+P62:
+Slightly increases the critical rate.
+Augmente un peu le pourcentage d’attaques critiques.
+
+P63:
+Increases the critical rate.
+Augmente assez le pourcentage d’attaques critiques.
+
+P64:
+Greatly increases the critical rate.
+Augmente considérablement le pourcentage d’attaques critiques.
+
+P65:
+Grants 50%  protection against poison status.
+Donne 50% de protection contre POISON.
+
+P66:
+Grants 50%  protection against cursed status.
+Donne 50% de protection contre CURSE.
+
+P67:
+Grants 50%  protection against stunned status.
+Donne 50% de protection contre STUN.
+
+P68:
+Grants 50%  protection against disabled status.
+Donne 50% de protection contre DISABLE.
+
+P69:
+Grants 50%  protection against weak status.
+Donne 50% de protection contre WEAK.
+
+P70:
+Grants full protection against poison status.
+Immunise contre POISON.
+
+P71:
+Grants full protection against cursed status.
+Immunise contre CURSED.
+
+P72:
+Grants full protection against stunned status.
+Immunise contre STUN.
+
+P73:
+Grants full protection against disabled status.
+Immunise contre DISABLE.
+
+P74:
+Grants full protection against weak status.
+Immunise contre WEAK.
+
+P75:
+Grants full protection against all ailments.
+Immunise contre toutes les altérations d’état.
+
+P76:
+Grants 40% protection against all ailments and increases critical rate. It's also required for...
+Donne 40% de protection contre toutes les altérations d’état, également important pour…
+
+P77:
+DOUBLE SHOT: Shoots 2 subweapons in a row.
+DOUBLE TIR: Lancez deux armes secondaires à la suite.
+
+P78:
+TRIPLE SHOT: Shoot 3 subweapons in a row.
+TRIPLE TIR: Lancez trois armes secondaires à la suite.
+
+P79:
+QUADRUPLE SHOT: Shoot 4 subweapons in a row.
+QUADRUPLE TIR: Lancez quatre armes secondaires à la suite.
+
+P80:
+BACKPACK: Increases your capacity to carry potions.
+SAC A DOS: Augmente votre capacité à transporter des potions.
+
+P81:
+LARGE BACKPACK: Get maximum capacity to carry potions.
+GRAND SAC A DOS: Augmente au maximum votre capacité à transporter des potions.
+
+P82:
+RED MIRROR: Reveals ghosts in the red mist rooms.
+MIROIR ROUGE: Fait apparaitre les fantômes des salles enveloppées de brume rouge.
+
+P83:
+SKULL EMBLEM: Opens the Skull Doors dispersed in the Castle of Eternal Night.
+ EMBLEME A TETE DE MORT: Ouvre les portes à tête de mort dispersées dans le Château de la Nuit Eternelle.
+
+P84:
+CRYSTAL ROSE: Increases the Liese's Recover's effectiveness.
+ROSE DE CRISTAL: Augmente l’efficacité de l’Aura Blast LIESE’S RECOVER.
+
+P85:
+BRONZE KEY: Opens the door of Servigny Mansion.
+CLEF DE BRONZE: Ouvre une porte dans le Manoir de Servigny.
+
+P86:
+SILVER KEY: Opens a door in Sainte Justine Convent.
+CLEF D’ARGENT: Ouvre une porte dans le Couvent de Sainte Justine.
+
+P87:
+GOLD KEY: Opens a door in  the Entrance Hall of the Castle of Eternal Night.
+CLEF EN OR: Ouvre une porte dans le Château de la Nuit Eternelle.
+
+P88:
+GOLDEN PILGRIM STATUETTE: Grants the skill of SLIDE MOVE.
+PELERIN D’OR: Donne l’aptitude GLISSADE.
+
+P89:
+GOLDEN WIND STATUETTE: Grants the power of WHIRLWIND ATTACK level 2.
+TOURBILLON D’OR: Donne l’aptitude TOURBILLON niveau 2.
+
+P90:
+GOLDEN ANGEL STATUETTE: Grants the power of TRIPLE JUMP.
+ANGE D’OR: Donne l’aptitude TRIPLE SAUT.
+
+P91:
+GOLDEN EAGLE STATUETTE: Grants the power of DOUBLE AIR DASH.
+AIGLE D’OR: Donne l’aptitude DOUBLE AIR DASH.
+
+P92:
+GOLDEN MEDUSA STATUETTE: Grants the power of AIR FLOAT.
+MEDUSA D’OR: Donne le pouvoir de SUSPENSION.
+
+P93:
+SILVER FLUTE: Produces a nice sound that calls the ferryman.
+FLUTE D’ARGENT: Produit un son agréable qui appelle le passeur du lac.
+
+P94:
+GOLD FLUTE: Produces a pure sound.
+FLUTE D’OR: Produit un son pur.
+
+P95:
+SPECTRAL STAFF: Allows the user to enter cursed mirrors.
+SCEPTRE SPECTRAL: Permet d'entrer dans les miroirs verts.
+
+P96:
+BLOOD STAFF: The incrusted blood gem detects the location of BLACK ORBS on the map.
+SCEPTRE DE SANG: Le joyau rouge incrusté permet de détecter les GLOBES NOIRS sur votre carte.
+
+P97:
+SILVER WIND STATUETTE: Grants the power of WHIRLWIND ATTACK level 1.
+TOURBILLON D’ARGENT: Donne le pouvoir du TOURBILLON niveau 1.
+
+P98:
+SILVER ANGEL STATUETTE: Grants the power of DOUBLE JUMP.
+ANGE D’ARGENT: Donne la capacité DOUBLE SAUT.
+
+P99:
+SILVER EAGLE STATUETTE: Grants the power of  AIR DASH.
+AIGLE D’ARGENT: Donne la capacité AIR DASH.
+
+P100:
+HEART OF SUN: A beautiful brooch that releases a gentle, warm air. Prevents freezing in very cold places
+CŒUR DE SOLEIL: Une magnifique broche qui dégage un air chaud agréable, permettant de traverser les zones les plus froides sans geler.
+
+P101:
+A-LETTER: Slab of marble used to assemble words.
+LETTRE-A: Un morceau de marbre que l’on utilise pour composer des mots.
+
+P102:
+WIND BELL: Pacifies strong winds.
+CLOCHETTE DU VENT: Permet d’atténuer les rafales de vent.
+
+P103:
+STONE HAND: May be of interest.
+MAIN DE PIERRE: Doit bien servir à quelque chose.
+
+P104:
+GOLDEN CLOCK: Prevents time distortions.
+MONTRE D’OR: Permet de contrer les distorsions temporelles.
+
+P105:
+ORNAMENTAL CRUCIFIX: A decorative element. The words "St Justine" are carved on its back.
+CRUCIFIX DECORATIF: Elément de décoration, les mots « Sainte Justine » sont gravés à l’arrière.
+
+P106:
+NINE GATES OF THE KINGDOM OF SHADOWS: Written in 1666, there are only 3 of them.
+LES NEUF PORTES DU ROYAUME DES OMBRES: Ecrit en 1666 il n’en existe que 3 exemplaires.
+
+P107:
+THICK GAUNTLET: Allows Efrain to grab ropes covered by brambles.
+GANT EPAIS: Permet de grimper sur les cordes couvertes de ronces.
+
+P108:
+BREAKER: Grants enough power to destroy rusty chains.
+BRISEUR: Son pouvoir vous permet de casser les chaines rouillées.
+
+P109:
+SERVIGNY MAP : A basic map of the Earldom of Servigny.
+CARTE DE SERVIGNY : Une carte basique du comté de Servigny.
+
+P110:
+LA TOURVELLE MAP: A basic map of the Earldom of La Tourvelle.
+CARTE DE LA TOURVELLE: Une carte basique du comté de La Tourvelle.
+
+P111:
+ALBARET MAP: A basic map of the Earldom of Albaret.
+CARTE D’ALBARET: Une carte basique du comté d’Albaret.
+
+P112:
+CASTLE OF ETERNAL NIGHT MAP: A basic map of the Castle of Eternal Night.
+CARTE DU CHATEAU DE LA NUIT ETERNELLE: Une carte basique du Château de la Nuit Eternelle.
+
+P113:
+MUSIC BOX: Plays nice melodies.
+BOITE A MUSIQUE: Permet de jouer d’agréables mélodies.
+
+P114:
+CUP OF TRUTH: Reveals the path of truth.
+COUPE DE VERITE: Révèle le chemin de la vérité.
+
+P115:
+CUP OF UNTRUTH: Reveals the path of untruth.
+COUPE DU MENSONGE: Révèle le chemin du mensonge.
+
+P116:
+BLACK ORB: A very strange orb that releases a disturbing light. Many of them can be collected.
+GLOBE NOIR: Un globe étrange produisant une lumière inquiétante. Plusieurs peuvent être collectés.
+
+P117:
+A powerful inheritance from Alucard's.
+Arme puissante appartenant à la famille d’Alucard.
+
+P118:
+Resembles family sword.
+Ressemble beaucoup à l’épée de votre famille.
+
+P119:
+Ceremonial armor worn by sectarians.
+Armure de cérémonie portée par des membres d’une secte.
+
+P120:
+A beautiful armor that can resist intense light energy.
+Une belle armure qui peut résister aux rayons d’énergie pure blanche.
+
+P121:
+Worn by ancient guards.
+Portée part d’anciens gardes.
+
+P122:
+A mysterious armor that can resist intense dark light.
+Une belle armure qui peut résister aux rayons d’énergie pure noire.
+
+P123:
+Grants great power but dramatically lowers defense.
+Donne beaucoup de force mais réduit considérablement la défense.
+
+P124:
+Reinforces ATT, DEF and LCK.
+Renforce l’attaque, la défense et la chance.
+
+P125:
+Reduces the heart consumption of the WHIRLWIND.
+Réduit la consommation en cœurs du TOURBILLON.
+
+P126:
+Reduces the heart consumption of the subweapons.
+Réduit la consommation en cœurs lors de l’utilisation des armes secondaires.
+
+P127:
+Increases the range of the SLIDE MOVE.
+Augmente la portée de la GLISSADE.
+
+P128:
+Reduces the heart consumption of the AURA BLAST.
+Réduit la consommation en cœurs de l’AURA BLAST.
+
+P129:
+Increases the range of the AIR DASH.
+Augmente la distance de l’AIR DASH.
+
+P130:
+Nullifies the heart consumption of the AIR FLOAT.
+Réduit à zéro la consommation en cœurs de la SUSPENSION.
+
+
+ITEM NAMES:
+
+Short Sword
+Epée courte
+
+Broad Sword
+Epée large
+
+Mace
+Masse
+
+Hatchet
+Hachette
+
+Light Saber
+Sabre léger
+
+Bekatowa
+
+
+Courtoise
+
+
+Tyrfing
+
+
+Battle Mace
+Masse de combat
+
+Destroyer
+
+
+Nothung
+
+
+Durandal
+
+
+Von Viltheim Sword
+Epée Von Viltheim
+
+Lecarde Sword
+Epée Lecarde
+
+Alucard Sword
+Epée d'Alucard
+
+Le Carde Sword
+Epée Le Carde
+
+
+
+
+Leather Armor
+Armure de cuir
+
+Bronze Cuirass
+Cuirasse de bronze
+
+Ring Mail
+Cotte de maille
+
+Iron Armor
+Armure de fer
+
+Steel Cuirass
+Cuirasse d'acier
+
+Hard Armor
+Armure dure
+
+Golden Ring Mail
+Cotte de maille dorée
+
+Platinum Armor
+Armure de platine
+
+Heavenly Plate
+Armure des cieux
+
+Spike Armor
+Armure à piques
+
+Von Viltheim Plate
+Armure Von Viltheim
+
+Fire Garb
+Costume de feu
+
+Zodiac Armor
+Armure du zodiaque
+
+White Armor
+Armure blanche
+
+Guard Armor
+Armure de garde
+
+Black Armor
+Armure noire
+
+
+
+
+
+Lecarde Headband
+Bandeau Lecarde
+
+Mask of Zoe
+Masque de Zoe
+
+Mask of the Moon
+Masque de la Lune
+
+Aura Headband
+Bandeau d'aura
+
+Neptune Helmet
+Casque de Neptune
+
+Mask of Vision
+Masque de vision
+
+Circlet of Light
+Bandeau de lumière
+
+Silver Mask
+Masque d'argent
+
+Circlet of Will
+Bandeau de volonté
+
+Von Viltheim Helmet
+Casque Von Viltheim
+
+Gale Headband
+Bandeau tempête
+
+Retain Mask
+Masque de retenue
+
+Snake Headband
+Bandeau serpent
+
+Serenity Circlet
+Bandeau de sérénité
+
+Raven Headband
+Bandeau du corbeau
+
+Feather Headband
+Bandeau plume
+
+
+
+
+
+Lecarde Ring
+Anneau Lecarde
+
+Turquoise
+
+
+Lucky Ring
+Bague de chance
+
+Ring of Arcana
+Anneau Arcana
+
+Bronze Ring
+Anneau de bronze
+
+Iron Ring
+Anneau de fer
+
+Crimson ring
+Anneau pourpre
+
+Ring of Mars
+Anneau de Mars
+
+Protector
+Anneau protecteur
+
+Safe Ring
+Bague de sécurité
+
+Shield ring
+Anneau bouclier
+
+Angel Ring
+Bague de l’ange
+
+Guardian Ring
+Anneau gardien
+
+Von Viltheim Ring
+Bague Von Viltheim
+
+Ring of Fury
+Bague de furie
+
+Jupiter Ring
+Anneau Jupiter
+
+
+
+
+
+Lecarde Cross
+Croix Lecarde
+
+Storm Pendant
+Pendentif orage
+
+Rage Pendant
+Pendentif de rage
+
+Assault Pendant
+Pendentif d’assaut
+
+Green Necklace
+Collier vert
+
+Blue Necklace
+Collier bleu
+
+White Necklace
+Collier blanc
+
+Red Necklace
+Collier rouge
+
+Yellow Necklace
+Collier jaune
+
+Mithridate Collar
+Collier Mithridate
+
+Prayer Collar
+Collier de prière
+
+Concentration Collar
+Collier de concentration
+
+Resist Collar
+Collier de résistance
+
+Wall Collar
+Collier rempart
+
+Divine Collar
+Collier divin
+
+Von Viltheim Pendant
+Pendentif Von Viltheim
+
+
+
+
+- MAP
+
+P1:
+Remains of Ancient Rome
+Ruines de la Rome ancienne
+
+P2:
+Servigny Earldom
+Comté de Servigny
+
+P3:
+La Tourvelle Earldom
+Comté de La Tourvelle
+
+P4:
+Albaret Earldom
+Comté d'Albaret
+
+P5:
+Castle of Eternal Night
+Château de la Nuit Eternelle
+
+- SAVE POINTS
+
+P1:
+Save Game
+Sauver la partie
+
+P2:
+May God bless your quest.
+Que Dieu soit avec toi.
+
+
+- TELEPORT POINTS
+
+P1:
+Choose your destination.
+Choisissez la destination
+
+P2:
+Maybe another time.
+Peut être une autre fois...
+
+
+- opening Rome
+
+P1:
+Welcome to this dead place..
+Bienvenu dans cet endroit désolé ! 
+
+P2:
+I am glad to see such a powerful warrior here.
+Je me réjoui de voir un si puissant guerrier.
+
+P3:
+I see you have earned the power of the late Von Viltheim Family.
+Je vois que tu as obtenu le pouvoir des regrettés Von Viltheim.
+
+P4:
+Unfortunately, that will not be enough to win this time...
+Malheureusement cela ne suffira pas cette fois-ci…
+
+P5:
+The demons you face will be much more powerful.
+Les démons que tu vas affronter sont bien plus puissants.
+
+P6:
+But a warrior with your power should have no need for such a fine weapon.
+Un guerrier qui dispose de tels pouvoirs n’a pas besoin d’une si belle arme.
+
+P7:
+Double Shot
+Double Tir
+
+P8:
+Do you not agree?
+N’es tu pas d’accord ?
+
+P9:
+Your weapon will await you in France.
+Ton arme t’attendra quelque part en France.
+
+P10:
+Travel there if you dare.
+Rends-toi là-bas si tu l’ose.
+
+P11:
+We will meet again.
+Nous nous reverrons…
+
+P12:
+      UNLEASH THE HOLY POWER
+DECLANCHEZ LE HOLY POWER
+
+P13:
+Hold down the AURA button and release it when your power is fully charged.
+Maintenez le bouton AURA enfoncé et relâchez le lorsque votre pouvoir est chargé.
+
+P14:
+      UNLEASH THE THUNDER
+DECLANCHEZ  L’ECLAIR
+
+P15:
+Press the UP+AURA buttons to switch between the HOLY and Von Viltheim powers.
+Appuyez sur les boutons HAUT +AURA  pour alterner entre les pouvoirs HOLY et Von Viltheim.
+
+P16:
+Aura can also be charged while walking.
+L’aura peut être chargée en marchant.
+
+
+- villages et villes
+
+P1:
+Beyond the forest there is an Inn called "L'Auberge rouge". I'd say it's better to not enter that place.
+De l’autre coté de la forêt se trouve « l’Auberge rouge ». On m’a dit que c’était un lieu dangereux.
+
+P2:
+There are fields riddled with BLACK LOTUS flowers far to the east. That flower can disrupt your orientation. 
+Il y a des champs remplis de LOTUS NOIR loin d’ici à l’est. Attention ! Ces fleurs peuvent vous désorienter.
+
+P3:
+Hello! Are you using your map? You'll not want to get lost, will you?
+N’oubliez pas d’utiliser votre CARTE afin de ne pas vous perdre.
+
+P4:
+Time has been stopped in 3  places on the duchy!
+Le temps s’est arrêté dans  3 lieux du duché.
+
+P5:
+Count Servigny's mansion. The Convent Sainte-Justine.
+Le manoir du Comte de Servigny, le couvent Sainte Justine…
+
+P6:
+Also in the mansion of the Count La Tourvelle.
+Ainsi que le Manoir du comte de La Tourvelle.
+
+P7:
+It's always night-time in those places. That must be the work of evil!
+Il fait toujours nuit dans ces endroits. Cela ne peut être que l’œuvre du Malin.
+
+P8:
+I think something fell inside the village's well. If only I could climb down there and see...
+Quelque chose est tombé dans le puits. Si seulement je pouvais descendre voir ce que c’est.
+
+P9:
+You will need a flute to call the ferryman at Azur Lake.
+Il vous faut une flûte pour appeler le passeur du lac.
+
+P10:
+Potions can be carried for later use. Food gets spoiled, though. It must be eaten imediatelly.
+Les potions peuvent être transportées pour un usage ultérieur. La nourriture doit être mangée immédiatement.
+
+P11:
+Welcome to the peaceful village of SAINT ANSELME.
+Bienvenu dans le paisible village de Saint Anselme.
+
+P12:
+WEST-
+Azur District
+OUEST- District d’Azur
+
+P13:
+NORTH- Du Goyet Clearing
+A scribbling reads "Be careful at nightime".
+NORD- Du Goyet Clearing
+Il est ajouté «  faites attention lorsque il fait nuit »
+
+P14:
+EAST-
+Saint Anselme District
+EST-District de Saint Anselme
+
+P15: 
+Welcome to the inn
+« Le chien de chasse ».
+Bienvenu à l’auberge du Chien de chasse.
+
+P16:
+The GONDRE MINE is deep. It's far to the West near the border with the La Tourvelle Earldom.
+La mine du GONDRE est très profonde. Elle se trouve à l’est près de la frontière avec le comté de La Tourvelle.
+
+P17:
+You can record your adventure at the maid statues. There is one at the East end of the village.
+Vous pouvez enregistrer votre aventure avec les Statues de l’innocente. Il y en a une à la sortie est du village.
+
+P18:
+In the Dark Forest there is a section covered by dead trees. That place creeps me out.
+Dans la Forêt Sombre il y a un endroit ou les arbres sont morts. C’est effrayant.
+
+P19:
+Some ropes are covered by thorns. You'd better have great gauntlets to climb them.
+Certaines cordes sont recouvertes de ronces. Il faudrait de bons gants pour pouvoir les grimper.
+
+P20:
+Welcome to my shop.
+Bienvenu dans mon échoppe.
+
+P21:
+Come back whenever you need.
+Revenez quand vous voudrez.
+
+P22:
+Hello! No refunds here. Choose wisely!
+Bonjour ! Pas de remboursement choisissez bien.
+
+P23:
+You will lose it if you find another one!
+Vous le perdrez si vous en trouver un autre.
+
+P24:
+The Dark Forest is near the Azur Lake.
+La Forêt Sombre se trouve près du Lac d’Azur.
+
+P25:
+You found a SILVER FLUTE.
+
+
+P26:
+This is the mountain village of Isigny.
+Vous êtes dans le village de montagne d’Isigny.
+
+P27:
+Beware! The ravens dwelling in this earldom during nighttime can be deadly!
+Attention ! Dans ce district, il y a de très dangereux corbeaux qui viennent la nuit.
+
+P28:
+There is an underground chapel in this village.
+Il y a une chapelle souterraine dans ce village.
+
+P29:
+That chapel has become a dangerous place ever since a wall collapsed.
+La chapelle est devenue dangereuse depuis qu’un de ses murs s’est effondré.
+
+P30:
+Behind the wall there is an entrance leading to the Rivoire Cave.
+Derrière le mur, une entrée permet d’accéder à la Grotte du Rivoire.
+
+P31:
+The Noyon Swamp is covered by a poisonous mist.
+Le marécage du Noyon est recouvert de brume empoisonnée.
+
+P32:
+Don't enter that swamp without a suitable protection.
+N’y allez pas sans une protection adéquate.
+
+P33:
+The castle of count La Tourvelle is replete with bird art.
+Il y a beaucoup d’œuvres d’art relatives aux oiseaux dans le château du Comte La Tourvelle.
+
+P34:
+It's also called the Birds' Castle.
+On le nomme également le « Château des Oiseaux ».
+
+P35:
+Far to the west you will find the cemetery of Sarelle.
+Loin vers l’ouest vous trouverez le Cimetière de Sarelle.
+
+P36:
+It's at the westernmost part of the duchy.
+Il se trouve dans la partie la plus à l’ouest de tout le duché.
+
+P37:
+In the district of La Perdrix, invisible monsters roam freely during the night.
+Dans le district de La Perdrix des monstres invisibles rodent durant la nuit.
+
+P38:
+In the Isigny Plains you can find the tombstone of Heloise de La Tourvelle.
+Dans les plaines d’Isigny vous pourrez trouver la pierre tombale d’Héloïse de La Tourvelle.
+
+P39:
+Word is that her spirit appears at dawn.
+Il parait que son esprit apparait à l’aube !
+
+P40:
+The weather beyond the crows' post is deadly cold. It can freeze you to death in a second!
+Au delà du poteau des corbeaux, il fait terriblement froid. Vous pouvez mourir gelé en peu de temps.
+
+P41:
+In some places you can find a strange, red mist.
+Certains lieux sont recouverts d’une étrange brume rouge.
+
+P42:
+So, it's likely that very tormented ghosts lurk nearby.
+Un esprit tourmenté hante probablement l’endroit.
+
+P43:
+A strange bell noise can be heard at the Sarelle Cemetery.
+Le son d’une étrange cloche peut être entendu au Cimetière de Sarelle. Pourtant c’est fermé en ce moment…
+
+P44:
+I saw an enormous raven flying over the La Tourvelle Castle.
+L’autre jour, j’ai vu un corbeau géant voler au dessus du Château de La Tourvelle.
+
+P45:
+There is a very strange room under the 
+La Tourvelle Castle entrance.
+Il y a un endroit étrange sous l’entrée du château de La Tourvelle.
+
+P46:
+EAST-
+Isigny Mountains
+EST-
+Montagnes d’Isigny
+
+P47:
+WEST-
+La Perdrix District
+La Tourvelle Castle
+OUEST-
+District de La Perdrix
+Château de La Tourvelle
+
+P48:
+                       Delbasse City
+Ville de Delbasse
+
+P49:
+Fall has arrived too early this year. This is quite weird.
+L’automne est arrivé drôlement vite cette année, ce n’est pas normal.
+
+P50:
+The Delbasse City is the largest of the duchy.
+La ville de Delbasse est la plus grande du duché.
+
+P51:
+St Justine convent is closed now.
+Le Couvent Sainte Justine est maintenant fermé.
+
+P52:
+When the demons revealed their true nature, the nuns fled.
+Quand les démons ont révélés leur vrai nature les nones se sont enfuies.
+
+P53: 
+One of the nuns said that Constance d'Albaret has not left the convent.
+Une des nones a dit que Constance D’albaret est restée au couvent.
+
+P54:
+At Hauteliard Lake you can contemplate the Albaret Castle.
+Au lac d’Hauteliard vous pouvez contempler le Château d’Albaret. Il est abandonné.
+
+P55:
+The duke's castle is in Guernon Plains. It has been burned down some months ago.
+La château du duc se trouve dans les Plaines de Guernon. Il a brulé quelques mois auparavant.
+
+P56:
+The City Park is closed ever since a very strange plant appeared.
+Le parc est fermé depuis qu’une plante très dangereuse  y demeure.
+
+P57:
+The scholars of the Guernon University were all killed.
+Les étudiants de l’Université de Guernon ont tous été tués.
+
+P58:
+Delbasse Park
+Parc de Delbasse
+
+P59:
+People cannot leave the towns because of the monsters.
+Les gens ne peuvent pas quitter la ville à cause des monstres.
+
+P60:
+They are ransacking the duchy ever since the demons' revelation.
+Ils envahissent le duché depuis la révélation des démons.
+
+P61:
+When Constance d'Albaret joined the nuns, a crucifix of the convent was stolen.
+Quand Constance d’Albaret à rejoint le couvent, un crucifix y fût volé.
+
+P62:
+The Guernon University is beyond the Guernon Plains.
+L’Université de Guernon se trouve au-delà des Plaines de Guernon.
+
+P63:
+EAST-
+Delbasse District
+EST-
+District de Delbasse
+
+P64:
+Welcome to the Delbasse Hotel.
+ I'm sorry but all the rooms are occupied.
+
+Bienvenu à l’hôtel de Delbasse.
+
+P65:
+There are lugubrious people who often get upstairs.
+Des gents assez lugubres se rendent parfois au premier étage.
+
+P66:
+They dress in black clothing, like in a funeral. It's a creepy sight.
+Ils sont habillés en noir comme pour un enterrement. C’est angoissant.
+
+P67:
+Our rulers were demons. We're going to die!
+Nos dirigeants étaient des démons. Nous allons mourir !
+
+P68:
+Have you heard of a book called "The Nine Gates of the Kingdom of the Shadows"?
+Avez-vous entendu parler d’un livre appelé « Les Neuf Portes du Royaume des Ombres » ?
+
+P69:
+It was written by Aristide Torchia in Venice, 1666.
+Il a été écrit par Aristide Torchia à Venise en 1666.
+
+P70:
+Almost all copies were burned by the Holy Inquisition, but 3 of these books still exist somewhere...
+La plupart des exemplaires ont été brulés par la Sainte Inquisition mais 3 d’entre eux existent encore…
+
+P71:
+Some illustrations are signed by Torquia, while others are signed "LCF". I have no idea who "LCF" is. Maybe you can find out?
+Certaines illustrations sont signé Aristide Torquia et d’autres par « LCF ». Qui serait d’après vous LCF ?
+
+P72:
+Beyond the bridge you will find a strange wasteland.
+3 statues lie there.
+Quand vous passerez le pont vous découvrirez une terre désolée. Il y a là-bas 3 statues.
+
+P73:
+A mysterious man came to the city some days ago. He was very handsome.
+Un homme mystérieux est passé dans la ville il y a quelques jours.
+
+P74:
+He had long, platinum hair, but appeared to be young. He was asking for information left and right.
+Il avait de longs cheveux couleur platine bien qu’il paraissait jeune. Il était en quête d’informations.
+
+P75:
+He went to the St Justine Convent, if I'm not mistaken. What could he want on a place like this?
+ Il est ensuite parti au Couvent Sainte Justine. Que pouvait-il bien chercher ?
+
+P76:
+The Albaret Family and the Duke Henri de Guillecourt were demons.
+La famille d’Albaret et le Duc de Guillecourt étaient des démons.
+
+P77:
+The Albaret Castle is deserted and the Duke's one is destroyed.
+Le Château d’Albaret est déserté et celui du duc est en ruines.
+
+P78:
+Where are these families now, I wonder...
+Que sont devenues ces familles…
+
+P79:
+There are legends about a hidden castle. They say it was erected somewhere in this duchy.
+Selon certaines légendes, il y aurait un Château caché quelque part dans le duché. 
+
+P80:
+Supposedly it would be a tribute to Lucifer, the Fallen Angel himself. Can you believe that?
+Ce château serait un hommage à Lucifer l’ange déchu. Pouvez-vous le croire ?
+
+P81:
+So I tell you: I'm very familiar with the Guillecourt Duchy, and this legend is a bunch of nonsense.
+Je pense sincèrement que tout cela n’est qu’affabulation.
+
+P82:
+You are Lecarde, aren't you? You must be that one who defeated the evil Von Viltheims.
+Vous êtes un Lecarde ? Celui qui a anéanti la diabolique famille Von Viltheim ?
+
+P83:
+I will tell you a very ironic story, then...
+A propos, je vais vous raconter une histoire très ironique…
+
+P84:
+Did you know that 100 years ago, a Lecarde almost married a Von Viltheim dame called Anna?
+ Il y a 100 ans un Lecarde était sur le point de se marier  à une demoiselle Von Viltheim appelée Anna.
+
+P85:
+The Lecarde fellow broke the engagement. She came to France but, in her desperation, committed suicide.
+Lecarde rompît l’engagement. Elle est venue ensuite en France mais dans son désespoir se suicida.
+
+P86:
+On her suicide letter she asked to be buried in her wedding dress.
+Dans la lettre qu’elle a laissé, elle a demandé a être enterrée dans la robe prévue pour le mariage.
+
+P87:
+What a sad end...
+Quelle fin si triste…
+
+P88:
+A young girl named Christine Chantrene has been taken by men wearing very strange clothes.
+Une jeune fille nommée Christine Chanterêne a été emportée par des hommes portant d’étranges vêtements.
+
+P89:
+She has been taken away toward East. Her parents are broken down.
+Ils l’ont emporté vers l’est. Ses parents sont anéantis.
+
+P90:
+The weather is abnormally cold in the La Tourvelle Earldom.
+Dans le royaume de La Tourvelle, il parait que qu’il fait beaucoup trop froid pour la saison.
+
+P91:
+It's still not fall, yet the trees in our earldom are shedding their leaves.
+Par ailleurs nous ne somme pas en automne et les arbres perdent ici leur feuilles.
+
+P92:
+Also, some places of the duchy are trapped in perpetual night.
+Le plus étrange, c’est que certains endroits du duché sont plongés dans une nuit interminable.
+
+P93:
+Everyone is scared of these unnatural occurrences. Can these be the End of Times...?
+Tout le monde est effrayé par ces anormalités. Serait-ce la fin du monde ?
+
+P94:
+Welcome my Son to the House of God.
+Bienvenu dans la maison de Dieu, mon fils.
+
+P95:
+There is an horrendous plant in the City Park. Destroy it and then come back to me. I have something you might need.
+Une plante terrifiante se trouve dans le parc, n’hésitez pas à venir me revoir si vous nous en débarrassez.  J’ai quelque chose pour vous.
+
+P96:
+Wonderful!
+Merveilleux !
+
+P97:
+Take this item, it will help you.
+Prenez cet objet, il vous sera utile.
+
+P98:
+Fulfill the Quest of God.
+Accomplissez la quête de Dieu…
+
+P99:
+Welcome to our Spiritualist Meeting. We will call the departed ones and ask them to join us.
+Bienvenu dans notre séance de spiritisme.  Nous faisant appel aux défunts pour qu’ils nous rejoignent.
+
+P100:
+...
+
+P101:
+... ...
+
+P102:
+... ... ...
+
+P103:
+Spirit of the night.. Come.. Come with us..
+
+P104:
+A young girl appeared and started speaking...
+Une jeune fille apparait et se met à parler…
+
+P105:
+My heart.. My heart.. I need.. 100 hearts.
+Please give me 100 hearts..
+Mon cœur, mon cœur…Il me faut 100 cœurs…Donnez moi 100 cœurs…
+
+P106:
+A young lad without his hands appeared and started speaking...
+Un jeune homme sans mains apparait et se met à parler…
+
+P107:
+I'm no more than a thief. Please forgive me, Lady Albaret.
+I will return your jewel immediately.
+Je ne suis rien qu’un misérable voleur, pardonnez moi dame Albaret, je vous rends votre bijou.
+
+P108:
+It seems that the spirits of the departed do not wish to join us...
+Il semblerait que les défunts ne souhaitent pas nous rejoindre…
+
+P109:
+You should buy a Broad Sword in the shop before venturing the Dark Forest ahead.
+Vous devriez vous acheter une EPEE LARGE au magasin avant de vous aventurer dans la Forêt Sombre.
+
+P110:
+The monsters who live there are very dangerous.
+Les monstres là-bas sont très dangereux.
+
+P111:
+Do not forget to equip the weapons and other items you may find or buy.
+N’oubliez pas d’équiper les armes et autres équipements que vous pourriez acheter ou trouver.
+
+
+- Servigny earldom
+
+P1:
+WEST-
+Saint Anselme Village
+
+OUEST-
+Village de Saint Anselme
+
+
+P2:
+EAST-
+Saint Anselme Valley
+
+EST-  Vallée de Saint Anselme
+
+
+P3: 
+WEST-Saint Anselme Forest
+EAST- La Mésange District
+          L'Auberge rouge Inn
+
+OUEST- Forêt de Saint Anselme
+EST- District de La Mésange
+          L’auberge rouge 
+
+
+P4:
+WEST- Sacred fire statue
+          - Dark Forest
+          - Azur Lake
+
+OUEST- Statue du SACRED FIRE
+          - Forêt Sombre
+          - Lac d’Azur
+
+P5:
+EAST-
+Saint Anselme Village
+
+EST-
+Village de Saint Anselme
+
+P6:
+EAST-
+Dark Forest
+
+EST-
+Forêt Sombre
+
+P7:
+You played the SILVER FLUTE.
+Vous avez joué de la FLUTE D’ARGENT.
+
+P8:
+WEST-
+Azur Hills
+
+OUEST-
+Collines d’Azur
+
+P9:
+Sure, i'll take you to a good place. 
+Hey!! Hey!! Hey!!
+
+Bien, je vais vous emmener vers le bon endroit.
+Hey!! Hey!! Hey!!
+
+P10:
+EAST-
+Azur Lake
+
+EST-
+Lac d’Azur
+
+P11:
+WEST-
+Gondre Mine
+La Tourvelle Earldom
+
+OUEST-
+Mine du Gondré
+Comté de La Tourvelle
+
+P12:
+WEST- St Anselme District
+EAST- Servigny Mansion
+
+OUEST- District de Saint Anselme
+EST- Manoir de Servigny
+
+P13: 
+La Mésange Bridge
+Built in 1713
+
+Pont de La Mésange
+Construit en 1713.
+
+P14:
+WEST-
+La Tourvelle Earldom
+Isigny District
+
+OUEST-
+Comté de La Tourvelle
+District d’Isigny
+
+P15:
+WEST-
+Servigny Mansion
+
+OUEST-
+Manoir de Servigny
+
+P16:
+EAST-
+Albaret Earldom
+Hauteliard District
+
+EST-
+Comté d’Albaret
+District d’Hauteliard
+
+P17:
+You played the GOLDEN FLUTE.
+Vous avez joué de la FLUTE D’OR.
+
+P18:
+What is the destination?
+Quelle est la destination ?
+
+P25:
+You have found a WHIRLWIND STATUETTE.
+Vous avez trouvé un TOURBILLON.
+
+
+- Auberge/dark forest
+
+P1:
+The HOLY AURA BLAST's level max has increased.
+Le niveau max de L’Aura Blast HOLY a augmenté.
+
+P2:
+The SACRED FIRE will bring the light.
+LE SACRED FIRE apportera la lumière.
+
+P3:
+
+P4:
+You have found the PILGRIM STATUETTE.
+Vous avez trouvé le PELERIN D’OR.
+
+P5:
+Gregoire Count of Servigny 1580-1662.
+Grégoire Comte de Servigny 1580-1662. 
+
+P6:
+Jeanne Countess of Servigny 1585-1668
+Jeanne Comtesse de Servigny 1585-1668
+
+P7:
+Maximilien Count of Servigny 1605-1899. 1899... What's that?
+Maximilien Comte de Servigny  1605-1899. 1899... What's that?
+
+P8:
+VON VILTHEIM AURA BLAST's level max has increased.
+Le niveau max de l’Aura Blast VV a augmenté.
+
+
+- Gondre mine
+
+P1:
+Maximilien de Servigny.
+This coffin is huge.. It's empty.
+
+Maximilien de Servigny
+The cercueil est énorme. Il est vide…
+
+
+- Servigny mansion
+
+P1:
+You have used the BRONZE KEY.
+Vous avez utilisé la CLEF DE BRONZE.
+
+P2:
+You have used the the STONE HAND.
+Vous avez utilisé la MAIN DE PIERRE.
+
+P3:
+You have found the SILVER ANGEL STATUETTE.
+Vous avez trouvé l’ANGE D’ARGENT.
+
+P4: 
+«Life begins in darkness»
+Maximilien de Servigny
+
+«La vie commence dans les ténèbres»
+Maximilien de Servigny
+
+P5: 
+It says..
+«You are not worthy of witnessing my beauty»
+
+Il est écrit :
+«Tu ne mérites pas de voir ma beauté »
+
+P6:
+Earldom of Servigny
+Saint Anselme District
+
+Comté de Servigny
+District de Saint Anselme
+
+P7:
+The district of Saint Anselme is mainly composed of a vast forest and a valley. 
+Le District de Saint Anselme est composé d’une grande forêt et d’une vallée.
+
+P8:
+It's the central part of the earldom.
+C’est la partie centrale du comté.
+
+P9:
+Earldom of Servigny
+Azur District
+
+Comté de servigny
+District d’Azur
+
+P10:
+In the Azur District there is a valley, a dark forest, hills and the famous Azur Lake.
+Dans le District d’Azur il y a une vallée, une Forêt sombre, des collines et le célèbre Lac d’Azur.
+
+P11:
+The Gondre Mine in Azur hills is the deepest of the earldom. There is lot of ore to be found.
+La Mine du Gondré dans les collines d’Azur st la plus profonde du comté. Il y a beaucoup de minéraux à trouver.
+
+P12:
+The Azur Lake is beautiful. There's a rumor that a giant fish swims in it during the night.
+Le Lac d’Azur est magnifique. On dit qu’un poisson géant y nage pendant la nuit.
+
+P13:
+Earldom of Servigny
+La Mésange District
+
+Comté de Servigny
+District de La Mésange
+
+P14: 
+La Mésange District is the main district of the Earldom of Servigny.
+Le District de La Mésange est le principal du comté.
+
+P15:
+The count's mansion is there. It stands in a huge valley where a beautiful flower can be found -- the Black Lotus.
+On y trouve le manoir du comte au millieu d’une grande vallée oÃ¹ de magnifiques fleurs peuvent être trouvées : les LOTUS NOIRS.
+
+P16:
+The great bridge over the lake is a masterpiece!
+Le grand pont au dessus du lac est un chef d’œuvre.
+
+P17: 
+Death and birth.
+Death of Maximilien de Servigny.
+Building year of the Mésange Bridge.
+
+Mort et naissance
+Mort de Maximilien de Servigny
+Année de construction du pont de La Mésange.
+
+
+- La Tourvelle earldom
+
+P1:
+EAST-
+Earldom of Servigny
+
+EST-
+Comté de Servigny
+
+P2:
+Guillecourt Duchy
+You are entering the La Tourvelle Earldom.
+
+Duché de Guillecourt
+Vous entrez sur les terres de La Tourvelle.
+
+P3:
+WEST-
+Isigny Plains
+
+OUEST-
+Plaines d’Isigny
+
+P4:
+EAST-
+Isigny Woods
+
+EST-
+Bois d’Isigny
+
+P5:
+NORTH-
+Noyon Swamp
+
+NORD- 
+Marais du Noyon
+
+P6:
+WEST-
+Isigny Mountains
+Rivoire Cave
+
+OUEST-
+Montagnes d’Isigny
+Grotte du Rivoire
+
+P7:
+HELOISE DE LA TOURVELLE
+(1720-1745)
+Denied her family. Shame be upon her.
+
+HELOISE DE LA TOURVELLE
+(1720-1745)
+A renié sa famille. Que la honte soit sur elle.
+
+P8:
+The La Tourvelle family had turned evil.
+I will help you. Take this item.
+
+La famille La Tourvelle est diabolique.
+Je vous aiderai. Prenez cet objet.
+
+P9:
+Farewell...
+Adieu…
+
+P10:
+EAST-
+Isigny Plains
+Rivoire Cave
+
+EST-
+Plaines d’Isigny
+Grotte du Rivoire
+
+P11:
+WEST-
+Isigny Village
+
+OUEST-
+Village d’Isigny
+
+P12:
+SOUTH-
+Isigny Plains
+
+SUD-
+Plaines d’Isigny
+
+P13:
+Be careful traveler!
+The air ahead is poisonous.
+
+Attention voyageur!
+L’air plus loin est empoisonné.
+
+P14:
+EAST-
+Isigny Village
+
+EST-
+Village d’Isigny
+
+P15:
+WEST-
+La Perdrix Falls
+
+OUEST-
+Chutes de La Perdrix
+
+P16:
+Beyond this post you will be frozen to death...
+Nicolas Xavier De La Tourvelle.
+
+Au-delà de ce poteau vous mourrez de froid…
+-- Nicolas Xavier De La Tourvelle.
+
+P17:
+EAST-
+La Perdrix Mountains
+
+EST-
+Montagnes de La Perdrix
+
+P18:
+WEST-
+La Perdrix Narrow pass
+
+OUEST-
+Gorges de La Perdrix
+
+P19:
+WEST-
+Sarelle Mountains
+
+OUEST-
+Montagnes de Sarelle
+
+P20:
+EAST-
+La Perdrix Narrow pass
+
+EST-
+Gorges de La Perdrix
+
+P21:
+Sarelle Cemetery.
+May God be gracious to us.
+
+Cimetière de Sarelle
+Que Dieu puisse nous venir en aide.
+
+P22:
+You have used the WIND BELL.
+
+Vous avez utilisé la CLOCHETTE DU VENT.
+
+P23:
+Hello, I'm Gabrielle de La Tourvelle. I was condemned to live here for the rest of my life.
+
+Bienvenu, je suis Gabrielle de La Tourvelle, j’ai été condamnée à demeurer ici jusqu’à la fin de ma vie.
+
+P24:
+I would like to see the 8 BLACK ORBS. They are breathtaking..
+J’aimerais tant voir les 8 GLOBES NOIRS. Ils sont magnifiques…
+
+P25:
+The 8 BLACK ORBS are so beautiful. 
+ Les 8 Globes Noirs sont vraiment magnifiques…Merci de me les avoir montrés.
+
+P26:
+Take this. I found it a long time ago, it will help you in your quest.
+Prenez ceci. Je l’ai trouvé il y a très longtemps, cela vous sera utile.
+
+P27: 
+I can now rest in peace...
+Je peux désormais reposer en paix…
+
+- Sautelle cemetery
+
+P1:
+We are gathered here today to celebrate the life of our friend.
+Nous sommes ici réunis pour honorer notre ami.
+
+P2:
+He has now returned to his home with Our God, The Father.
+Il est retourné chez lui avec notre Dieu le Père.
+
+P3:
+Let us go in peace to live out the Word of God.
+Allons en paix délivrer la parole de Dieu.
+
+P4:
+Rest in peace our beloved..
+Repose en paix notre regretté…
+
+P5:
+Efrain Lecarde..
+Efrain Lecarde..
+
+P6:
+It says: 3-B-2 times.
+Il est écrit : 3-B-2 fois.
+
+P7:
+It says: 1-C-3 times.
+Il est écrit : 1-C-3 fois.
+
+P8:
+It says: 2-A-5 times.
+Il est écrit : 2-A-5 fois.
+
+
+- La Tourvelle castle
+
+P1:
+You have used the WIND BELL.
+Vous avez utilisé la CLOCHETTE DU VENT.
+
+P2: 
+«Death comes from skies»
+Nicolas Xavier de La Tourvelle
+
+ « La mort vient d’en haut »
+Nicolas Xavier de La Tourvelle
+
+P3:
+Earldom of La Tourvelle
+Isigny District
+
+Comté de La Tourvelle
+District d’Isigny
+
+P4:
+There are beautiful mountain woods on this district. There is also a deep cave and a swamp.
+Il y a de magnifiques bois dans les montagnes. On trouve également une grotte et un marais.
+
+P5:
+Heloise de La Tourvelle is buried somewhere in the plain. Shame on her...
+Héloïse de La Tourvelle est enterrée quelque part dans la plaine. Que la honte soit sur elle…
+
+P6:
+Earldom of La Tourvelle
+La Perdrix District
+
+Comté de La Tourvelle
+District de La Perdrix
+
+P7:
+The La Perdrix District is made of uneven mountains and impracticable, narrow passes.
+
+Ce district est surtout composé de montagnes escarpées et de gorges impraticables.
+
+P8:
+The great castle of the La Tourvelle family stands there.
+On y trouve le grand château des La Tourvelle.
+
+P9:
+This looks strange:
+- I Gold          - II Gold
+- III Silver      - IV Silver
+
+Cela semble étrange:
+- I Or         - II Or
+-III Argent     -IV Argent
+
+P10:
+Earldom of La Tourvelle
+Sarelle District
+
+Comté de La Tourvelle
+District de Sarelle
+
+P11:
+The Sarelle Cemetery is the largest of the duchy.
+Le cimetière de Sarelle est le plus grand du duché.
+
+P12:
+It's closed in winter..
+C’est fermé en Hiver…
+
+
+- Albaret Earldom
+
+P1:
+Guillecourt Duchy
+You are entering the Albaret  Earldom.
+
+Duché de Guillecourt
+Vous entrez sur les terres d’Albaret.
+
+P2: 
+WEST-
+Servigny Earldom
+La mésange Valley
+
+OUEST-
+Comté de Servigny
+Vallée de La Mésange
+
+P3:
+WEST-
+Hauteliard Valley.
+
+OUEST-
+Vallée d’Hauteliard
+
+P4:
+EAST-
+St Justine Convent
+Hauteliard Lake
+
+EST-
+Couvent Sainte Justine
+Lac d’Hauteliard
+
+P5:
+WEST-
+St Justine Convent
+Hauteliard Forest
+
+OUEST-
+Couvent Sainte Justine
+Forêt d’Hauteliard
+
+P6:
+EAST-
+Delbasse City
+
+EST-
+Ville de Delbasse
+
+P7:
+St Justine Convent
+Be glad to serve God
+
+Couvent Sainte Justine
+Soyez honoré de servir Dieu.
+
+P8:
+WEST- Delbasse City
+EAST- Delbasse Wasteland
+
+OUEST- Ville de Delbasse
+EST- Terres désolées de Delbasse
+
+P9:
+WEST-
+Delbasse Hills
+Delbasse Ruins
+
+OUEST-
+Collines de Delbasse
+Ruines de Delbasse
+
+P10:
+EAST-
+Guernon University
+Guernon Hills
+
+EST-
+Université de Guernon
+Collines de Guernon
+
+P11:
+EAST- Guernon Forest
+WEST-Guernon Hills
+
+EST- Forêt de Guernon
+OUEST-Collines de Guernon
+
+P12:
+EAST-Guernon Hills
+WEST-Ancient  Wall
+
+EST-Collines de Guernon
+OUEST-Mur ancient
+
+P13:
+VON VILTHEIM AURA BLAST's level max has increased.
+Le niveau max de l’Aura Blast VV a augmenté.
+
+P14: 
+«Life begins in darkness»
+Maximilien de Servigny
+
+«La vie commence dans les ténèbres»
+Maximilien de Servigny
+
+P15: 
+«Death comes from skies»
+Nicolas Xavier de La Tourvelle
+
+«La mort vient d’en haut»
+Nicolas Xavier de La Tourvelle
+
+P16: 
+«Silk veils hide wicked faces»
+Constance d'Albaret
+
+«De maudits visages sont masqués par des voiles de soie»
+Constance d'Albaret
+
+P17:
+I've been waiting for such a long time, to see somebody again.
+J’ai attendu si longtemps avant de voir quelqu’un.
+
+P18:
+Take this, it may be useful to you.
+Prenez cela, ça pourrait vous être utile.
+
+P19: 
+I can now rest in peace. Farewell...
+Je peux désormais reposer en paix. Adieux…
+
+
+- St Justine Convent
+
+P1:
+You have used the SILVER KEY.
+Vous avez utilisé la CLEF D’ARGENT.
+
+P2:
+It seems that a crucifix is missing.
+Apparemment,  il manque un CRUCIFIX.
+
+P3:
+The ORNAMENTAL CRUCIFIX has been used.
+Le CRUCIFIX ORNEMENTAL a été utilisé.
+
+P4: Hmmm...What was that?
+Qu’est ce que c’est que cela ?
+
+P5: 
+That emblem..You're a member of the Lecarde clan.
+Cet emblème, tu es un Lecarde.
+
+P6:
+Let me introduce myself, I am Alucard..
+Permet moi de me présenter, je suis Alucard.
+
+P7:
+Do not fear. My intentions are good.
+Ne crains rien mes intentions sont bonnes.
+
+P8:
+I traveled here in search of an item stolen from my family long ago.
+J’ai voyagé jusqu’ici pour chercher un objet qui a été volé à ma famille, il y a longtemps.
+
+P9:
+I now must continue my search.
+Je dois maintenant poursuivre mes recherches.
+
+P10:
+By the way, I have something that may be useful to you.
+A propos, j’ai quelque chose d’intéressant à te donner.
+
+P11:
+Perhaps we will meet again.
+Peut être nous reverrons nous.
+
+P12:
+Good luck.
+Bonne chance…
+
+P13:
+
+P14:
+
+P15: 
+«Silk veils hide wicked faces»
+Constance d'Albaret
+
+«De maudits visages sont masqués par des voiles de soie»
+Constance d’Albaret
+
+P16:
+It's the copy of a statue at the Guernon University.
+C’est une copie d’une statue que l’on peut trouver à l’université de Guernon.
+
+P17:
+"Show me the STORM PENDANT"
+« Montre-moi le PENDENTIF ORAGE ».
+
+P18:
+These carved words are strange...
+Les mot qui sont gravés ici sont étranges.
+
+P19:
+BOOK OF THE CRUCIFIXES
+Livre des Crucifix
+
+P20:
+Dark Room's solution.
+1 Red, 2 Wood, 3 Gold, 4 Bronze, 5 Large Wood, 6 Silver.
+
+Solution de la salle sombre :
+1 Rouge, 2 Bois, 3 Or, 4 Bronze, 5 Grand bois, 6 Argent.
+
+P21:
+Earldom of Albaret
+Hauteliard District
+
+Comté d’Albaret 
+District de Hauteliard
+
+P22:
+There are lots of ruins in the valley and in the forest.
+Il y a beaucoup de ruines dans la vallée et dans la forêt.
+
+P23:
+The Albaret Castle is close to the lake.
+Le château d’Albaret se trouve près du lac.
+
+P24:
+Earldom of Albaret
+Delbasse District
+
+Comté d’Albaret
+District de Delbasse
+
+P25:
+The Delbasse City is the largest town in the duchy.
+La ville de Delbasse est la plus grande du duché.
+
+P26:
+There is a creepy, dark area beyond the bridge...
+De l’autre coté du pont il y a un endroit lugubre…
+
+P27:
+Some travelers have reported that voices coming from Hell often resonate in the wind.
+Certains voyageurs y ont prétendu entendre des voix résonantes au vent. Elles viendraient de l’enfer.
+
+P28:
+This place is called "The Land of Eternal Night".
+Cet endroit est appelé « La Terre de la Nuit Eternelle »
+
+P29:
+Many people have disappeared there. According to the legends, a huge castle was built there as tribute to Lucifer.
+Beaucoup de personnes qui se sont aventurées là-bas n’en sont jamais revenues. Il parait qu’un grand château y fut construit…
+
+
+- Guernon University
+
+P1:
+It says..
+"Show me the STORM PENDANT"
+
+Il est écrit :
+« Veuillez me montrer
+ le PENDENTIF ORAGE ».
+
+P2:
+
+P3:
+Something happened in this floor...
+Quelque chose s’est produit à cet étage…
+
+P4:
+"Jean D'Albaret, major donor of this university"
+ « Jean d’Albaret, principal donateur de cette université »
+
+P5:
+Apparently, there's a trapdoor in the base. But it cannot be opened.
+Il y a un panneau amovible dans le socle. Il est impossible de l’ouvrir.
+
+P6:
+You have activated the mechanism in the base.
+Vous avez activé le mécanisme  incorporé dans le socle.
+
+P7:
+Something happened in the garden..
+Quelque chose s’est produit dans le jardin.
+
+P8:
+The HOLY AURA BLAST's maximum level has increased.
+Le niveau max de L’Aura Blast HOLY a augmenté.
+
+P9:
+You have found the SILVER EAGLE STATUETTE.
+Vous avez trouvé l’AIGLE D’ARGENT.
+
+P10:
+                       GARDEN
+                       JARDIN
+
+P11:
+                       LIBRARY
+                 BIBLIOTHEQUE
+
+P12:
+                    TOP FLOOR
+                      GRENIER
+
+P13:
+                    DINING HALL
+                SALLE A MANGER
+
+P14:
+                   MUSIC ROOM
+              SALLE DE MUSIQUE
+
+P15:
+                  LABORATORY
+                  LABORATOIRE
+
+P16:
+                      MEDICINE
+                      MEDECINE
+
+P17: 
+Piano..
+↓←↑←↓→↓←↑
+
+P18:
+Something happened in the garden.
+Quelque chose s’est produit dans le jardin.
+
+P19:
+Listen...
+Such a beautiful melody.
+
+Ecoute…
+Quelle belle mélodie.
+
+P20:
+Even in the depths of darkness, music has the power to illuminate the soul.
+Même dans les tréfonds de l’enfer la musque peut illuminer les âmes.
+
+P21:
+I've no other choice but to stay in the shadows.
+ Je n’ai d’autre choix que de rester dans les ténèbres. 
+
+P22:
+Away  from the world of man.
+Loin du monde des hommes.
+
+P23:
+But you, Lecarde, seem to walk this path of your own accord.
+Mais toi Lecarde tu semble d’aventurer sur cette voie de ta propre volonté.
+
+P24:
+Do not let the blackness envelope your soul.
+Ne laisse pas les ténèbres s’emparer de toi.
+
+P25:
+Twill serve you well to take this music box.
+Prends cette boite à musique, elle te sera agréable.
+
+- Entrance Main Hall
+
+P1:
+Before the endless night, there will be endless day and the sheep will be blinded and burned while their Shepherd weeps.
+Avant la nuit éternelle, il y aura le jour eternel et les brebis seront aveuglées et brulées sous les pleurs de leurs bergers.
+
+P2: 
+← ENTRANCE HALL
+→ ANCIENT LIBRARY
+
+← HALL D’ENTREE
+→ BIBLIOTHEQUE
+
+P3: 
+← ENTRANCE HALL
+→ UNDERGROUND CAVE
+
+← HALL D’ENTREE
+→ GROTTE SOUTERRAINE 
+
+P4: 
+← ENTRANCE HALL
+→ CASTLE CLOCKWORK
+
+← HALL D’ENTREE
+→ MACHINERIE
+
+P5: 
+← ENTRANCE HALL
+→ HORROR GALLERY
+
+← HALL D’ENTREE
+→ GALLERIE DES HORREURS
+
+P6: 
+← ENTRANCE HALL
+→ GARDEN OF THE DEAD
+
+← HALL D’ENTREE
+→ JARDIN DU MORT
+
+P7:
+You have used the GOLD KEY.
+Vous avez utilisé la CLEF D’OR.
+
+
+- Castle Clockwork
+
+P1: 
+The Iron Ball's location has changed.
+La boule d’acier a changé de place.
+
+P2:
+Nothing happened...
+Rien ne se passe…
+
+P3:
+You have found a WHIRLWIND STATUETTE.
+Vous avez trouvé un TOURBILLON.
+
+P4: 
+← CASTLE CLOCKWORK
+→ FOUR SEASONS HALL
+
+← MACHINERIE
+→ HALL DES 4 SAISONS
+
+P5: 
+← CASTLE CLOCKWORK
+→ PRINCELY ROOMS
+
+← MACHINERIE
+→ QUARTIERS SUPERIEURS 
+
+P6: 
+← ANCIENT LIBRARY
+→ CASTLE CLOCKWORK
+
+← BIBLIOTHEQUE
+→ MACHINERIE
+
+P7:
+The gate has reacted to the SKULL EMBLEM.
+La porte réagit à l’EMBLEME A TETE DE MORT.
+
+
+- Ancient Library
+
+P1:
+Insert the required amount.
+C’est écrit « insérez le montant requis »
+
+P2:
+...
+…
+
+P3:
+BOOK OF THE CAGED SOULS
+LIVRE DES AMES EMPRISONEES
+
+P4:
+Open the book.
+
+P5:
+Put back in the bookcase.
+
+P6:
+A surge of power from the book has overcome your WILL and taken hold of your soul.
+Un pouvoir ténébreux a surpassé votre VOLONTE  et a pris  possession de votre âme.
+
+P7: 
+Your WILL has overcome the book's evil power.
+Votre VOLONTE a surpassé le pouvoir du livre.
+
+P8:
+The gate has reacted to the SKULL EMBLEM.
+La porte réagit à l’EMBLEME A TETE DE MORT.
+
+P9:
+Skull Doors of the castle
+Portes à tête de mort du château
+
+P10:
+Doors with skulls carved on them are dispersed all over the castle.
+Des portes dans lesquelles sont gravés des tètes de morts sont dispersées dans le château.
+
+P11:
+They keep rooms with important contents locked. They can only be opened with the SKULL EMBLEM.
+Elles contiennent des choses précieuses et ne peuvent être ouverte qu’avec l’EMBLEME A TETE DE MORT.
+
+P12:
+Castle of Eternal Night
+Entrance Hall
+
+Château de La Nuit Eternelle
+Hall d’entrée
+
+P13:
+The Entrance Hall is the first place visited when someone enters the castle.
+C’est le premier endroit que vous verrez en arrivant au château.
+
+P14:
+An imposing statue of Lucifer, the Fallen Angel, is placed at the center of the largest room.
+Une grande statue de Lucifer l’ange déchu trône au milieu de la salle principale.
+
+P15:
+Sometimes, strange eyes hang from some doors. Do not face them while they are open...
+Parfois il y a des yeux étranges sur certaines portes. Surtout ne les regardez pas quand ils sont ouverts…
+
+P16:
+Castle of Eternal Night
+Garden of the Dead
+
+Château de La Nuit Eternelle
+Jardin du Mort
+
+P17: 
+A beautiful, green underground graveyard lies deep under the castle. It's called the Garden of the Dead.
+Un magnifique cimetière souterrain se trouve dans les bas fonds du château. C’est le Jardin du Mort.
+
+P18:
+Beautiful flowers can blossom in that dark place, thanks to the light brought by Lucifer.
+De belles fleurs peuvent y fleurir dans cet endroit sombre, grâce à la lumière apportée par Lucifer.
+
+P19:
+Remains of tormented souls rest there for all eternity. One of them is Anna Von Viltheim.
+Les âmes tourmentées y reposent pour l’éternité. L’une d’entre elles est Anna Von Viltheim.
+
+P20:
+The only way to harm her corpse is to wear the 5.. The following is illegible.
+La seule manière de lui causer des dégâts est de porter les 5… Le reste est illisible.
+
+P21:
+Castle of Eternal Night
+Castle Clockwork
+
+Château de La Nuit Eternelle
+Machinerie
+
+P22:
+The castle is full of traps and mechanisms. The Castle Clockwork is where they all are controlled from.
+Le château est plein de pièges et de mécanismes. C’est dans la machinerie que tout est contrôlé.
+
+P23: 
+Castle of Eternal Night
+Castle's History
+
+Château de La Nuit Eternelle
+Histoire du château
+
+P24:
+"This great castle was erected in 1666; The same year as the writing of "The Nine Gates of the Kingdom of the Shadows".
+Ce grand château fut construit en 1666 ; la même année que fut écrit « Les Neuf Portes du Royaume des ombres ».
+
+P25:
+It was built in order to honor Lucifer the Light Bringer. Blessed is the day when he will return.
+Il fût construit en l’honneur de Lucifer, celui qui apporte la lumière. Que ben soit le jour de son retour.
+
+P26:
+The Castle of Eternal Night will become the Castle of Eternal Light.
+Le Château de la Nuit Eternelle deviendra le Château de La Lumière Eternelle.
+
+P27:
+The castle is made of 13 distinct areas. Entrance Hall, Ancient Library, Clockwork, Four Seasons Hall..."
+Ce château est composé de 13 parties différentes : Le hall d’entrée, la bibliothèque, la machinerie, le Hall des 4 Saisons…
+
+P28:
+Pages have been torn off.
+Des pages ont été déchirées.
+
+P29: 
+← PRINCELY ROOMS
+→ ANCIENT LIBRARY
+
+← QUARTIERS SUPERIEURS
+→ BIBLIOTHEQUE
+
+P30: 
+« A Nicolas Xavier De la Tourvelle »
+
+P31: 
+« Si tu veux parler de moi quand j'étais jeune, Nicolas Xavier, c'est fini ça fait un bout temps que cette chère image m'a quitté...»
+
+P32: 
+P. Ogouz HNK ep 37
+
+P33: 
+This hasn't got interest...
+Cela n’a aucun intérêt…
+
+P34:
+Memories of a castle guard 
+Mémoires d’un garde du château
+
+P35:
+I was guarding the Horror Gallery. Suddenly a copy of myself emerged from an old mirror and attacked me!
+J’étais de garde dans la Galerie des Horreurs, soudain, un double de moi-même surgit d’un vieux miroir et m’attaqua !
+
+P36: 
+I couldn't hurt it with my own sword and had to run away...
+Je ne pouvais pas le blesser avec ma propre épée et je dus fuir.
+
+P37: 
+I lost my sword during the fight, but fortunately I have managed to find a similar one.
+J’ai perdu mon épée durant le combat mais heureusement j’ai pu trouver une épée lui ressemblant.
+
+P38:
+Another night the same copy of myself fought me.
+Une autre nuit ce double de moi-même m’attaqua de nouveau.
+
+P39:
+This time I managed to destroy it! It was so strong...
+Cette fois ci j’ai réussi à le détruire, cette épée devait être puissante !
+
+P40:
+Castle of Eternal Night
+Four Seasons Hall
+
+Château de La Nuit Eternelle
+Hall des 4 saisons
+
+P41:
+This place is fantastic. Even if it is a closed place you can feel the weather as if you were outside.
+Cet endroit est merveilleux. Même à l’intérieur on peut ressentir le temps comme si on était dehors.
+
+P42:
+Be careful! The weather changes very quickly, you should wear suitable clothes.
+Attention ! Le temps peut changer très rapidement, couvrez vous bien !
+
+P43:
+Book of the Dark Ritual
+Livre du Rituel Obscur
+
+P44:
+In order to complete the ritual you need the blood of an innocent young girl.
+Pour compléter le rituel il vous faut le sang d’une jeune innocente.
+
+P45: 
+It's very important because without it the result could be very uncertain...
+C’est très important sinon le résultat est très incertain…
+
+P46:
+Castle of Eternal Night 
+Places you should avoid
+
+Château de La Nuit Eternelle
+Les endroits à éviter
+
+P47: 
+If you want to end your miserable life, go into the Death Room.
+Si vous voulez en finir avec votre misérable vie, allez dans la chambre des morts.
+
+P48: 
+It's a beautiful room with yellow curtains. It contains everything for your preferred way to die.
+C’est une salle avec des rideaux jaunes. Il y a là-bas tout ce qu’il faut pour choisir votre façon préférée de mourir.
+
+P49:
+Think well before entering this place, because you cannot leave it then.
+Réfléchissez bien avant d’y entrer car vous ne pourrez plus sortir.
+
+P50: 
+Die... Die... Die... Die... Die...
+Meurt..Meurt…Meurt…Meurt…
+
+P51: 
+The whole book is written with these words. It is scary...
+Le livre n’est rempli que de ce mot. C’est terrifiant.
+
+
+- Horror Gallery
+
+P1:
+So we meet again...
+Nous nous retrouvons de nouveau…
+
+P2:
+A strong evil energy steeps these walls.
+Une énergie négative puissante envahie ce lieu.
+
+P3:
+We must put it down at the source.
+Nous devons l’anéantir à la source.
+
+P4:
+When this castle appeared, I sensed that my stolen item was somewhere inside of it.
+Quand ce château est apparu, j’ai senti que ce que je cherchais s’y trouvais.
+
+P5:
+Unfortunately I have yet to find it.
+Malheureusement il faut que je cherche encore.
+
+P6:
+Though, I have found other valuable things.
+Néanmoins, j’ai trouvé d’autres objets précieux.
+
+P7: 
+← HORROR GALLERY
+→ FOUR SEASONS HALL
+
+← GALLERIE DES HORREURS
+→ HALL DES 4 SAISONS
+
+P8: 
+← UNDERGROUND CAVE
+→ HORROR GALLERY
+
+← GROTTE SOUTERRAINE
+→ GALLERIE DES HORREURS
+
+P9: 
+← HORROR GALLERY
+→ ALTAR
+
+← GALLERIE DES HORREURS
+→ AUTEL
+
+P10:
+This ring should be of interest to you.
+Cet anneau devrait t’intéresser.
+
+
+- 4 Seasons Hall
+
+P1: 
+← FOUR SEASONS HALL
+→ GARDEN
+
+← HALL DES 4 SAISONS
+→ JARDIN
+
+P2: 
+← FOUR SEASONS HALL
+→ CHAMBER OF ILLUSIONS
+
+← HALL DES 4 SAISONS
+→ CHAMBRE DES ILLUSIONS
+
+
+- Underground Caves
+
+P1:
+You have found the Gold Angel Statuette.
+Vous avez trouvé L’ANGE D’OR.
+
+P2:
+The HOLY AURA BLAST's maximum level has increased.
+Le niveau max de L’Aura Blast HOLY a augmenté.
+
+P3:
+The V.V AURA BLAST's maximum level has increased.
+Le niveau max de l’Aura Blast VV a augmenté.
+
+P4: 
+← GARDEN OF THE DEAD
+→ UNDERGROUND CAVE
+
+← JARDIN DU MORT
+→ GROTTE SOUTERRAINE
+
+P5: 
+← UNDERGROUND CAVE
+→ UNDERGROUND AQUEDUCT
+
+← GROTTE SOUTERRAINE
+→ AQUEDUC SOUTERRAIN
+
+P6:
+There is a note here...
+Il y a une note ici…
+
+P7:
+I love this mirror. It's so beautiful.
+I could stare at it forever...
+
+ J’aime ce miroir. Il est si beau. Je pourrais le regarder jusqu’à la fin des temps.
+
+
+- Garden
+
+P1:
+Marionette presentation.
+Spectacle de marionnettes
+
+P2:
+The gate has reacted to the SKULL EMBLEM.
+La porte réagit à l’EMBLEME A TETE DE MORT.
+
+P3: 
+← ALTAR
+→ GARDEN
+
+←AUTEL
+→ JARDIN
+
+P4: 
+← GARDEN
+→ TRIANON
+
+←JARDIN
+→ TRIANON
+
+P5:
+LE PETIT THEATRE DE DARZINKI
+
+P6: 
+Marionette presentation.
+The show's length is: 150 years..
+
+Spectacle de marionnettes
+Durée du spectacle 150 ans…
+
+P7:
+
+P8:
+The V.V AURA BLAST's maximum level has increased.
+Le niveau max de l’Aura Blast VV a augmenté.
+
+
+- Garden of deads
+
+P1:
+Words are carved in here: I will reveal the Path of Truth...
+Des mots sont gravés ici : je révélerais le chemin de la vérité.
+
+P2:
+It seems that something can be placed on the statue's hands.
+Apparemment, quelque chose pourrait tenir dans la main de cette statue.
+
+P3:
+You have used the CUP OF TRUTH.
+Vous avez utilisé la COUPE DE VERITE.
+
+P4:
+You have used the CUP OF UNTRUTH.
+Vous avez utilisé la COUPE DU MENSONGE.
+
+P5:
+Choose your path..
+Choisissez cotre chemin…
+
+P6:
+1-The cross is the truth.
+2-Stop just before the blood.
+3-Soar towards the sky.
+
+1-La croix est le vrai.
+2- Arrêtez-vous juste avant le sang.
+3 -Il s’éleva vers le ciel.
+
+P7:
+4-The fourth one after the truth.
+5-Time goes on and only remains left.
+6- Sometimes life comes from death.
+
+4-La quatrième après le vrai.
+5-Le temps passe et simplement restent des ruines.
+6-Parfois la vie se développe avec la mort.
+
+P8:
+7-The upended truth brings up the rear. 
+7- L’inverse du vrai ferme la marche.
+
+P9:
+It seems that there is a letter is missing!
+Il semble qu’une lettre soit manquante !
+
+P10:
+You have used the "A" LETTER.
+Vous avez utilisé la LETTRE « A ».
+
+P11:
+In HELL, death may be invisible..
+Dans l’ENFER la mort peut être invisible.
+
+P12:
+The gate has reacted to the SKULL EMBLEM.
+La porte réagit à l’EMBLEME A TETE DE MORT.
+
+P13:
+You have found the GOLD EAGLE STATUETTE.
+Vous avez trouvé l’AIGLE D’ORT.
+
+P14:
+You have found the MEDUSA STATUETTE.
+Vous avez trouvé MEDUSA D’OR.
+
+
+- Underground aqueduct
+
+P1:
+I love roses. I would like to see roses.
+J’aime les roses. Je voudrais voir des roses.
+
+P2:
+Roses everywhere..
+Des roses partout…
+
+P3:
+Marvelous, wonderful...
+Merveilleux, fantastique…
+
+P4:
+At last, my soul is released.
+Enfin mon âme est délivrée.
+
+P5:
+I would like to express my deepest gratitude...
+J’aimerais vous exprimer ma gratitude…
+
+
+- Illusion Chamber
+
+P1:
+The gate has reacted to the SKULL EMBLEM.
+La porte réagit à l’EMBLEME A TETE DE MORT.
+
+P2:
+Equip the appropriate armor to get through the BLACK and WHITE energy rays.
+Endossez l’armure adéquate pour passer au travers de ces rayons BLANC ET NOIR.
+
+P3:
+The HOLY AURA BLAST's level max has increased.
+Le niveau max de L’Aura Blast HOLY a augmenté.
+
+
+- Princely rooms
+
+P1:
+The gate has reacted to the SKULL EMBLEM.
+La porte réagit à l’EMBLEME A TETE DE MORT.
+
+P2: 
+The clock's hands move strangely...
+Les aiguilles de cette horloge bougent curieusement.
+
+P3: 
+I'm so tired...
+je suis si fatigué…
+
+P4: 
+I won't need this weapon anymore.
+Je n’aurais plus besoin de cela désormais.
+
+P5: 
+I can now rest in peace. Farewell...
+je peux reposer en paix. Adieu….
+
+P6: 
+It's written "POISON" on the label.
+Il est marqué « POISON » sur l’étiquette.
+
+P7: 
+It was disgusting... A very violent pain engulfs your body... And then your heartbeat stops...!
+Le gout est horrible..Une douleur violente envahie votre corps..Votre cœur s’arrête de battre.
+
+P8:
+A powerful force has neutralized the poison effect!
+Un pouvoir puissant a neutralisé l’effet du poison.
+
+P9:
+It's unbelievable that you've made it this far.
+C’est incroyable que tu sois arrivé si loin.
+
+P10:
+Your power has truly grown. 
+Ton pouvoir a réellement augmenté.
+
+P11:
+Indeed you are a worthy opponent. 
+Tu es vraiment un adversaire redoutable.
+
+P12: 
+Prepare to die...
+Prépare-toi à mourir.
+
+P13:
+Finally, I have found it!
+Enfin, je l’ai trouvé.
+
+P14:
+My ancestors sword, it was here after all.
+L’épée de mes ancêtres, elle était vraiment ici.
+
+P15: 
+But I fear that I'm wounded and too weak, to wield it.
+J’ai peur d’être blessé et trop faible pour m’en servir.
+
+P16:
+I lend you my sword, use it to rid this castle of evil.
+Prends mon épée et utilise là pour anéantir le mal présent dans ce château.
+
+P17:
+I must return to my slumber and leave you to restore peace.
+Je dois retourner à mon sommeil, il faut que tu restore la paix.
+
+P18: 
+Farewell Lecarde...
+Adieu Lecarde…
+
+P19:
+Words are carved here...
+Des mots sont gravés ici.
+
+P20: 
+Welcome to the end of your life. You will never leave this place...
+Bienvenu au terme de ta misérable vie. Tu ne quitteras jamais cet endroit.
+
+P21:
+This room contains everything you need for your preferred way to die.
+Dans cette salle il y a tout ce qu’il faut pour mourir de la manière qui te soit la plus agréable.
+
+P22: 
+Choose your death...
+Choisis ta mort…
+
+P23:
+But I cannot allow you to go any further.
+Mais je ne peux pas t’autoriser à aller plus loin.
+
+
+- Altar
+
+P1: 
+Four angels lead the path...
+Quatre anges ouvrent la voie…
+
+P2: 
+← ALTAR
+→ UNDERGROUND AQUEDUCT
+
+←AUTEL
+→ AQUEDUC SOUTERRAIN
+
+P3:
+Come Lucifer... Rise from the depths of Hell. 
+Viens Lucifer… Lève-toi depuis profondeurs de l’enfer.
+
+P4:
+What?
+Quoi ?
+
+P5: 
+Miserable vermin...!
+Misérable vermine…
+
+P6:
+You are too late. Lucifer will bask the world in evil. 
+Tu arrives trop tard. Lucifer va plonger le monde dans les ténèbres.
+
+P7:
+This cannot be! The ritual is incomplete!
+Impossible! Le rituel est inachevé !
+
+P8: 
+DIE...
+Meurt...
+
+P9: 
+Something can be inserted in the pedestal of this statue...
+Quelque chose peut être insérée dans le socle de la statue.
+
+P10: 
+Forgive me... Prince of Darkness...
+Pardonne moi..  Prince des ténèbres.
+
+P11:
+Have you come to see the light?
+Es-tu venu pour voir la lumière ?
+
+P12:
+I bring the light of one million suns.
+J’apporte la lumière d’un million de soleils.
+
+P13:
+That weapon... I sense it's dark power. 
+ Cette arme..Je sens sons pouvoir obscur.
+
+P14:
+Did lord Dracula's half breed son pass it to you?
+C’est le fils du seigneur Dracula qui te l’a transmis ?
+
+P15:
+Does that fool think you can stand against a God with that relic?
+Ce fou pense t’il que tu peut te mesurer à un dieu avec cette relique ?
+
+P16:
+Before the endless night, there will be endless day.
+Avant la nuit éternelle il y aura des jours eternels.
+
+P17:
+Come face me! Your faith will not save you!
+Viens et mesure-toi à moi ! Ta foi ne te sauvera pas.
+
+
+- Music xbox // (yes, these pages have multiple P1s)
+
+P1: // page title
+Music Box
+Boite à musique
+
+----------------------------------------------------
+P1: // return option
+RETURN
+RETOUR
+
+
+- Boss rush results & Boss rush results Alucard
+
+P1: // RANKING
+RANKING
+RANG
+-----------------------------------------------
+P1:
+POOR
+MAUVAIS
+
+P2:
+AVERAGE
+MOYEN
+
+P3:
+GOOD
+BON
+
+P4:
+GREAT
+TRES BON
+
+P5:
+BEST
+EXCELLENT
+
+- Super load
+
+P1:
+NEW GAME
+Partie Nouvelle
+
+P7:
+LOAD GAME
+Charger partie
+------------
+P1:
+Saint Anselme
+
+P2:
+Dark Forest
+Fôret Sombre
+
+P3:
+Gondre Mine
+Mine du Gondré
+
+P4:
+Isigny
+
+P5:
+Rivoire Cave
+Grotte du Rivoire
+
+P6:
+Sarelle Cemetery
+Cimetierre de Sarelle
+
+P7:
+La Tourvelle Castle
+Chatêau La Tourvelle
+
+P8:
+Delbasse City
+Ville de Delbasse
+
+P9:
+St Justine
+Sainte Justine
+
+P10:
+Guernon university
+Université de Guernon
+
+P11:
+Main Hall
+Hall principal
+
+P12:
+Clockwork
+Machinerie
+
+P13:
+Four Seasons Hall
+Hall des 4 Saisons
+
+P14:
+Underground Caves
+Grottes souterraines
+
+P15:
+Underground Caves
+Grottes souterraines
+
+P16:
+Trianon
+
+P17:
+Garden of the Dead
+Jardin du Mort
+
+P18:
+Chamber of Illusion
+Chambre des illusions
+
+P19:
+Princely Rooms
+Quartiers superieurs
+
+P20:
+Princely Rooms
+Quartiers superieurs
+
+P21:
+Altar
+Autel
+
+P22:
+Ancient Library
+Bibliothèque
+
+P23:
+Servigny Mansion
+Manoir de Servigny
