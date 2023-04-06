@@ -21,7 +21,7 @@ Note that the original game is infamous for the compatibility for controllers if
 
 In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", and be sure the "Wireless Controller" is checked as the preference.
 
-The same could be applied to PS4 Controller (usually labeled as "Wireless Controller" in Control Panel) 
+The same could be applied to Xbox Controllers.
 
 ## Changelog
 
