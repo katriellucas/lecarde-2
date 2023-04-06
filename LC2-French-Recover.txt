@@ -1258,6 +1258,7 @@ Welcome to the Delbasse Hotel.
  I'm sorry but all the rooms are occupied.
 
 Bienvenu à l’hôtel de Delbasse.
+Mi dispiace ma tutte le stanze sono occupate.
 
 P65:
 There are lugubrious people who often get upstairs.
