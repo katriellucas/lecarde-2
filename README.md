@@ -14,6 +14,15 @@ We contacted Migami Games and got approval to keep this repository up.
 
 The release of Lecarde Chronicles 2 got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases. 
 
+## Usage
+To get the reworked game builds, go to "Releases", choose the latest "v***-alpha" tag and find the .exe file. The .exe file is the generated executable, while the .mfa file is the (recovered) project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
+
+Note that the original game is infamous for the compatibility for controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like me:
+
+In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", and be sure the "Wireless Controller" is checked as the preference.
+
+The same could be applied to PS4 Controller (usually labeled as "Wireless Controller" in Control Panel) 
+
 ## Changelog
 
 #### [0.5.1] - 2023-04-04
@@ -26,7 +35,7 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 
 #### [0.5.0] - 2023-04-03
 
-`ADDED` - Reintroduced V-Sync to get rid of frame problems on newer computers.  
+`ADDED` - Reintroduced V-Sync to get rid of framerate problems on newer computers.  
 `ADDED` - Basic info of the game's original developer.  
 `FIXED` - Position of most Japanese text.  
 `CHANGED` - Japanese translation; it now uses the re-translated script for plain-text parts.  
