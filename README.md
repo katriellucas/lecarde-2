@@ -5,7 +5,7 @@ Unfortunately, the recovery process ended up corrupting all non-English characte
 - ~~French~~ Since Mig himself is the French translator, French translation *technically* should be accurate enough.
 - Spanish
 - German
-- Italian
+- ~~Italian~~ Jeffrey Montoya says the Italian translator usually worked for every Migami Games project, So it's...fine to keep the original script until there're some critical Italian translation error.
 - ~~Japanese~~ Initial Japanese translation script found! (thanks: theplottwist)
 - ~~Brazilian Portuguese~~ Initial Brazilian Translation script found! (thanks: theplottwist)
 
@@ -15,15 +15,28 @@ We contacted Migami Games and got approval to keep this repository up.
 The release of Lecarde Chronicles 2 got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases. 
 
 ## Usage
-To get the reworked game builds, go to "Releases", choose the latest "v***-alpha" tag and find the .exe file. The .exe file is the generated executable, while the .mfa file is the (recovered) project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
+To get the reworked game builds, go to "Releases", choose the latest "v*.*.*-alpha" tag and find the .exe file. The .exe file is the generated executable, while the .mfa file is the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
 
 Note that the original game is infamous for the compatibility for controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like me:
 
 In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", and be sure the "Wireless Controller" is checked as the preference.
 
-The same could be applied to Xbox Controllers.
+The same could be applied to Xbox Controllers by repeating the setup above while your desired Xbox controller is plugged in.
 
 ## Changelog
+
+#### [0.6.0] - 2023-04-07
+
+`ADDED` - Recovered Italian script on the repository.   
+`ADDED` - One instance where the dialogue is missing from French text.  
+`ADDED` - One instance where the dialogue is missing from Italian text.  
+`FIXED` - Position of most Italian plain-text.    
+`FIXED` - Most of Italian character font.    
+`FIXED` - A typo in Italian script where the area names of Ancient Library and Servigny Mansion in "super load" screen is misplaced.
+`CHANGED` - Several instances where the Italian text won't match what the voice actor is speaking.    
+`CHANGED` - The Simplified Chinese txt file coding for better visibility on GitHub.  
+`CHANGED` - Some area names in Simplified Chinese txt file to match Japanese translation.  
+
 
 #### [0.5.1] - 2023-04-04
 
