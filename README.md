@@ -32,7 +32,7 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 `ADDED` - One instance where the dialogue is missing from Italian text.  
 `FIXED` - Position of most Italian plain-text.    
 `FIXED` - Most of Italian character font.    
-`FIXED` - A typo in Italian script where the area names of Ancient Library and Servigny Mansion in "super load" screen is misplaced.
+`FIXED` - A typo in Italian script where the area names of Ancient Library and Servigny Mansion in "super load" screen is misplaced.   
 `CHANGED` - Several instances where the Italian text won't match what the voice actor is speaking.    
 `CHANGED` - The Simplified Chinese txt file coding for better visibility on GitHub.  
 `CHANGED` - Some area names in Simplified Chinese txt file to match Japanese translation.  
