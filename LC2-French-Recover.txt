@@ -2798,14 +2798,14 @@ P3:
 ← ALTAR
 → GARDEN
 
-←AUTEL
+← AUTEL
 → JARDIN
 
 P4: 
 ← GARDEN
 → TRIANON
 
-←JARDIN
+← JARDIN
 → TRIANON
 
 P5:
@@ -2852,18 +2852,18 @@ P6:
 2-Stop just before the blood.
 3-Soar towards the sky.
 
-1-La croix est le vrai.
-2- Arrêtez-vous juste avant le sang.
-3 -Il s’éleva vers le ciel.
+1 - La croix est le vrai.
+2 - Arrêtez-vous juste avant le sang.
+3 - Il s’éleva vers le ciel.
 
 P7:
 4-The fourth one after the truth.
 5-Time goes on and only remains left.
-6- Sometimes life comes from death.
+6-Sometimes life comes from death.
 
-4-La quatrième après le vrai.
-5-Le temps passe et simplement restent des ruines.
-6-Parfois la vie se développe avec la mort.
+4 - La quatrième après le vrai.
+5 - Le temps passe et simplement restent des ruines.
+6 - Parfois la vie se développe avec la mort.
 
 P8:
 7-The upended truth brings up the rear. 
