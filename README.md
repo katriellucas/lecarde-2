@@ -23,7 +23,16 @@ In Control Panel→ Devices and printers, find PS4 controller (usually labeled a
 
 The same could be applied to Xbox Controllers by repeating the setup above while your desired Xbox controller is plugged in.
 
+
 ## Changelog
+#### [0.6.1] - 2023-04-08
+
+`FIXED` - Some instances of French text corruption fixes that did not get applied in-game for some reason.    
+`FIXED` - Several French text alignments.    
+`CHANGED` - Text font of Weapon/Armor name text groups in Sub Screen; This is done to make Sub Screen text looks better in Japanese although the original font style of English/French/etc.. for those text groups, is sacrificed. We're sorry but this change has to be done.   
+`CHANGED` - Font of most Japanese texts that stores separately from texts of other languages.   
+`CHANGED` - Several Japanese lines that get affected by the changed text font.   
+
 
 #### [0.6.0] - 2023-04-07
 
