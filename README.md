@@ -3,7 +3,7 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 Unfortunately, the recovery process ended up corrupting all non-English characters, many transparency effects and more. So, if you know any of the following languages and is interested in helping us out by fixing and re-translating this project, feel free to contact us, we are in need of:
 - ~~French~~ Since Mig himself is the French translator, French translation *technically* should be accurate enough.
-- Spanish
+- ~~Spanish~~ After discussions, we decided to keep the original state of Spanish text as much as possible.
 - German
 - ~~Italian~~ Jeffrey Montoya says the Italian translator usually worked for every Migami Games project, So it's...fine to keep the original script until there're some critical Italian translation error spotted.
 - ~~Japanese~~ Initial Japanese translation script found! (thanks: theplottwist)
@@ -17,7 +17,7 @@ The release of Lecarde Chronicles 2 got permited by Konami, the game and its ass
 ## Usage
 To get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe file. The .exe file is the generated executable, while the .mfa file is the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
 
-Note that the original game is infamous for the compatibility for controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like me:
+Note that the original game is infamous for the compatibility for controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like us:
 
 In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", and be sure the "Wireless Controller" is checked as the preference.
 
@@ -25,6 +25,14 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 
 ## Changelog
+
+#### [0.6.2] - 2023-04-09
+`ADDED` - Several instances where the dialogue is missing from Spanish text.  
+`FIXED` - Position of most Spanish plain-text.    
+`FIXED` - Several Spanish text alignments.    
+`FIXED` - Most of Spanish character font.    
+
+
 #### [0.6.1] - 2023-04-08
 
 `FIXED` - Some instances of French text corruption fixes that did not get applied in-game for some reason.    
