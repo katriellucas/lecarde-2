@@ -3,7 +3,7 @@ Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami
 
 Unfortunately, the recovery process ended up corrupting all non-English characters, many transparency effects and more. So, if you know any of the following languages and is interested in helping us out by fixing and re-translating this project, feel free to contact us, we are in need of:
 - ~~French~~ Since Mig himself is the French translator, French translation *technically* should be accurate enough.
-- Spanish: After discussions, we decided to keep the original state of Spanish text as much as possible for "Catoblepas" builds until there're some critical Italian translation error spotted.
+- Spanish: After discussions, we decided to keep the original state of Spanish text as much as possible for "Catoblepas" builds until there're some critical Spanish translation error spotted.
 - German: Same as Spanish.
 - Italian: Jeffrey Montoya says the Italian translator usually worked for every Migami Games project, So it's... fine to keep the original script in "Catoblepas" builds until there're some critical Italian translation error spotted.
 - ~~Japanese~~ Initial Japanese translation script found! (thanks: theplottwist)
