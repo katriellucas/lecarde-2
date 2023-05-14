@@ -26,6 +26,23 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
+#### [0.7.0] - 2023-05-14
+
+`ADDED` - Support of custom keyboard key rebind (WIP; contains bugs). (DragonX24)
+`ADDED` - Simplified Chinese language variant. (Aceearly1993)
+`ADDED` - Reworked version credit at credit roll. (Aceearly1993)
+`CHANGED` - Several instances where the original Japanese script fits better than the retranslated script. (Aceearly1993)
+`CHANGED` - Several instances where the embedded Japanese text as pictures need to be retranslated. (Aceearly1993)
+`CHANGED` - Config screen UI to reflect DragonX24's custom keyboard key rebind. (Aceearly1993)
+`CHANGED` - Language selection screen UI to reflect the addition of Simplified Chinese. (Aceearly1993)
+`CHANGED` - The required amount of a key press to active an easter egg from 3 times to 12 times in order to avoid confusion during keyboard key remapping. (Aceearly1993)
+`REMOVED` - Function of directly quitting the game with Esc key. Too annoying in various circumstances and is blamed by too many people. (Aceearly1993)
+`FIXED` - Several instances where the required map chip is missing in Sautelle Cemetery and Garden of Dead in original. (Aceearly1993)
+
+This version also introduces a bug due to new keyboard remap system, we are still trying to fix it:
+`BUG` - There's a random 1/2 chance in large area transitions that Efrain sometimes won't change animation and continue to go on to the direction he was going or doing whirlwind even if you aren't pressing a button. (Keyboard control only; joypad control is not affected.)
+
+
 #### [0.6.3] - 2023-04-10
 
 `ADDED` - Recovered Spanish and German script on the repository.  
