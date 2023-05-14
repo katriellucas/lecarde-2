@@ -131,9 +131,9 @@ Efrain is in front of a stairway.
 当艾尔弗林在梯子前面时。
 
 When Efrain is crouching.
-当艾尔弗林蹲下时。
+当艾尔弗林蹲下时使用。
 While Efrain is in mid-air.
-当艾尔弗林在空中时。
+当艾尔弗林在空中时使用。
 When Efrain is in mid-air. After a double jump.
 当艾尔弗林在空中时，在二段跳之后使用。
 While Efrain is in mid-air or hanging from a rope or ring.
@@ -519,7 +519,7 @@ You cannot accept such a cruel fate. Continue your investigations and get a bett
 Ending B AVERAGE ENDING
 结局B 普通结局
 This is not that bad but you can do better. There is something that you have overlooked, find it out and enter the legend…
-这个结果没有那么差，但是你应该能做得更好。你可能在冒险中漏掉了什么东西，把它们找齐以后进入传说吧...
+这个结果没有那么差，但是你应该能做得更好。你可能在冒险中漏掉了一些东西，把它们找齐以后进入传说吧...
 Ending A BEST ENDING
 结局A 最好结局
 You are indeed the greatest hero of your time. You have deserved a good rest, but if you want you could try the BOSS RUSH MODE.
