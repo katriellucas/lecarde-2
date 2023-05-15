@@ -30,10 +30,10 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 `ADDED` - Small keyboard region control inspired from the original.  (Aceearly1993)  
 `ADDED` - Extended Readme.  (Aceearly1993)  
-`ADDED` - Japanese variant of "super load" screen area name text.  
+`ADDED` - Japanese variant of "super load" screen area name text. (Aceearly1993)  
 `CHANGED` - Reverted font of equipment name back to original. (Aceearly1993)  
 `CHANGED` - Japanese and Simplified Chinese language variants now use unique font for equipment name. (Aceearly1993)  
-`CHANGED` - One instance in S.Chinese script.  
+`CHANGED` - One instance in S.Chinese script. (Aceearly1993)  
 
 
 
