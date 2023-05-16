@@ -26,6 +26,10 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
+#### [0.7.0.2] - 2023/5/16 #### 
+
+`FIXED` - Small Keyboard region Control in save room.
+
 #### [0.7.0.1] - 2023-05-16
 
 `ADDED` - Small keyboard region control inspired from the original.  (Aceearly1993)  
