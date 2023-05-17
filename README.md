@@ -26,6 +26,12 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
+#### [0.7.0.3] - 2023/5/17 #### 
+
+`ADDED` - A task bar system which can be freely toggled on/off by pressing F8 key, previously only seen in an early demo of the game, and LC1.   
+
+The option menu bundled within this task bar, has a built-in control option which can change the secondary variant of keyboard direction key mapping to anywhere else (There's no character stuck bug in the secondary keyboard direction key mapping), effectively countering the keyboard control bug as a temporary solution until we solved in-game control mapping bug in Mig's bottom-level code system in the future.    
+
 #### [0.7.0.2] - 2023/5/16 #### 
 
 `FIXED` - Small Keyboard region Control in save room.
