@@ -26,6 +26,12 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
+#### [0.7.0.4] - 2023/5/28
+
+`ADDED` - Recovered all brazilian-portuguese original dialogue, as well as fixed several issues and mistranslations.  
+`FIX` - Wrong images on some shops.  
+`FIX` - Brazilian-portuguese text alignment.  
+
 #### [0.7.0.3] - 2023/5/17 #### 
 
 `ADDED` - A task bar system which can be freely toggled on/off by pressing F8 key, previously only seen in an early demo of the game, and LC1.   
