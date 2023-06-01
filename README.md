@@ -26,6 +26,20 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
+#### [0.8.0.0] - 2023/6/1
+
+`ADDED` - Missing counterparts of brazilian-portuguese texts and pictures. (Aceearly1993 & Katriel)  
+`CHANGED` - Two instances in Japanese script for consistency of second personel. (Aceearly1993)  
+`CHANGED` - Soft reset command from F2 key to Ctrl+F2 key to avoid accident misinput. (Aceearly1993)  
+`CHANGED` - Description ("Guide") screen UI to reflect global function hotkey changes. (Aceearly1993)  
+`FIXED` - Unique icon of plain text object for better visibility in frame editor. (Aceearly1993)  
+`FIXED`  - An attempt to address issues with frame speed in Alucard player's walking animation. (Aceearly1993)  
+`FIXED`  - Graphic error in the Alucard event animation in St. Justin. (Aceearly1993)  
+`FIXED`  - Issues with consistency of distances between text at S.Chinese title menu. (Aceearly1993)  
+`FIXED`  - Finalized and restored unused brazilian-portuguese variant of teleport room embedded texts. (Aceearly1993)  
+
+
+
 #### [0.7.0.4] - 2023/5/28
 
 `ADDED` - Recovered all brazilian-portuguese original dialogue, as well as fixed several issues and mistranslations.  
