@@ -26,7 +26,21 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
-#### [0.8.0.0] - 2023/6/1
+#### [0.9.0.0] - 2023/6/5 #### 
+`ADDED` - Last bit of missing Brazilian-Portuguese texts and pictures. (Aceearly1993 & Katriel)  
+`ADDED` - Japanese and S.Chinese now have unique monster guide enemy name counterpart instead of sharing the default English counterpart. (Aceearly1993)  
+`CHANGED` - Keyboard remapping plugin and related logic. Hopefully the character stuck problem could be gone. (DragonX24)  
+`CHANGED` - Adjusted sub menu description font in Japanese once again for consistency. (Aceearly1993)  
+`REMOVED` - Default Small keyboard region control, and its reference in task bar. (Not necessary anymore.) (Aceearly1993)  
+`REMOVED` - Mute music and Mute samples hot key function in the framework of original game in order to avoid confusion caused by misinput in keyboard control. (Aceearly1993)  
+`FIXED` - An issue where the exit button did not work in boss rush mode character selection. (Aceearly1993)   
+`FIXED` - Unique icon of plain text object for better visibility in frame editor. (Aceearly1993)   
+`FIXED` - Several typos in monster guide entry. (Aceearly1993)   
+`FIXED` - Several graphical errors throughout the in-game areas.  (Aceearly1993)   
+`RELEASE` - Soft-release the version to Chinese and Japanese communities for Chinese translation quality check and feedbacks. Hopefully the very last major update before the 1.0 release. (Aceearly1993)
+
+
+#### [0.8.0.0] - 2023/6/1 #### 
 
 `ADDED` - Missing counterparts of brazilian-portuguese texts and pictures. (Aceearly1993 & Katriel)  
 `CHANGED` - Two instances in Japanese script for consistency of second personel. (Aceearly1993)  
@@ -40,7 +54,7 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 
 
-#### [0.7.0.4] - 2023/5/28
+#### [0.7.0.4] - 2023/5/28 #### 
 
 `ADDED` - Recovered all brazilian-portuguese original dialogue, as well as fixed several issues and mistranslations.  
 `FIX` - Wrong images on some shops.  
