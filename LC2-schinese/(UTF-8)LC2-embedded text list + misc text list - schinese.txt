@@ -580,7 +580,7 @@ Hanged
 PAGE 2
 
 Possessed Tree
-亡魂树
+宿魂树
 Plant
 植物
 Dead Medusa
@@ -588,9 +588,9 @@ Dead Medusa
 Hand
 魔手
 Bone Dragon
-骨龙
+白骨龙
 Cog
-亡魂齿轮
+诅咒齿轮
 Upended Demon
 倒吊恶魔
 Dressed Skeleton
@@ -614,7 +614,7 @@ Snake
 Flea Man
 跳蚤男
 Bird
-鸟
+阿泰尔鹰
 Black panther
 黑豹
 
@@ -622,9 +622,9 @@ Black panther
 PAGE 3
 
 Frozen Eye
-冷冻眼
+冰封眼
 Frozen Bones
-冷冻骷髅
+寒冰骷髅
 Frozen Shade
 冰之女亡灵
 Death Wall
@@ -640,9 +640,9 @@ Ghost Skull
 Medusa Head
 美杜莎头
 Frozen Skull
-冷冻头骨
+冰封头骨
 Wharg
-战狼
+魔狼
 Blood Skeleton
 血骷髅
 Spectral Girl
@@ -683,8 +683,8 @@ Merman
 半鱼人
 Hunter Skeleton
 猎人骷髅
-Whitered Plant
-白红妖花
+Withered Plant
+干枯妖花
 Urchin
 海胆
 Decarabia
@@ -807,7 +807,7 @@ Stone Rose
 Carpet
 亡灵地毯
 Clothes
-亡灵衣服
+亡灵服装
 Axe Armor
 斧装甲
 Yellow Ectoplasm
@@ -827,7 +827,7 @@ Anna Von Viltheim
 Leviathan
 列维坦
 Goliath
-歌利亚人形
+歌利亚装甲
 
 
 
