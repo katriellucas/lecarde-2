@@ -2484,3 +2484,464 @@ Divine Collar
 
 Von Viltheim Pendant
 ヴォン・ヴィルトハイムのペンダント
+
+
+
+Monster Guide
+
+Page 1
+Skeleton
+スケルトン
+
+Roman Zombie
+ローマのゾンビ
+
+Spider
+スパイダー
+ 
+Dead Flea Man
+デッド・のみ男
+
+Bat
+こうもり
+
+Roman Skeleton
+ローマのスケルトン
+
+Colossus
+コロッサス
+
+Medusa Statue
+メディウサ像
+
+Stone Snake
+石の小蛇
+
+Giant Crow
+ジャイアントクロウ
+
+Troll
+インプ (No fitting counter part, so I just use the term "imp" which is an enemy in circle of the moon with a moveset similar to this enemy)
+
+Slime Eye
+スライムアイ
+
+Fish
+フィッシュ
+
+Big Wasp
+ハチ
+
+Hive
+ハチのす
+
+Living blood
+リビングブラッド
+
+Grass man
+ウネ男
+
+Zombie
+ゾンビ
+
+Hanged man
+ハングドマン
+
+
+Page 2
+Possessed tree
+憑依された木
+
+Plant
+植物
+
+Dead Medusa
+デッド・メディウサ
+
+Hand
+悪魔の手
+
+Bone Dragon
+スケルトンドラゴン
+
+cog
+歯車
+
+upended devil
+逆さまの悪魔
+
+dressed skeleton
+着衣のスケルトン
+
+ectoplasm
+エクトプラズム
+
+Bone pillar
+ほねばしら
+
+Jane. D. Servigny
+ジャンヌ・デ・サービニー
+
+Count Servigny
+サービニー伯爵
+
+Mega Raven
+メガクロウ
+
+Tarentul
+タランチュラクモ
+
+Death mushroom
+死のキノコ
+
+Snake
+小蛇
+
+Flea man
+のみ男
+
+Bird
+アルタイル (counterpart Altair appear in SotN, OoE, etc..)
+
+black panther
+ブラックパンサー
+
+
+Page 3
+Frozen Eye
+フローズンアイ
+
+Frozen Bones
+フローズンスケルトン
+
+Frozen Shade
+フローズンシェイド
+
+death wall
+デスウォール
+
+caged corpse
+フローズンコープス
+
+caged hand
+フローズンコープスの手
+
+mud man
+マッドマン
+
+ghost skull
+フライングスカル
+
+medusa head
+メディウサヘッド
+
+frozen skull
+フローズンスカル
+
+wharg
+フェンリル
+
+blood skeleton
+ブラッドスケルトン
+
+spectral girl
+スペクトルガール
+
+tombstone
+グレイブストーン
+
+widow
+
+
+efrain fake
+ドッペルゲンガー (for japanese it's better just straight call the boss doppelganger)
+
+poisoned ectoplasm
+毒のエクトプラズム
+
+upended yorick
+逆さまのヨリック
+逆さまのスケルトンボーイ 
+
+hornet
+スズメバチ
+
+
+Page 4
+Schmoo
+キュウ
+
+Bow Knight
+ボウガンナイト
+
+Count La Tourvelle
+ラ・トゥールベール伯爵
+
+Lotus Corpse
+ロータスコープス
+
+Baloon pod
+バルーンポッド
+
+Fatal Chest
+フェータルボックス
+
+Floating Eye
+ピーピングアイ
+
+Horned Bat
+ツノコウモリ
+
+Merman
+はんぎょじん
+
+hunter skeleton
+スケルトンハンター
+
+Withered Plant
+枯れた植物
+
+Urchin
+ニードルス
+
+Decarabia
+デカラビア
+
+Jelly fish
+クラゲ
+
+Dark Nun
+闇の修道女
+
+Mygale spider
+タイタンスパイダー(titan spider is more fitting the japanese terms)
+
+Red ectoplasms
+レッドエクトプラズム
+
+Constance D' albaret
+コンスタンツ・ダ・アルバレ
+
+Large Slime
+スライム・ラージ
+
+
+Page 5
+Living Curse
+リビングカース
+
+Wicked Scientist
+邪悪な科学者
+
+Poltergeist
+ポルターガイスト (although ターンネートテーブル meets as the counterpart at it was in SotN and DoS, it's not fitting here because here it involves ghosts possessing more stuff than chairs.)
+
+Corpse Guest
+コープスゲスト
+
+Golden Skeleton
+ゴールデンスケルトン
+
+Head
+ヘッド
+
+Slogra
+スログラー
+
+Headless Zombie
+首なしのゾンビ
+
+Murderer
+殺人鬼
+
+Wicked head
+エビルヘッド
+
+Golden Dragon
+ゴールデンドラゴン
+
+Occupied Wheel
+憑依されたホイール
+
+Dark Wanderer
+ダークワンダラー
+
+Malus
+マルス
+
+spell book
+魔法の本
+
+Trap Statue
+トラップの彫像
+
+Giant Fish
+ビッグフィッシュ
+
+Death Plant
+デスプラント
+
+Lost Head
+ロストヘッド
+
+page 6
+Two Headed Skeleton
+双頭の骸骨
+
+Bust
+胸像
+
+Flying Picture
+フライングアートワーク
+
+Modern Art
+現代美術
+
+Artwork
+アートワーク
+
+Hell Picture
+地獄絵図
+
+Autumn Man
+秋の男
+
+Grave Digger
+スカルグレイヴディガー
+
+Ice Bird
+氷の鳥
+
+Frozen Mask
+フローズンマスク
+
+Water Element
+水のエレメント
+
+Water Spirit
+水の精霊
+
+White Flower
+白い花
+
+Nightmare Plant
+ナイトメアプラント
+
+Weed
+ウネ
+
+Cursed Skeleton
+呪われた骸骨
+
+Golden Pillar
+ゴールデン・ほねばしら
+
+Fire Shade
+ファイアシェイド
+
+Blood Barrel
+ブラッドバレル
+
+
+page 7
+Bloody Zomble
+ブラッディゾンビ
+
+Giant Skeleton
+ビッグスケルトン
+
+Necromancer
+ネクロマンサー
+
+Cage
+籠
+
+Arachne
+アルケニー
+
+Nephilia
+ネフィリア
+
+Stone Rose
+ストーンローズ
+
+Carpet
+カーペット
+
+Clothes
+ぬののふく
+
+Axe Armor
+アックスアーマー
+
+Yellow Ectoplasm
+イェローエクトプラズム
+
+Pudding
+プリン
+
+Lost Skull
+ロストスカル
+
+Lady Zombie
+レディゾンビ
+
+Sedan Chair
+セダンチェア
+
+Flowers Maid
+花のメイド
+
+Anna Von Wiltheim
+アンナ・ヴォン・ヴィルトハイム
+
+Leviathan
+レヴィアタン
+
+Goliath
+ゴリアテ
+
+Devil Worshipper A
+悪魔崇拝者A
+
+Devil Worshipper B
+悪魔崇拝者B
+
+Hunting Girl
+ネメシス
+
+Decorative Head
+装飾的なヘッド
+
+Illusionist
+奇術師
+
+Devil Worshipper C
+悪魔崇拝者C
+
+Bow Master
+ボウガンマスター
+
+Balkan
+バルカン
+
+Shroud
+死衣
+
+Gaibon
+ギャイボン
+
+Death
+デス
+
+Duke Guillecourt
+ギルクール公爵
+
+Shadow
+ 幻影
+
+Angel of Death
+死の天使
+
+Altered Lucifer
+暗黒ルシファー
