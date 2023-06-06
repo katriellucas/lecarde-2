@@ -13,7 +13,7 @@ Unfortunately, the recovery process ended up corrupting all non-English characte
 ## Disclaimer
 We contacted Migami Games and got approval to keep this repository up.  
 
-The release of Lecarde Chronicles 2 got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases. 
+The release of Lecarde Chronicles 2 got permitted by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intellectual property owned by Konami, please support the company by buying their official releases. 
 
 
 ## Usage
