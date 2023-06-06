@@ -26,6 +26,16 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 ## Changelog
 
+#### [0.9.0.1] - 2023/6/6 #### 
+
+`ADDED` - "LC2_KeyBinding.ini" in the release tag. (Aceearly1993)  
+`CHANGED` - Re-enabled small keyboard region controls for those who happened to prefer small keyboard region. (Aceearly1993)  
+`CHANGED` - The alternate pause key (plays jingle and the screen stays still when paused) from "Space bar" to "Esc" in order to not interfere the new default keyboard control. (Aceearly1993)  
+`CHANGED` - "Guide" screen UI to reflect the hotkey changes. (Aceearly1993)  
+`FIXED` - An issue where the keyboard control in "true start screen" did not work if start the game in a fresh new location where the "LC2_KeyBinding.ini" is not generated yet. (Aceearly1993)  
+`FIXED` - Minor display issue in various Brazilian-Portuguese texts. (Aceearly1993)  
+ 
+
 #### [0.9.0.0] - 2023/6/5 #### 
 `ADDED` - Last bit of missing Brazilian-Portuguese texts and pictures. (Aceearly1993 & Katriel)  
 `ADDED` - Japanese and S.Chinese now have unique monster guide enemy name counterpart instead of sharing the default English counterpart. (Aceearly1993)  
