@@ -9,10 +9,12 @@ Unfortunately, the recovery process ended up corrupting all non-English characte
 - ~~Japanese~~ Initial Japanese translation script found! (thanks: theplottwist)
 - ~~Brazilian Portuguese~~ Initial Brazilian Translation script found! (thanks: theplottwist)
 
+
 ## Disclaimer
 We contacted Migami Games and got approval to keep this repository up.  
 
 The release of Lecarde Chronicles 2 got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases. 
+
 
 ## Usage
 To get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe file. The .exe file is the generated executable, while the .mfa file is the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
@@ -22,6 +24,24 @@ Note that the original game is infamous for the compatibility issue for PS4/Xbox
 In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", and be sure the "Wireless Controller" is checked as the preference.
 
 The same could be applied to Xbox Controllers by repeating the setup above while your desired Xbox controller is plugged in.
+
+
+#### About "LC2_KeyBinding.ini" #### 
+
+A reworked version of the keyboard control created by DragonX24.
+This file must be placed in the same directory the game locates if you downloaded the game and moved the game files to a fresh new location.
+
+
+#### About Small keyboard region control #### 
+
+ Small keyboard region control is inspired from the original keyboard control, added back by requests.  
+Keys are set below:  
+- "Ins": Attack  
+- "Del": Jump  
+- "End": Special   
+- "Page Down": Aura  
+- "-": Map Screen  
+- "+": Sub Menu  
 
 
 ## Changelog
@@ -88,19 +108,6 @@ The option menu bundled within this task bar, has a built-in control option whic
 `CHANGED` - Reverted font of equipment name back to original. (Aceearly1993)  
 `CHANGED` - Japanese and Simplified Chinese language variants now use unique font for equipment name. (Aceearly1993)  
 `CHANGED` - One instance in S.Chinese script. (Aceearly1993)  
-
-
-
-#### About Small keyboard region control #### 
-
- Small keyboard region control is inspired from the original keyboard control, added back by requests as the current keyboard rebind control has bugs.  
-Keys are set below:  
-- "Ins": Attack  
-- "Del": Jump  
-- "End": Special   
-- "Page Down": Aura  
-- "-": Map Screen  
-- "+": Sub Menu  
 
 
 #### [0.7.0] - 2023-05-14
