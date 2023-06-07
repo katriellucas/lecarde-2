@@ -46,6 +46,15 @@ Keys are set below:
 
 ## Changelog
 
+#### [0.9.0.2] - 2023/6/7 #### 
+
+`ADDED` - Description of "LC2_KeyBinding.ini" in the readme files. (Aceearly1993)  
+`CHANGED` - Minor adjust to S.Chinese embedded text in game over screen. (Aceearly1993)  
+`CHANGED` - Deleted "S.Alucard" (the development leftover, which contains Alucard's SotN sprite template) in St.Justine for reducing potential of receiving DMCA harshment. (Aceearly1993)  
+`FIXED` - A bug related to non-ASCII letter input by disabling the function to switch to non-ASCII IME in-game. (Aceearly1993)  
+`FIXED` - "Whitered" typo in monster guide section of the .txts. (Aceearly1993)  
+
+
 #### [0.9.0.1] - 2023/6/6 #### 
 
 `ADDED` - "LC2_KeyBinding.ini" in the release tag. (Aceearly1993)  
