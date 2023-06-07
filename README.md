@@ -48,8 +48,8 @@ Keys are set below:
 
 #### [0.9.1.0] - 2023/6/8 #### 
 
-`FIXED` - Tile Layering mistakes in the teleport rooms and albaret areas in original. (Aceearly1993)
-`FIXED` - A text box graphic error at the "choose your own death" room in S.Chinese. (Aceearly1993)
+`FIXED` - Tile Layering mistakes in the teleport rooms and albaret areas in original. (Aceearly1993)  
+`FIXED` - A text box graphic error at the "choose your own death" room in S.Chinese. (Aceearly1993)  
 
 
 #### [0.9.0.2] - 2023/6/7 #### 
