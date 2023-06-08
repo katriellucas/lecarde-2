@@ -46,6 +46,12 @@ Keys are set below:
 
 ## Changelog
 
+#### [1.0.0.0] - 2023/6/8 #### 
+
+`RELEASE` - Initial release!!!!!!
+
+
+
 #### [0.9.1.0] - 2023/6/8 #### 
 
 `FIXED` - Tile Layering mistakes in the teleport rooms and albaret areas in original. (Aceearly1993)  
