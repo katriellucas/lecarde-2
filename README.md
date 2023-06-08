@@ -46,6 +46,11 @@ Keys are set below:
 
 ## Changelog
 
+#### [1.1.0.0] - 2023/6/8 #### 
+
+`FIXED` - A bug where the control config object is receiving valid input from main title screen. (Katriel & Aceearly1993)  
+
+
 #### [1.0.0.0] - 2023/6/8 #### 
 
 `RELEASE` - Initial release!!!!!!
