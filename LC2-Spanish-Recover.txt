@@ -2,21 +2,21 @@
 
 P1:
 After vanquishing the evil looming over Rome, Efrain Lecarde journeyed to France.
-Despues desde su pelea contra las fuerzas malvadas en Roma, Efrain empezo su viaje a Francia.
+Después de su pelea contras las fuerzas malvadas que acechaban Roma, Efrain Lecarde empezó su viaje a Francia.
 
 P2:
 Darkness has engulfed the Duchy of Guillecourt. The common people speak of day turning into night and about inhuman creatures lurking in the shadows. Terror has found a home in their hearts, where faith once lived.
-Unas serias amenazas habian envuelto al Ducado de Guillecourt.  De acuerdo a los reportes, anormalidades en el Clima, y apariciones de monstros peligrosos, han sido notadas.  La gente ha sido aterrorizada, y dice que Dios los ha abandonado.
+Unas serias amenazas habían envuelto al Ducado de Guillecourt.  De acuerdo a los reportes, anormalidades en el Clima, y apariciones de monstruos peligrosos, han sido notadas.  La gente ha sido aterrorizada, y dice que Dios los ha abandonado.
 
 P3:
 One night, during his journey, a vision materialized before Efrain's eyes. A damsel overtaken by sorrow asked for his help, vanishing into the night just as suddenly as she had appeared. Who could she be? Does she know anything about the misery of the populace?
-En una noche durante su viajes, de repente una vision aparecio frente de los ojos de Efrain.  Una joven con una expresion muy triste y le rogo por ayuda, y despues desaparecio..
-Quien fue esa mujer? Y tendra ella algo que ver con todos estos desastres que han sido reportados?
+En una noche durante su viaje, de repente, una visión apareció frente de los ojos de Efrain.  Una joven con una expresión muy triste le rogó por ayuda, y después desapareció...
+¿Quién fue esa mujer? ¿Tendrá ella algo que ver con todos estos desastres que han sido reportados?
 
 
 P4:
 The Duchy of Guillecourt is formed by three earldoms: Servigny, La Tourvelle and Albaret. 
-Despues de muchos dias, Efrain llego al Ducado de Guillecourt.
+Después de muchos días, Efrain llego al Ducado de Guillecourt.
 
 Tres condados forman el Ducado:
 -Servigny
@@ -25,31 +25,31 @@ Tres condados forman el Ducado:
 
 
 P5:
-After many days and nights, Efrain reached Sevigny, where the most important mission of his life was about to begin...
-Efrain llego al pueblo de Saint Anselme, en el condado de Servigny. No esta consiente que el reto mas importante de su vida, esta a punto de comenzar....
+After many days and nights, Efrain reached Servigny, where the most important mission of his life was about to begin...
+Efrain llego al pueblo de Saint Anselme, en el condado de Servigny. No está consciente que el reto más importante de su vida, está a punto de comenzar...
 
 
 P6:
 Unable to stop the unholy summoning of Lucifer, Efrain met his demise within the depths of the Castle of Eternal Night. His fight against evil lost, Efrain's heroism amounted to dust in the wind.
-Despues de su aventura heroica, Efrain fallecio en las profundidades del Castillo de la Noche Eterna. No pudo parar la evocacion maldita de Lucifer. La pelea contra las fuerzas del mal ha sido perdida.
+Después de su aventura heroica, Efrain falleció en las profundidades del Castillo de la Noche Eterna. No pudo parar la evocación maldita de Lucifer. La pelea contra las fuerzas del mal ha sido perdida.
 
 P7:
 Efrain's name was soon forgotten by the many years of bloodshed and destruction to follow. Evil was eventually repelled by other knights of the Church, but the long lost Lecarde name was not part of this legacy...
-Despues de muchos años de sangradura y destruccion por todo el mundo, al fin los Caballeros de la Iglesia alcanzaron a repeler a las fuerzas del mal.
+El nombre de Efrain fue rápidamente olvidado, siguieron años de sangradura y destrucción por todo el mundo. Eventualmente, los Caballeros de la Iglesia lograron repeler a las fuerzas del mal. 
 Pero esta, no es la historia de Efrain...
 
 
 
 P8:
 After a fierce struggle inside the Castle of Eternal Night, Efrain narrowly escaped the collapsing lair. Unfortunately, the same could not be said for Christine...
-Despues de su esfuerzo en el Castillo de la Eterna Noche, Efrain alcanzo a escapar a salvo del castillo al desmoronarse. No pudo salvar a Christine, y tampoco pudo prevenir la evocacion de Lucifer a las manos del Duque de Guillecourt.
+Después de su esfuerzo en el Castillo de la Eterna Noche, Efrain logro escapar a salvo del castillo al desmoronarse. No pudo salvar a Christine, y tampoco pudo prevenir la evocación de Lucifer a las manos del Duque de Guillecourt.
 
 P9:
 With Duke Guillecourt's successful summoning of Lucifer, many years of bloodshed soon followed. But along with other knights of the Church, Efrain managed to repel the forces of darkness.
 Efrain's effort was remembered and honored, but at the cost of countless lives. No honor could spare Efrain from the anguish tormenting him until the last of his days. If only he had stopped the summoning of Lucifer all those years before...
 
-Despues de muchos años de sangradura y destruccion por todo el mundo, Efrain y los Caballeros de la Iglesia al fin alcanzaron a repeler a las fuerzas del mal.
-Las peleas de Efrain fueron aclamadas, pero demasiada gente murio. Si solo el hubiera parado la evocacion en el Castillo de la Noche Eterna...
+Después de muchos años de sangradura y destrucción por todo el mundo, Efrain acompañado de los Caballeros de la Iglesia lograron repeler a las fuerzas del mal.
+Las peleas de Efrain fueron aclamadas, pero demasiada gente murió. Si solo él hubiera parado la evocación en el Castillo de la Noche Eterna...
 
 
 
@@ -57,11 +57,11 @@ P10:
 
 P11:
 With the defeat of Lucifer, the evil threatening to swallow the world was finally vanquished. Following the relentless battle, the morning sun welcomed Efrain to rest with Christine.
-Tras la victoria contra Lucifer, el Angel Caido, el espanto que amenazaba al mundo desaparecio completamente. Antes de irse del pais, Efrain y Christine descansaron, y respiraron la frescura de la mañana. 
+Tras la victoria contra Lucifer, el Ángel Caído, el espanto que amenazaba al mundo desapareció completamente. Antes de irse del país, Efrain y Christine descansaron, y respiraron la frescura de la mañana. 
 
 P12:
 A bird appeared on the horizon, and brought the knight a message. It was a letter from Alucard.
-Un pajaro aparecio en el cielo, y le trajo un mensaje a Efrain.
+Un pájaro apareció en el cielo, y le trajo un mensaje a Efrain.
 
 P13:
 Lecarde
@@ -81,12 +81,12 @@ Alucard
 
 Lecarde
 
-En verdad eres un gran guerrero, digno de mi confianza.  He retornado a dormir, pero tenia que perguntarte algo.
+En verdad eres un guerrero formidable, digno de mi confianza.  He retornado a dormir, pero tenía que preguntarte algo.
 
-Mi busqueda por mi espada me llevo a muchos lugares. Mientras viajaba, encontre un Doctor que estaba decidido a vencer su mortalidad.  Temo que si no se hace nada acerca de esto, el se transformara en otra amenaza para la humanidad.
+Mi búsqueda por mi espada me llevo a muchos lugares. Mientras viajaba, encontré un Doctor que estaba decidido a vencer su mortalidad.  Temo que si no se hace nada acerca de esto, él se transformará en otra amenaza para la humanidad.
 
 
-Te he dejado con instrucciones a mi camara de sepulcro, donde duermo.  Por favor, viaja alla y devuelveme mi espada. Si lo haces, va a haber una nueva arma ponderosa esperandote.
+Te he dejado con direcciones a mis aposentos.  Por favor, viaja allá y devuélveme mi espada. Si lo haces, va a haber una poderosa nueva arma esperándote.
 Buena Suerte, Lecarde.
 Tu amigo,
 Alucard
@@ -94,9 +94,9 @@ Alucard
 
 P14:
 After reporting his quest in Rome, Efrain began his search for Alucard's chamber. Efrain Lecarde's name will forever be engraved in the pages of history.
-Despues de reportarse en Roma, Efrain empezo su busqueda por la tumba de Alucard.
+Después de reportarse en Roma, Efrain empezó su búsqueda por la tumba de Alucard.
 
- El nombre de Efrain Lecarde estara inscrito en monumentos y libros de historia, para siempre...
+ El nombre de Efrain Lecarde estará inscrito en monumentos y libros de historia, para siempre...
 
 
 - SUBSCREEN
