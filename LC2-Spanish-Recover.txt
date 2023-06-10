@@ -42,7 +42,7 @@ Pero esta, no es la historia de Efrain...
 
 P8:
 After a fierce struggle inside the Castle of Eternal Night, Efrain narrowly escaped the collapsing lair. Unfortunately, the same could not be said for Christine...
-Después de su esfuerzo en el Castillo de la Eterna Noche, Efrain logro escapar a salvo del castillo al desmoronarse. No pudo salvar a Christine, y tampoco pudo prevenir la evocación de Lucifer a las manos del Duque de Guillecourt.
+Después de su esfuerzo en el Castillo de la Noche Eterna, Efrain logro escapar a salvo del castillo al desmoronarse. No pudo salvar a Christine, y tampoco pudo prevenir la evocación de Lucifer a las manos del Duque de Guillecourt.
 
 P9:
 With Duke Guillecourt's successful summoning of Lucifer, many years of bloodshed soon followed. But along with other knights of the Church, Efrain managed to repel the forces of darkness.
@@ -119,11 +119,11 @@ Recupera enteramente.
 
 P5:
 Remove curse.
-Remueve la condicion “Echizado” CURSE
+Remueve la condición “Hechizado” CURSE
 
 P6:
 Heals poison.
-Cura la condicion “Envenenado” POISON
+Cura la condición “Envenenado” POISON
 
 P7:
 Recover from disabled.
@@ -131,11 +131,11 @@ Recupera de ser “Deshabilitado” DISABLED
 
 P8:
 Unstun the user.
-Cura la condicion “Aturdido” STUNNED
+Cura la condición “Aturdido” STUNNED
 
 P9:
 Recover from weakness.
-Repuera de la condicion “Debil” WEAK
+Repuera de la condición “Débil” WEAK
 
 P10:
 Heals all afflictions.
@@ -143,7 +143,7 @@ Cura todas las aflicciones
 
 P11:
 A basic weapon. Not really powerful.
-Arma basica. No tan poderosa.
+Arma básica. No tan poderosa.
 
 P12:
 A cheap, large sword.
@@ -151,7 +151,7 @@ Una espada grande y barata.
 
 P13:
 Heavy weapon that can crush weak enemies.
-Arma pesada que aporrea a enemigos debiles.
+Arma pesada que pulveriza a enemigos débiles.
 
 P14:
 A heavy weapon wielded by strong men.
@@ -183,39 +183,39 @@ Pulveriza a enemigos.
 
 P21:
 A legendary weapon used in an ancient holy war.
-Arma legendaria, usada en una guerra guerra santa.
+Arma legendaria, usada en una antigua guerra santa.
 
 P22:
 The strongest weapon that can be found. Brings hope to the heart of its owner.
-La arma mas fuerte que puede ser encontrada. Le da esperanza al corazon de sus dueños.
+El arma más poderosa que puede ser encontrada. Le da esperanza al corazón de su dueño.
 
 P23:
 Owned by a famous member of the Von Viltheim Family. Also known as: Rain Slayer.
-Pertenecía a un miembro famoso de la familia Von Viltheim. Llamada tambien como “Asesina de la Lluvia”.
+Pertenecía a un miembro famoso de la familia Von Viltheim. Llamada también como “Asesina de la Lluvia”.
 
 P24:
 Family sword of the Lecardes. A gift from the Pope Innocent X in 1650.
-Espada de la familia de los Lecardes, Un regalo del Papa Inocente X en 1650.
+Espada de la familia de los Lecardes, Un regalo del Papa Inocencio X en 1650.
 
 P25:
 Light and cozy, but grants low protection.
-Liviana y comoda, pero da poca proteccion.
+Liviana y cómoda, pero da poca protección.
 
 P26:
 Quite heavy and not really resistant.
-Un cuan pesada, y no tan resistente.
+Un tanto pesada, y no tan resistente.
 
 P27:
 Cheap and not really fashionable.
-Barata y no tan a la moda
+Barata y no tan a la moda.
 
 P28:
 Heavy but protective.
-Pesada, pero si proteje.
+Pesada, pero protectora.
 
 P29:
 Grants great protection.
-Da buena proteccion.
+Da buena protección.
 
 P30:
 Heavy but very resistant.
@@ -227,63 +227,63 @@ No tan a la moda, para ser tan cara.
 
 P32:
 High protection and a cool color scheme.
-Alta proteccion y con color atractivo.
+Alta protección y con color atractivo.
 
 P33:
 A beautiful armor blessed by a French cardinal.
-Armadura hermosa bendita por un Cardenal Frances.
+Armadura hermosa bendita por un Cardenal Francés.
 
 P34:
 Doesn't grant a good defense, but allows the wearer to traverse pikes without hurting themselves.
-No da buena defensa, pero le deja al usuario que traverse Púas y Puntas sin que se hieran por ellas.
+No da buena defensa, pero permite al usuario atravesar Púas y Puntas sin salir herido.
 
 P35:
 Not very resistant. It was a gift to the Von Viltheim Family. Must be worn in order to...
-No tan resistente. Fue un regalo a la familia Von Viltheim. Tiene que ser puesa para...
+No tan resistente. Fue un regalo a la familia Von Viltheim. Tiene que ser puesta para...
 
 P36:
 Mediocre protection, but allows the wearer to walk through fire.
-Proteccion mediocre, pero lo deja a uno que pase por llamas de fuego sin herirse.
+Protección mediocre, pero permite al usuario atravesar el fuego sin salir herido.
 
 P37:
 Increases its owner's faith.
-Le sube la fé a su dueño.
+Le sube la fe a su dueño.
 
 P38:
 Materializes invisible monsters.
-Materializa a los monstros invisibles.
+Materializa a los monstruos invisibles.
 
 P39:
 Use it to detect breakable walls.
-Usala para detectar paredes quebrables.
+Úsala para detectar paredes quebradizas.
 
 P40:
 Possesses a great power. Increases the Aura's charging speed.
-Tiene un gran poder. Sube cuan rapido uno puede Cargar el poder de Aura.
+Tiene un gran poder. Sube cuan rápido uno puede Cargar el poder de Aura.
 
 P41:
 Allows the wearer to stay underwater without drowning.
-Le da al que se lo pone, el poder de quedarse sumergido sin ahogarse.
+Permite al usuario respirar bajo el agua.
 
 P42:
 Has the power to dispel illusions in the CHAMBER OF ILLUSIONS.
-Tiene el poder de dispelar las iluciones de la CAMARA DE ILUSIONES.
+Tiene el poder de disipar las ilusiones de la CÁMARA DE ILUSIONES.
 
 P43:
 Produces a field of light that can light up the darkest places.
-Produce un campo de luz que puede iluminar los lugares mas oscuros.
+Produce un campo de luz que puede iluminar los lugares más oscuros.
 
 P44:
 Made to resist the swamps' poisonous atmosphere while crossing them.
-Hecha para resistir el ambiente toxico de los pantanos cuando uno los cruza.
+Hecha para resistir el ambiente tóxico de los pantanos cuando uno los cruza.
 
 P45:
 Protects your mind against orientation troubles.
-Te proteje tu mente contra problemas de orientacion.
+Protege tu mente contra problemas de orientacion.
 
 P46:
 Not really protective. Once belonged to a late Von Viltheim Family member. Nevertheless it's vital for...
-No tan protector. Una vez le pertenecio a un miembro de la familia Von Viltheim, el cual ya ha fallecido.  De cualquier manera, es vital para...
+No protege mucho. Una vez le perteneció a un miembro de la familia Von Viltheim, el cual ya ha fallecido.  De cualquier manera, es indispensable para...
 
 P47:
 Belongs to the Lecarde Family ever since 1322.
@@ -291,47 +291,47 @@ Le ha pertenecido a la familia Lecarde desde el año 1322.
 
 P48:
 A beautiful ring that slightly increases monsters' rare item drop rate.
-Un anillo hermoso que sube un poquito el chance que monstros matados dejen un tesoro raro.
+Un anillo hermoso que aumenta ligeramente la probabilidad de que monstruos matados dejen un tesoro raro.
 
 P49:
 A strange ring that increases monsters' rare item drop rate.
-Un anillo raro que le sube el chance que monstros matados dejen un tesoro raro.
+Un anillo extraño que aumenta la probabilidad de que monstruos matados dejen un tesoro raro.
 
 P50:
 A mysterious ring that greatly increases monsters' rare item drop rate.
-Anillo misterioso que sube bastantemente el chance que monstros matados dejen un tesoro raro.
+Anillo misterioso que aumenta bastante la probabilidad de que monstruos matados dejen un tesoro raro.
 
 P51:
 Slightly increases attack power.
-Sube un poquito el Ataque.
+Aumenta ligeramente el Ataque.
 
 P52:
 Moderately increases attack power.
-Sube modestamente el Ataque.
+Aumenta modestamente el Ataque.
 
 P53:
 Significantly increases attack power.
-Sube significantemente el Ataque.
+Aumenta considerablemente el Ataque.
 
 P54:
 Greatly increases the attack power.
-Sube bastantemente el Ataque.
+Aumenta bastante el Ataque.
 
 P55:
 Slightly increases the defense.
-Sube un poquito la Defensa.
+Aumenta ligeramente la Defensa.
 
 P56:
 Moderately increases the defense.
-Sube modestamente la Defensa.
+Aumenta modestamente la Defensa.
 
 P57:
 Significantly increases the defense.
-Sube significantemente la Defensa.
+Aumenta considerablemente la Defensa.
 
 P58:
 Greatly increases the defense.
-Sube bastantemente la Defensa.
+Aumenta bastante la Defensa.
 
 P59:
 The best defense ring.
@@ -339,7 +339,7 @@ El mejor anillo para la Defensa.
 
 P60:
 Slightly increases many statuses. It's also important for...
-Sube un poquito todas las estadisticas. Tambien es importante para...
+Sube un poquito todas las estadísticas. También es importante para...
 
 P61:
 Family pendant. Raises its owner's bravery.
@@ -347,15 +347,15 @@ Pendiente de la familia. Sube la valentía de su dueño.
 
 P62:
 Slightly increases the critical rate.
-Sube un poquito el chance de un golpe Critico.
+Aumenta ligeramente el chance de un golpe Crítico.
 
 P63:
 Increases the critical rate.
-Sube el chance de un golpe Critico
+Aumenta el chance de un golpe Critico
 
 P64:
 Greatly increases the critical rate.
-Sube bastantemente el chance de un golpe Critico.
+Aumenta bastante el chance de un golpe Critico.
 
 P65:
 Grants 50%  protection against poison status.
@@ -363,67 +363,67 @@ Da proteccion de 50% contra ser Envenedado.
 
 P66:
 Grants 50%  protection against cursed status.
-Da proteccion de 50% contra ser Hechizado.
+Da protección de 50% contra ser Hechizado.
 
 P67:
 Grants 50%  protection against stunned status.
-Da proteccion de 50% contra ser Aturdido.
+Da protección de 50% contra ser Aturdido.
 
 P68:
 Grants 50%  protection against disabled status.
-Da proteccion 50% contra ser Deshabilitado.
+Da protección de 50% contra ser Deshabilitado.
 
 P69:
 Grants 50%  protection against weak status.
-Da proteccion 50% contra ser Debilitado.
+Da protección de 50% contra ser Debilitado.
 
 P70:
 Grants full protection against poison status.
-Da completa proteccion contra ser envenenado.
+Da protección completa contra ser envenenado.
 
 P71:
 Grants full protection against cursed status.
-Da completa proteccion contra ser Hechizado.
+Da protección completa contra ser Hechizado.
 
 P72:
 Grants full protection against stunned status.
-Da complete proteccion contra ser Aturdido.
+Da protección completa contra ser Aturdido.
 
 P73:
 Grants full protection against disabled status.
-Da completa proteccion contra ser Deshabilitado.
+Da protección completa contra ser Deshabilitado.
 
 P74:
 Grants full protection against weak status.
-Da completa proteccion contra ser Debilitado.
+Da protección completa contra ser Debilitado.
 
 P75:
 Grants full protection against all ailments.
-Da completa proteccion contra todas las aflicciones.
+Da protección completa contra todas las aflicciones.
 
 P76:
 Grants 40% protection against all ailments and increases critical rate. It's also required for...
-Da proteccion de 40% contra todas las aflicciones y sube el chance de golpes Criticos. Tambien es requirido para...
+Da protección de 40% contra todas las aflicciones y sube el chance de golpes Críticos. También es requerido para...
 
 P77:
 DOUBLE SHOT: Shoots 2 subweapons in a row.
-DOBLE TIRO: Se pueden tirar 2 SubArmas consecutivamente.
+DISPARO DOBLE: Se pueden tirar 2 SubArmas consecutivamente.
 
 P78:
 TRIPLE SHOT: Shoot 3 subweapons in a row.
-TRIPLE TIRO: Se pueden tirar 3 SubArmas consecutivamente..
+DISPARO TRIPLE: Se pueden tirar 3 SubArmas consecutivamente.
 
 P79:
 QUADRUPLE SHOT: Shoot 4 subweapons in a row.
-QUADRUPLE TIRO: Se ueden tirar 4 SubArmas consecutivamente.
+DISPARO CUADRUPLE: Se pueden tirar 4 SubArmas consecutivamente.
 
 P80:
 BACKPACK: Increases your capacity to carry potions.
-MOCHILA: Sube la abilidad de cargar mas Pociones.
+MOCHILA: Te permite cargar más pociones.
 
 P81:
 LARGE BACKPACK: Get maximum capacity to carry potions.
-MOCHILA GRANDE: Tener la maxima capacidad de cargar Pociones.
+MOCHILA GRANDE: Te permite cargar la máxima cantidad de pociones.
 
 P82:
 RED MIRROR: Reveals ghosts in the red mist rooms.
@@ -431,15 +431,15 @@ ESPEJO ROJO: Revela fantasmas en los cuartos con neblina roja.
 
 P83:
 SKULL EMBLEM: Opens the Skull Doors dispersed in the Castle of Eternal Night.
-EMBLEMA DE CALAVERA: Abre las puertas de Calavera dispersadas en el Castillo de Noche Eterna.
+EMBLEMA DE CALAVERA: Abre las puertas de Calavera dispersadas en el Castillo de la Noche Eterna.
 
 P84:
 CRYSTAL ROSE: Increases the Liese's Recover's effectiveness.
-ROSA DE CRISTAL: Sube la efectividad de de la recuperacion por LIESE’S RECOVER.
+ROSA DE CRISTAL: Sube la efectividad de la recuperación por LIESE’S RECOVER.
 
 P85:
 BRONZE KEY: Opens the door of Servigny Mansion.
-LLAVE DE BRONZE: Abre la puerta de la Mansion Servigny.
+LLAVE DE BRONCE: Abre la puerta de la Mansión Servigny.
 
 P86:
 SILVER KEY: Opens a door in Sainte Justine Convent.
@@ -447,31 +447,31 @@ LLAVE DE PLATA: Abre la puerta en el Convento de Sainte Justine.
 
 P87:
 GOLD KEY: Opens a door in  the Entrance Hall of the Castle of Eternal Night.
-LLAVE DE ORO: Abre la puerta en el Salon de Entrada del Castillo de la Noche Eterna.
+LLAVE DE ORO: Abre la puerta en el Salón de Entrada del Castillo de la Noche Eterna.
 
 P88:
 GOLDEN PILGRIM STATUETTE: Grants the skill of SLIDE MOVE.
-ESTATUETA DEL PEREGRINO DORADO: Otorga la habilidad del DESLIZO BAJO
+ESTATUILLA DORADA DEL PEREGRINO: Otorga la habilidad del DESLIZO BAJO
 
 P89:
 GOLDEN WIND STATUETTE: Grants the power of WHIRLWIND ATTACK level 2.
-ESTATUETA DEL VIENTO DORADO: Otorga el poder del ATAQUE VENTARRON Nivel 2.
+ESTATUILLA DORADA DEL VIENTO: Otorga el poder del ATAQUE VENTARRÓN Nivel 2.
 
 P90:
 GOLDEN ANGEL STATUETTE: Grants the power of TRIPLE JUMP.
-ESTATUETA DEL ANGEL DORADO: Otorga el poder del SALTO TRIPLE.
+ESTATUILLA DORADA DEL ÁNGEL: Otorga el poder del SALTO TRIPLE.
 
 P91:
 GOLDEN EAGLE STATUETTE: Grants the power of DOUBLE AIR DASH.
-ESTATUETA DE LA AGUILA DORADA: Otorga el poder de la DOBLE CARRERA DE AIRE.
+ESTATUILLA DORADA DE EL ÁGUILA: Otorga el poder del IMPULSO AÉREO DOBLE.
 
 P92:
 GOLDEN MEDUSA STATUETTE: Grants the power of AIR FLOAT.
-ESTATUETA DE LA MEDUSA DORADA: Otorga el poder de la LEVITACION.
+ESTATUILLA DORADA DE MEDUSA: Otorga el poder de la LEVITACIÓN.
 
 P93:
 SILVER FLUTE: Produces a nice sound that calls the ferryman.
-FLAUTA PLATEADA: Produce una cancion linda que llama al Barquero.
+FLAUTA PLATEADA: Produce una canción linda que llama al Barquero.
 
 P94:
 GOLD FLUTE: Produces a pure sound.
@@ -479,27 +479,27 @@ FLAUTA DORADA: Produce un sonido puro.
 
 P95:
 SPECTRAL STAFF: Allows the user to enter cursed mirrors.
-BASTON ESPECTRAL: Deja que uno pueda entrar espejos hechizados.
+BASTÓN ESPECTRAL: Permite al usuario entrar en espejos hechizados.
 
 P96:
 BLOOD STAFF: The incrusted blood gem detects the location of BLACK ORBS on the map.
-BASTON DE SANGRE: La gema, encrustada con sangre, puede encontrar ESFERAS NEGRAS en el mapa.
+BASTÓN DE SANGRE: La gema, incrustada con sangre, puede encontrar ESFERAS NEGRAS en el mapa.
 
 P97:
 SILVER WIND STATUETTE: Grants the power of WHIRLWIND ATTACK level 1.
-ESTATUETA DEL VIENTO PLATEADA: Otorga el poder del ATAQUE VENTARRON Nivel 1.
+ESTATUILLA PLATEADA DEL VIENTO: Otorga el poder del ATAQUE VENTARRÓN Nivel 1.
 
 P98:
 SILVER ANGEL STATUETTE: Grants the power of DOUBLE JUMP.
-ESTATUETA DEL ANGEL PLATEADO: Otorga el poder del SALTO DOBLE. 
+ESTATUILLA PLATEADA DEL ÁNGEL: Otorga el poder del SALTO DOBLE. 
 
 P99:
 SILVER EAGLE STATUETTE: Grants the power of  AIR DASH.
-ESTATUETA DE LA AGUILA PLATEADA: Otorga el poder de la CARRERA DEL AIRE.
+ESTATUILLA PLATEADA DE EL ÁGUILA: Otorga el poder del IMPULSO AÉREO.
 
 P100:
 HEART OF SUN: A beautiful brooch that releases a gentle, warm air. Prevents freezing in very cold places
-CORAZON DEL SOL: Un broche hermoso que suelta un aire tibio, gentil.  Previene que uno se congele en sitios demasiado frios.
+CORAZÓN DEL SOL: Un broche hermoso que suelta un aire tibio, gentil.  Previene que uno se congele en sitios demasiado fríos.
 
 P101:
 A-LETTER: Slab of marble used to assemble words.
