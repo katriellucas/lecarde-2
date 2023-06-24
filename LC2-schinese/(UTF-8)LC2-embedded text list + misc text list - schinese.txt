@@ -207,9 +207,6 @@ Screen Water
 Clear Water
 清水
 
-
-
-
 Short Sword
 短剑
 
@@ -871,3 +868,34 @@ Altered Lucifer
 暗黑路西法
 Efrain Fake 2
 生灵镜像
+
+
+Apple
+苹果
+
+Heart
+红心
+
+Large Heart
+大红心
+
+Power Orb
+攻击提升
+
+Cheese
+奶酪
+
+Mega Heart
+超大红心
+
+Steak
+美味的烤肉
+
+Flask
+隐身药水
+
+Subweapon
+副武器
+
+Song 7
+乐谱7
