@@ -2224,7 +2224,7 @@ Antidote
 セイラム
 
 Capability Potion
-能力ポーション
+鎮痛剤
 
 Focus Potion
 フォーカスポーション
@@ -2651,7 +2651,7 @@ tombstone
 グレイブストーン
 
 widow
-
+未亡人
 
 efrain fake
 ドッペルゲンガー (for japanese it's better just straight call the boss doppelganger)
@@ -2945,3 +2945,48 @@ Angel of Death
 
 Altered Lucifer
 暗黒ルシファー
+
+
+Apple
+りんご
+
+Heart
+ハート
+
+Large Heart
+大ハート
+
+Power Orb
+パワーアップ
+
+Cheese
+チーズ
+
+Mega Heart
+メガハート
+
+Steak
+おいしいステーキ
+
+Flask
+透明化ポーション
+
+Subweapon
+サブウェポン
+
+Dagger
+短剣
+
+Axe 
+斧
+
+Cross
+十字架
+
+Jewel
+宝石
+
+Holy Water
+聖水
+
+Song 7
