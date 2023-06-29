@@ -43,27 +43,29 @@ Keys are set below:
 - "-": Map Screen  
 - "+": Sub Menu  
 
+#### Read this if antivirus flagged the game as malvare
+It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly share the folder(s) which contain the exe file because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
 
 ## Changelog
 
-#### [1.1.0.0] - 2023/6/8 #### 
+#### [1.0.1] - 2023/6/8 #### 
 
 `FIXED` - A bug where the control config object is receiving valid input from main title screen. (Katriel & Aceearly1993)  
 
 
-#### [1.0.0.0] - 2023/6/8 #### 
+#### [1.0.0] - 2023/6/8 #### 
 
 `RELEASE` - Initial release!!!!!!
 
 
 
-#### [0.9.1.0] - 2023/6/8 #### 
+#### [0.9.3] - 2023/6/8 #### 
 
 `FIXED` - Tile Layering mistakes in the teleport rooms and albaret areas in original. (Aceearly1993)  
 `FIXED` - A text box graphic error at the "choose your own death" room in S.Chinese. (Aceearly1993)  
 
 
-#### [0.9.0.2] - 2023/6/7 #### 
+#### [0.9.2] - 2023/6/7 #### 
 
 `ADDED` - Description of "LC2_KeyBinding.ini" in the readme files. (Aceearly1993)  
 `CHANGED` - Minor adjust to S.Chinese embedded text in game over screen. (Aceearly1993)  
@@ -72,7 +74,7 @@ Keys are set below:
 `FIXED` - "Whitered" typo in monster guide section of the .txts. (Aceearly1993)  
 
 
-#### [0.9.0.1] - 2023/6/6 #### 
+#### [0.9.1] - 2023/6/6 #### 
 
 `ADDED` - "LC2_KeyBinding.ini" in the release tag. (Aceearly1993)  
 `CHANGED` - Re-enabled small keyboard region controls for those who happened to prefer small keyboard region. (Aceearly1993)  
@@ -82,7 +84,7 @@ Keys are set below:
 `FIXED` - Minor display issue in various Brazilian-Portuguese texts. (Aceearly1993)  
  
 
-#### [0.9.0.0] - 2023/6/5 #### 
+#### [0.9.0] - 2023/6/5 #### 
 `ADDED` - Last bit of missing Brazilian-Portuguese texts and pictures. (Aceearly1993 & Katriel)  
 `ADDED` - Japanese and S.Chinese now have unique monster guide enemy name counterpart instead of sharing the default English counterpart. (Aceearly1993)  
 `CHANGED` - Keyboard remapping plugin and related logic. Hopefully the character stuck problem could be gone. (DragonX24)  
@@ -96,7 +98,7 @@ Keys are set below:
 `RELEASE` - Soft-release the version to Chinese and Japanese communities for Chinese translation quality check and feedbacks. Hopefully the very last major update before the 1.0 release. (Aceearly1993)
 
 
-#### [0.8.0.0] - 2023/6/1 #### 
+#### [0.8.0] - 2023/6/1 #### 
 
 `ADDED` - Missing counterparts of brazilian-portuguese texts and pictures. (Aceearly1993 & Katriel)  
 `CHANGED` - Two instances in Japanese script for consistency of second personel. (Aceearly1993)  
@@ -110,23 +112,23 @@ Keys are set below:
 
 
 
-#### [0.7.0.4] - 2023/5/28 #### 
+#### [0.7.4] - 2023/5/28 #### 
 
 `ADDED` - Recovered all brazilian-portuguese original dialogue, as well as fixed several issues and mistranslations.  
 `FIX` - Wrong images on some shops.  
 `FIX` - Brazilian-portuguese text alignment.  
 
-#### [0.7.0.3] - 2023/5/17 #### 
+#### [0.7.3] - 2023/5/17 #### 
 
 `ADDED` - A task bar system which can be freely toggled on/off by pressing F8 key, previously only seen in an early demo of the game, and LC1.   
 
 The option menu bundled within this task bar, has a built-in control option which can change the secondary variant of keyboard direction key mapping to anywhere else (There's no character stuck bug in the secondary keyboard direction key mapping), effectively countering the keyboard control bug as a temporary solution until we solved in-game control mapping bug in Mig's bottom-level code system in the future.    
 
-#### [0.7.0.2] - 2023/5/16 #### 
+#### [0.7.2] - 2023/5/16 #### 
 
 `FIXED` - Small Keyboard region Control in save room.
 
-#### [0.7.0.1] - 2023-05-16
+#### [0.7.1] - 2023-05-16
 
 `ADDED` - Small keyboard region control inspired from the original.  (Aceearly1993)  
 `ADDED` - Extended Readme.  (Aceearly1993)  
