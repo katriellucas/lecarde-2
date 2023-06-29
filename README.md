@@ -48,6 +48,25 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### Update [1.1.0] - 2023/6/29 #### 
+
+`ADDED` - Unique area name picture of Boss Rush. (Aceearly1993)  
+`ADDED` - Unique Simplified Chinese and Japanese variant of monster chart texts.  (Aceearly1993)  
+`ADDED` - Unique Simplified Chinese and Japanese variant of "do not use (KEYS) as function keys" texts. (Aceearly1993)  
+`ADDED` - Unique Simplified Chinese variant of boss lifebar name. (Aceearly1993)  
+`ADDED` - Fade out effect when you either completed a boss rush character selection or exit from Boss Rush character selection screen. (Aceearly1993)  
+`ADDED` - Notes in readme regarding antivirus stuff. (Aceearly1993)  
+`ADDED` - More properties info for the game in order to reduce the chance of being targeted as malware by antivirus programs. (Aceearly1993)  
+`FIXED` - Tile Layering mistakes in Boss Rush area. (Aceearly1993)  
+`FIXED` - Graphic error in a map chip in La Tourvelle area. (Aceearly1993)  
+`FIXED` - Managed to find and fix more tile errors throughout the game. (Aceearly1993)  
+`FIXED` - More object icons in frame editor for visibility. (Aceearly1993)  
+`FIXED` - Contol Bugfixes. (DragonX24)  
+`CHANGED` - Title screen mist is a bit closer to original.  (Aceearly1993)  
+`CHANGED` - Slightly tweaked the format of monster chart section in event editor for better visibility if any future translator want to proceed the localization imporovement task.  (Aceearly1993)  
+`CHANGED` - When you exit from Boss Rush character selection screen, the game will go back to main title screen instead of reset. (Aceearly1993)  
+
+
 #### [1.0.1] - 2023/6/8 #### 
 
 `FIXED` - A bug where the control config object is receiving valid input from main title screen. (Katriel & Aceearly1993)  
