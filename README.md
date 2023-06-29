@@ -63,7 +63,7 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 `FIXED` - More object icons in frame editor for visibility. (Aceearly1993)  
 `FIXED` - Contol Bugfixes. (DragonX24)  
 `CHANGED` - Title screen mist is a bit closer to original.  (Aceearly1993)  
-`CHANGED` - Slightly tweaked the format of monster chart section in event editor for better visibility if any future translator want to proceed the localization imporovement task.  (Aceearly1993)  
+`CHANGED` - Slightly tweaked the format of monster chart section in event editor for better visibility if any future translator want to proceed the localization improvement task.  (Aceearly1993)  
 `CHANGED` - When you exit from Boss Rush character selection screen, the game will go back to main title screen instead of reset. (Aceearly1993)  
 
 
