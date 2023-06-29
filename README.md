@@ -61,7 +61,7 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 `FIXED` - Graphic error in a map chip in La Tourvelle area. (Aceearly1993)  
 `FIXED` - Managed to find and fix more tile errors throughout the game. (Aceearly1993)  
 `FIXED` - More object icons in frame editor for visibility. (Aceearly1993)  
-`FIXED` - Contol Bugfixes. (DragonX24)  
+`FIXED` - Control Bugfixes. (DragonX24)  
 `CHANGED` - Title screen mist is a bit closer to original.  (Aceearly1993)  
 `CHANGED` - Slightly tweaked the format of monster chart section in event editor for better visibility if any future translator want to proceed the localization improvement task.  (Aceearly1993)  
 `CHANGED` - When you exit from Boss Rush character selection screen, the game will go back to main title screen instead of reset. (Aceearly1993)  
