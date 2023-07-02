@@ -1,3 +1,7 @@
+Castlevania The Lecarde Chronicles 2 (German Fix) 
+Fixed by: Exorion Hagen
+
+
 - CUTSCENES/ENDINGS
 - ZWICHENSEQUENZEN / EPILOGE
 
