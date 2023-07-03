@@ -503,7 +503,7 @@ CORAZÓN DEL SOL: Un broche hermoso que suelta un aire tibio, gentil.  Previene 
 
 P101:
 A-LETTER: Slab of marble used to assemble words.
-LETRA A: Una Loza de Marmol usa para formular palabras.
+LETRA A: Una Loza de Mármol usada para formular palabras.
 
 P102:
 WIND BELL: Pacifies strong winds.
@@ -511,15 +511,15 @@ CAMPANA DEL VIENTO: Calma vientos demasiado fuertes.
 
 P103:
 STONE HAND: May be of interest.
-MANO DE PIEDRA: Puede que sea de un poco de interes.
+MANO DE PIEDRA: Puede ser de interés.
 
 P104:
 GOLDEN CLOCK: Prevents time distortions.
-RELOJ DORADO: Previene distorciones Temporales.
+RELOJ DORADO: Previene distorsiones Temporales.
 
 P105:
 ORNAMENTAL CRUCIFIX: A decorative element. The words "St Justine" are carved on its back.
-CRUCIFIJO ORNAMENTAL: Una arreglo decorativo. Las palabras “St. Justine” estan talladas en la parte de atras.
+CRUCIFIJO ORNAMENTAL: Un arreglo decorativo. Las palabras “Saint Justine” están talladas en la parte de atrás.
 
 P106:
 NINE GATES OF THE KINGDOM OF SHADOWS: Written in 1666, there are only 3 of them.
@@ -527,7 +527,7 @@ LAS NUEVE PUERTAS DEL REINO DE LAS SOMBRAS: Escrito en 1666, solo hay 3 de ellos
 
 P107:
 THICK GAUNTLET: Allows Efrain to grab ropes covered by brambles.
-GUANTE GRUESO: Deja que Efrain pueda agarrar cuerdas cubiertas con puas.
+GUANTE GRUESO: Permite a Efrain agarrar cuerdas cubiertas con púas.
 
 P108:
 BREAKER: Grants enough power to destroy rusty chains.
@@ -535,31 +535,31 @@ QUEBRADOR: Otorga suficiente poder para destruir cadenas oxidadas.
 
 P109:
 SERVIGNY MAP : A basic map of the Earldom of Servigny.
-MAPA DE SERVIGNY: Un mapa basico del Condado de Servigny. 
+MAPA DE SERVIGNY: Un mapa básico del Condado de Servigny. 
 
 P110:
 LA TOURVELLE MAP: A basic map of the Earldom of La Tourvelle.
-MAPA DE LA TOURVELLE: Un mapa basico del Condado de La Tourvelle.
+MAPA DE LA TOURVELLE: Un mapa básico del Condado de La Tourvelle.
 
 P111:
 ALBARET MAP: A basic map of the Earldom of Albaret.
-MAPA DE ALBARET: Un mapa basico del Condado de Albaret.
+MAPA DE ALBARET: Un mapa básico del Condado de Albaret.
 
 P112:
 CASTLE OF ETERNAL NIGHT MAP: A basic map of the Castle of Eternal Night.
-MAPA DEL CASTILLO DE LA NOCHE ETERNA: Un mapa basico del Castillo de la Noche Eterna.
+MAPA DEL CASTILLO DE LA NOCHE ETERNA: Un mapa básico del Castillo de la Noche Eterna.
 
 P113:
 MUSIC BOX: Plays nice melodies.
-CAJITA DE MUSICA: Toca bonitas melodias.
+CAJITA DE MUSICA: Toca bonitas melodías.
 
 P114:
 CUP OF TRUTH: Reveals the path of truth.
-VASO DE LA VERDAD: Revela el camino verdadero.
+COPA DE LA VERDAD: Revela el camino verdadero.
 
 P115:
 CUP OF UNTRUTH: Reveals the path of untruth.
-VASO DE LA MENTIRA: Revela el camino de la mentira.
+COPA DE LA MENTIRA: Revela el camino de la mentira.
 
 P116:
 BLACK ORB: A very strange orb that releases a disturbing light. Many of them can be collected.
@@ -579,7 +579,7 @@ Armadura ceremonial usada por sectarios.
 
 P120:
 A beautiful armor that can resist intense light energy.
-Armadura hermosa que resiste la energia intensa de a luz.
+Armadura hermosa que resiste la energía intensa de la luz.
 
 P121:
 Worn by ancient guards.
@@ -587,27 +587,27 @@ Usada por Guardianes antiguos.
 
 P122:
 A mysterious armor that can resist intense dark light.
-Misteriosa armadura que resiste el poder intenso de la oscuridad. 
+Misteriosa armadura que resiste el poder intenso de la luz oscura.
 
 P123:
 Grants great power but dramatically lowers defense.
-Da mucho poder (Ataque), pero dramaticamente baja la Defensa.
+Da mucho poder (Ataque), pero reduce la Defensa drásticamente.
 
 P124:
 Reinforces ATT, DEF and LCK.
-Reinforza el Ataque, Defensa, y Suerte.
+Refuerza el Ataque, Defensa, y Suerte.
 
 P125:
 Reduces the heart consumption of the WHIRLWIND.
-Reduce el costo de corazones del poder del VENTARRON.
+Reduce el costo de corazones del poder del VENTARRÓN.
 
 P126:
 Reduces the heart consumption of the subweapons.
-Reduce el costo de corazones, de las SubArmas.
+Reduce el costo de corazones de las SubArmas.
 
 P127:
 Increases the range of the SLIDE MOVE.
-Sube cuan lejos se deliza uno con el DESLIZO BAJO.
+Sube cuan lejos se desliza uno con el DESLIZO BAJO.
 
 P128:
 Reduces the heart consumption of the AURA BLAST.
@@ -615,11 +615,11 @@ Reduce el costo de corazones del PODER DE AURA.
 
 P129:
 Increases the range of the AIR DASH.
-Sube cuan lejos uno va con la CARRERA AL AIRE.
+Sube cuan lejos uno va con el IMPULSO AÉREO.
 
 P130:
 Nullifies the heart consumption of the AIR FLOAT.
-Hace gratis el uso de la Levitacion. 
+Hace gratis el uso de la LEVITACIÓN. 
 
 
 ITEM NAMES:
@@ -694,7 +694,7 @@ Hard Armor
 Armadura Densa
 
 Golden Ring Mail
-Armaruda de Malla Oro
+Armadura de Malla Dorada
 
 Platinum Armor
 Armadura de Platino
@@ -703,7 +703,7 @@ Heavenly Plate
 Coraza Celestial
 
 Spike Armor
-Armadura Anti-Púas
+Armadura de púas
 
 Von Viltheim Plate
 Coraza de Von Viltheim
@@ -718,7 +718,7 @@ White Armor
 Armadura Blanca
 
 Guard Armor
-Armadura Guardian
+Armadura Guardián
 
 Black Armor
 Armadura Negra
@@ -731,10 +731,10 @@ Lecarde Headband
 Cintillo Lecarde
 
 Mask of Zoe
-Mascara de Zoe
+Máscara de Zoe
 
 Mask of the Moon
-Mascara de la Luna
+Máscara de la Luna
 
 Aura Headband
 Cintillo de Aura
@@ -743,13 +743,13 @@ Neptune Helmet
 Casco de Neptuno
 
 Mask of Vision
-Mascara de la Vision
+Máscara de la Visión
 
 Circlet of Light
 Diadema de Luz
 
 Silver Mask
-Mascara de Plata
+Máscara de Plata
 
 Circlet of Will
 Diadema de Voluntad
@@ -761,7 +761,7 @@ Gale Headband
 Cintillo del Viento
 
 Retain Mask
-Mascara de Retencion
+Máscara de Retención
 
 Snake Headband
 Cintillo de las Serpientes
@@ -773,7 +773,7 @@ Raven Headband
 Cintillo de los Cuervos
 
 Feather Headband
-Cintillo de Pluma
+Cintillo de Plumas
 
 
 
@@ -792,7 +792,7 @@ Ring of Arcana
 Anillo de Arcana
 
 Bronze Ring
-Anillo de Bronze
+Anillo de Bronce
 
 Iron Ring
 Anillo de Hierro
@@ -804,19 +804,19 @@ Ring of Mars
 Anillo de Marte
 
 Protector
-Protejedor
+Protector
 
 Safe Ring
-Anillo a Salvo
+Anillo Seguro
 
 Shield ring
 Anillo del Escudo
 
 Angel Ring
-Anillo de Angeles
+Anillo de Ángeles
 
 Guardian Ring
-Anillo del Guardian
+Anillo del Guardián
 
 Von Viltheim Ring
 Anillo de Von Viltheim
@@ -825,7 +825,7 @@ Ring of Fury
 Anillo de la Furia
 
 Jupiter Ring
-Anillo de Jupiter
+Anillo de Júpiter
 
 
 
@@ -865,10 +865,10 @@ Prayer Collar
 Collar de Oraciones
 
 Concentration Collar
-Collar de Concentracion
+Collar de Concentración
 
 Resist Collar
-Collar de Resistir
+Collar de Resistencia
 
 Wall Collar
 Collar de Muros
@@ -924,18 +924,18 @@ Escoja su destino
 
 P2:
 Maybe another time.
-Tal vez otra vez...
+Quizás en otra ocasión.
 
 
 - opening Rome
 
 P1:
 Welcome to this dead place..
-Bienvenido a este sitio muerto!
+¡Bienvenido a este sitio muerto!
 
 P2:
 I am glad to see such a powerful warrior here.
-Me da un placer ver aun un guerrero tan poderoso, aqui.
+Me da un placer ver a un guerrero tan poderoso.
 
 P3:
 I see you have earned the power of the late Von Viltheim Family.
@@ -943,43 +943,43 @@ Veo que has obtenido el poder de la difunta familia Von Viltheim.
 
 P4:
 Unfortunately, that will not be enough to win this time...
-Desafortunadamente, no sera suficiente para que ganes, esta vez...
+Desafortunadamente, no será suficiente para que ganes esta vez...
 
 P5:
 The demons you face will be much more powerful.
-Los demonios con los cuales te vas a enfrentar, seran mucho mas poderosos.
+Los demonios con los cuales te vas a enfrentar, serán mucho más poderosos.
 
 P6:
 But a warrior with your power should have no need for such a fine weapon.
-Pero un guerrero con tu poder no deberia necesitar una gran arma como esta.
+Pero un guerrero con tu poder no debería necesitar una gran arma como esta.
 
 P7:
 Double Shot
-Doble Tiro
+Disparo Doble
 
 P8:
 Do you not agree?
-Verdad? 
+¿Verdad? 
 
 P9:
 Your weapon will await you in France.
-Tu arma te esperara en Francia.
+Tu arma te esperará en Francia.
 
 P10:
 Travel there if you dare.
-Viaja alla, si te atreves.
+Viaja allá, si te atreves.
 
 P11:
 We will meet again.
-Volvere a verte otra vez.
+Nos volveremos a encontrar.
 
 P12:
       UNLEASH THE HOLY POWER
-DESCARGAR EL PODER BENDITO
+LIBERAR EL PODER BENDITO
 
 P13:
 Hold down the AURA button and release it when your power is fully charged.
-Tenga oprimido el boton de el AURA y sueltalo cuando tu poder este completamente cargado.
+Mantén oprimido el botón del AURA y suéltalo cuando tu poder esté completamente cargado.
 
 P14:
       UNLEASH THE THUNDER
@@ -987,18 +987,18 @@ LANZAR EL TRUENO
 
 P15:
 Press the UP+AURA buttons to switch between the HOLY and Von Viltheim powers.
-Oprime para ARRIBA+Boton de AURA para cambiarte entre los poderes BENDITOS y los poderes de los Von Viltheim.
+Oprime para ARRIBA+Bóton de AURA para cambiarte entre los poderes BENDITOS y los poderes de los Von Viltheim.
 
 P16:
 Aura can also be charged while walking.
-Aura tambien puede ser cargada mientras uno camina.
+El Aura también puede ser cargada mientras caminas.
 
 
 - villages et villes
 
 P1:
 Beyond the forest there is an Inn called "L'Auberge rouge". I'd say it's better to not enter that place.
-Mas alla del bosque hay una Posada llamada “L'Auberge rouge”. Digo yo que fuera mejor no entrar ese lugar.
+Más allá del bosque hay una Posada llamada “L'Auberge rouge”. Lo mejor sería que evitaras ese lugar.
 
 P2:
 There are fields riddled with BLACK LOTUS flowers far to the east. That flower can disrupt your orientation. 
