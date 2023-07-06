@@ -48,7 +48,21 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
- #### Update [1.1.0] - 2023/6/29 #### 
+ #### Update [1.1.1] - 2023/7/6 #### 
+
+
+`ADDED` - Unique German variant of "do not use (KEYS) as function keys" texts. (Aceearly1993)  
+`ADDED` - Readme will have a (optimized) Simplified Chinese variation. (Aceearly1993)  
+`FIXED` - Several typos in Spanish translation. (jdbuenol)  (1000/3342 WIP)  
+`FIXED` - Several typos in German translation. (Exorion Hagen)  
+`FIXED` - Managed to find and fix more tile errors throughout the game. (Aceearly1993)  
+`FIXED` - More object in frame editor to be identical to the object icons in the mask data of the demo.  (Aceearly1993)  
+`CHANGED` - Graphics of Title screen date info.  (Katriel & Aceearly1993)  
+`CHANGED` - Graphics of equipment menu in order to be consistent with the German translation fix. (Aceearly1993)  
+
+
+
+ #### [1.1.0] - 2023/6/29 #### 
 
 `ADDED` - Unique area name picture of Boss Rush. (Aceearly1993)  
 `ADDED` - Unique Simplified Chinese and Japanese variant of monster chart texts.  (Aceearly1993)  
