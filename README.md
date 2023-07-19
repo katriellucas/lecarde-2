@@ -48,6 +48,13 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### Update [1.1.3] - 2023/7/19 #### 
+ 
+`ADDED` - Source document of Spanish translation texts. (Jorge. D. Fuentes)  
+`FIXED` - The rest on inconsistence in Spanish translation. (Aceearly1993)  
+`FIXED` - A bug related to DualShock 4 D-pad compatibility that the game's keyboard control will go awry if a gamepad is not plugged in. (Aceearly1993)  
+
+
  #### Update [1.1.2] - 2023/7/15 #### 
 
 `ADDED` - DualShock 4 D-pad compatibility. (Mig & Aceearly1993)  
@@ -335,6 +342,7 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - DragonX24
 - mashedpotatoes312
 - theplottwist
+- Jorge. D. Fuentes
 - 狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)
 
 ... and all the people in game credits.
