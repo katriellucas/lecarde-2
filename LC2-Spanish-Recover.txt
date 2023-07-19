@@ -407,15 +407,15 @@ Da protección de 40% contra todas las aflicciones y sube el chance de golpes Cr
 
 P77:
 DOUBLE SHOT: Shoots 2 subweapons in a row.
-DISPARO DOBLE: Se pueden tirar 2 SubArmas consecutivamente.
+DOBLE TIRO: Se pueden tirar 2 SubArmas consecutivamente.
 
 P78:
 TRIPLE SHOT: Shoot 3 subweapons in a row.
-DISPARO TRIPLE: Se pueden tirar 3 SubArmas consecutivamente.
+TRIPLE TIRO: Se pueden tirar 3 SubArmas consecutivamente.
 
 P79:
 QUADRUPLE SHOT: Shoot 4 subweapons in a row.
-DISPARO CUADRUPLE: Se pueden tirar 4 SubArmas consecutivamente.
+QUADRUPLE TIRO: Se pueden tirar 4 SubArmas consecutivamente.
 
 P80:
 BACKPACK: Increases your capacity to carry potions.
@@ -804,7 +804,7 @@ Ring of Mars
 Anillo de Marte
 
 Protector
-Protector
+Anillo Protector
 
 Safe Ring
 Anillo Seguro
@@ -955,7 +955,7 @@ Pero un guerrero con tu poder no debería necesitar una gran arma como esta.
 
 P7:
 Double Shot
-Disparo Doble
+Doble Tiro
 
 P8:
 Do you not agree?
