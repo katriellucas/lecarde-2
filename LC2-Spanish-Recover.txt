@@ -2,7 +2,7 @@
 
 P1:
 After vanquishing the evil looming over Rome, Efrain Lecarde journeyed to France.
-Después de su pelea contras las fuerzas malvadas que acechaban Roma, Efrain Lecarde empezó su viaje a Francia.
+Después de su pelea contra las fuerzas malvadas que acechaban Roma, Efrain Lecarde empezó su viaje a Francia.
 
 P2:
 Darkness has engulfed the Duchy of Guillecourt. The common people speak of day turning into night and about inhuman creatures lurking in the shadows. Terror has found a home in their hearts, where faith once lived.
@@ -931,7 +931,7 @@ Quizás en otra ocasión.
 
 P1:
 Welcome to this dead place..
-¡Bienvenido a este sitio muerto!
+¡Bienvenido a esté sitio muerto!
 
 P2:
 I am glad to see such a powerful warrior here.
@@ -1002,7 +1002,7 @@ Más allá del bosque hay una Posada llamada “L'Auberge rouge”. Lo mejor ser
 
 P2:
 There are fields riddled with BLACK LOTUS flowers far to the east. That flower can disrupt your orientation. 
-Hay praderas llenas con flores de LOTO NEGRO muy al Este de aqui.  Esa flor puede que te desorientarte.
+Hay praderas llenas con flores de LOTO NEGRO muy al Esté de aqui.  Esa flor puede que te desorientarte.
 
 P3:
 Hello! Are you using your map? You'll not want to get lost, will you?
@@ -1014,11 +1014,11 @@ El tiempo ha sido parado en tres lugares en Ducado.
 
 P5:
 Count Servigny's mansion. The Convent Sainte-Justine.
-La mansion del Conde Servigny.  El Convento Sainte-Justine.
+La mansión del Conde Servigny.  El Convento Sainte-Justine.
 
 P6:
 Also in the mansion of the Count La Tourvelle.
-Tambien en la mansion del Conde La Tourvelle.
+También en la mansión del Conde La Tourvelle.
 
 P7:
 It's always night-time in those places. That must be the work of evil!
@@ -1068,7 +1068,7 @@ La MINA GONDRE es muy profunda. Esta localizada muy al Oeste, cerca de la fronte
 
 P17:
 You can record your adventure at the maid statues. There is one at the East end of the village.
-Puedes grabar tu aventura en frente de las estatuas de Doncellas.  Hay una en el pueblo, en el lado Este.
+Puedes grabar tu aventura en frente de las estatuas de Doncellas.  Hay una en el pueblo, en el lado Esté.
 
 P18:
 In the Dark Forest there is a section covered by dead trees. That place creeps me out.
@@ -1096,7 +1096,7 @@ Lo perdera si encuentra otro!
 
 P24:
 The Dark Forest is near the Azur Lake.
-El Bosque Oscuro esta por el lago Azur. 
+El Bosque Oscuro esta por el lago Azur.
 
 P25:
 You found a SILVER FLUTE.
@@ -1108,11 +1108,11 @@ Este es el pueblo montañoso de Isigny.
 
 P27:
 Beware! The ravens dwelling in this earldom during nighttime can be deadly!
-Ojo! Los cuervos que vuelan por este condado durante la noche son peligrosos!
+Ojo! Los cuervos que vuelan por esté condado durante la noche son peligrosos!
 
 P28:
 There is an underground chapel in this village.
-Hay una capilla subterranea, en este pueblo.
+Hay una capilla subterranea, en esté pueblo.
 
 P29:
 That chapel has become a dangerous place ever since a wall collapsed.
@@ -1128,15 +1128,15 @@ El Pantano Noyon esta cubierto por una neblina toxica.
 
 P32:
 Don't enter that swamp without a suitable protection.
-No entres el pantano sin proteccion propia.
+No entres el pantano sin protección propia.
 
 P33:
 The castle of count La Tourvelle is replete with bird art.
-El castillo del conde La Tourvelle esta repleto con arte de pajaros.
+El castillo del conde La Tourvelle esta repleto con arte de pájaros.
 
 P34:
 It's also called the Birds' Castle.
-Tambien es llamado el Castillo de las Aves.
+También es llamado el Castillo de las Aves.
 
 P35:
 Far to the west you will find the cemetery of Sarelle.
@@ -1148,7 +1148,7 @@ Esta a la parte mas al oeste del Ducado.
 
 P37:
 In the district of La Perdrix, invisible monsters roam freely during the night.
-En el distrito de La Perdrix, monstros invisibles andan sueltos libremente durante la noche.
+En el distrito de La Perdrix, monstruos invisibles andan sueltos libremente durante la noche.
 
 P38:
 In the Isigny Plains you can find the tombstone of Heloise de La Tourvelle.
@@ -1205,7 +1205,7 @@ Ciudad Delbasse
 
 P49:
 Fall has arrived too early this year. This is quite weird.
-El Otoño llego demasiado temprano este año. Muy rara, la cosa.
+El Otoño llego demasiado temprano esté año. Muy rara, la cosa.
 
 P50:
 The Delbasse City is the largest of the duchy.
@@ -1224,7 +1224,7 @@ One of the nuns said that Constance d'Albaret has not left the convent.
 Una de las monjas dijo que Constance d'Albaret nunca se fue del convento.
 
 P54:
-At Hauteliard Lake you can contemplate the Albaret Castle.
+At Hauteliard Lake you can contemplate the Albaret Castle. It's deserted.
 Cuando vas al lago Hauteliard, tu puedes ver el Castillo Albaret.
 Esta abandonado.
 
@@ -1235,7 +1235,7 @@ El castillo del duque esta en la Pradera Guernon.  Se incendio y quemo ya hace a
 
 P56:
 The City Park is closed ever since a very strange plant appeared.
-El Parque Urbano esta cerrado, desde que una planta muy rara aparecio.
+El Parque Urbano esta cerrado, desde que una planta muy rara apareció.
 
 P57:
 The scholars of the Guernon University were all killed.
@@ -1247,7 +1247,7 @@ Parque Delbasse
 
 P59:
 People cannot leave the towns because of the monsters.
-La gente no se puede salir de los pueblos por los monstros.
+La gente no se puede salir de los pueblos por los monstruos.
 
 P60:
 They are ransacking the duchy ever since the demons' revelation.
@@ -1311,11 +1311,11 @@ Mas alla del puente encontraras un yermo extraño.
 
 P73:
 A mysterious man came to the city some days ago. He was very handsome.
-Un tipo misterioso vino a la ciudad unos dias atras. Era muy guapo.
+Un tipo misterioso vino a la ciudad unos días atras. Era muy guapo.
 
 P74:
 He had long, platinum hair, but appeared to be young. He was asking for information left and right.
-Tenia cabello largo, y gris como platino, pero parecia joven.  Pedia informacion en todas direcciones.
+Tenía cabello largo, y gris como platino, pero parecia joven.  Pedia informacion en todas direcciones.
 
 P75:
 He went to the St Justine Convent, if I'm not mistaken. What could he want on a place like this?
@@ -1335,11 +1335,11 @@ Me pregunto, donde estaran esas familias, ahora...
 
 P79:
 There are legends about a hidden castle. They say it was erected somewhere in this duchy.
-Hay unas leyendas acerca de un castillo oculto.  Dicen que fue edificado en este ducado en algun lugar.
+Hay unas leyendas acerca de un castillo oculto.  Dicen que fue edificado en esté ducado en algun lugar.
 
 P80:
 Supposedly it would be a tribute to Lucifer, the Fallen Angel himself. Can you believe that?
-Supuestamente como un tributo a Lucifer, el Angel Caido mismo.  Sera de creer?
+Supuestamente como un tributo a Lucifer, el Ángel Caido mismo.  Sera de creer?
 
 P81:
 So I tell you: I'm very familiar with the Guillecourt Duchy, and this legend is a bunch of nonsense.
@@ -1371,11 +1371,11 @@ Que triste final...
 
 P88:
 A young girl named Christine Chantrene has been taken by men wearing very strange clothes.
-Una joven llamada Christine Chantrene fue sequestrada por personas que tenian puesta una ropa muy rara.
+Una joven llamada Christine Chantrene fue sequestrada por personas que tenían puesta una ropa muy rara.
 
 P89: ?
 She has been taken away toward East. Her parents are broken down.
-Ella ha sido llevada al Este. Sus padres se derrumbaron.
+Ella ha sido llevada al Esté. Sus padres se derrumbaron.
 
 P90:
 The weather is abnormally cold in the La Tourvelle Earldom.
@@ -1383,7 +1383,7 @@ El clima esta abnormalmente frio en el Condado La Tourvelle.
 
 P91:
 It's still not fall, yet the trees in our earldom are shedding their leaves.
-Ni siquiera es Otoño todavia, y ya los arboles en este condado estan perdiendo sus hojas.
+Ni siquiera es Otoño todavia, y ya los arboles en esté condado estan perdiendo sus hojas.
 
 P92:
 Also, some places of the duchy are trapped in perpetual night.
@@ -1391,7 +1391,7 @@ Y de yapa, en algunos sitios del ducado parece que siempre es de noche. Noche pe
 
 P93:
 Everyone is scared of these unnatural occurrences. Can these be the End of Times...?
-La gente esta espantada con estas ocurriencias anormales. Pudiera ser este el Fin del Mundo...?
+La gente esta espantada con estas ocurriencias anormales. Pudiera ser esté el Fin del Mundo...?
 
 P94:
 Welcome my Son to the House of God.
@@ -1407,7 +1407,7 @@ Maravilloso!
 
 P97:
 Take this item, it will help you.
-Toma este regalo, te ayudara.
+Toma esté regalo, te ayudara.
 
 P98:
 Fulfill the Quest of God.
@@ -1432,7 +1432,7 @@ Spirit of the night.. Come.. Come with us..
 
 P104:
 A young girl appeared and started speaking...
-Una joven aparecio y empezo a hablar...
+Una joven apareció y empezo a hablar...
 
 P105:
 My heart.. My heart.. I need.. 100 hearts.
@@ -1441,7 +1441,7 @@ Mi corazon... Mi corazon.... necesito... 100 corazones. Te ruego, dame 100 coraz
 
 P106:
 A young lad without his hands appeared and started speaking...
-Un joven sin manos aparecio y empezo a hablar...
+Un joven sin manos apareció y empezo a hablar...
 
 P107:
 I'm no more than a thief. Please forgive me, Lady Albaret.
@@ -1460,7 +1460,7 @@ Deberias comprar una Espada Gruesa en la tienda, antes de aventurarte al Bosque 
 
 P110:
 The monsters who live there are very dangerous.
-Los monstros que habitan ese lugar son muy peligrosos.
+Los monstruos que habitan ese lugar son muy peligrosos.
 
 P111:
 Do not forget to equip the weapons and other items you may find or buy.
@@ -1562,13 +1562,13 @@ WEST- St Anselme District
 EAST- Servigny Mansion
 
 OESTE - Distrito St. Anselme
-ESTE - Mansion Servigny
+ESTE - Mansión Servigny
 
 P13: 
 La Mésange Bridge
 Built in 1713
 
-Puente La Mesange
+Puente La Mésange
 Edificado en 1713
 
 
@@ -1586,7 +1586,7 @@ WEST-
 Servigny Mansion
 
 OESTE -
-Mansion Servigny
+Mansión Servigny
 
 P16:
 EAST-
@@ -1607,7 +1607,7 @@ A donde quisieras ir?
 
 P25:
 You have found a WHIRLWIND STATUETTE.
-Encontraste la ESTATUETA DEL VENTARRON.
+Encontraste la ESTATUETA DEL VENTARRÓN.
 
 
 - Auberge/dark forest
@@ -1658,7 +1658,7 @@ Este ataud es gigante... Esta vacio.
 
 P1:
 You have used the BRONZE KEY.
-Haz usado la LLAVE DE BRONZE.
+Haz usado la LLAVE DE BRONCE.
 
 P2:
 You have used the the STONE HAND.
@@ -1666,7 +1666,7 @@ Haz usado la MANO DE PIEDRA.
 
 P3:
 You have found the SILVER ANGEL STATUETTE.
-Haz encontrado la ESTATUETA DEL ANGEL PLATEADO.
+Haz encontrado la ESTATUETA DEl ÁNGEL PLATEADO.
 
 P4: 
 «Life begins in darkness»
@@ -1725,16 +1725,16 @@ Earldom of Servigny
 La Mésange District
 
 Condado de Servigny
-Distrito La Mesange
+Distrito La Mésange
 
 
 P14: 
 La Mésange District is the main district of the Earldom of Servigny.
-El Distrito La Mesange es el principal distrito del Condado de Servigny.
+El Distrito La Mésange es el principal distrito del Condado de Servigny.
 
 P15:
 The count's mansion is there. It stands in a huge valley where a beautiful flower can be found -- the Black Lotus.
-La mansion del conde esta alla.  Esta localizada en un enorme valle don de una flor hermosa llamada el Loto Negro. puede ser encontrada,
+La mansión del conde esta alla.  Esta localizada en un enorme valle don de una flor hermosa llamada el Loto Negro. puede ser encontrada,
 
 P16:
 The great bridge over the lake is a masterpiece!
@@ -1765,7 +1765,7 @@ Guillecourt Duchy
 You are entering the La Tourvelle Earldom.
 
 Ducado Guillecourt
-Estas entrando el Condado La Tourvelle
+Estas entrando el Condado La Tourvelle.
 
 P3:
 WEST-
@@ -1854,7 +1854,7 @@ Be careful traveler!
 The air ahead is poisonous.
 
 Viajero, cuidado!
-El aire mas adelate de aqui es Toxico!
+El aire mas adelate de aqui es Tóxico!
 
 
 P14:
@@ -1877,7 +1877,7 @@ P16:
 Beyond this post you will be frozen to death...
 Nicolas Xavier De La Tourvelle.
 
-Mas adelante de este poste, te moriraz congelado
+Mas adelante de esté poste, te moriraz congelado
 Nicolas Xavier De La Tourvelle.
 
 
@@ -1886,7 +1886,7 @@ EAST-
 La Perdrix Mountains
 
 ESTE--
-Montañas La Perdrix.
+Montañas La Perdrix
 
 
 P18:
@@ -1910,7 +1910,7 @@ EAST-
 La Perdrix Narrow pass
 
 ESTE
-Paso Montañoso La Perdrix.
+Paso Montañoso La Perdrix
 
 
 P21:
@@ -1941,7 +1941,7 @@ Las 8 ESFERAS NEGRAS son tan bellas.
 
 P26:
 Take this. I found it a long time ago, it will help you in your quest.
-Toma esto.  Lo encontre tiempo atras.  Te ayudara en tu viaje. 
+Toma esto.  Lo encontré tiempo atras.  Te ayudara en tu viaje. 
 
 P27: 
 I can now rest in peace...
@@ -2007,7 +2007,7 @@ Distrito Isigny
 
 P4:
 There are beautiful mountain woods on this district. There is also a deep cave and a swamp.
-Hay un lindo bosque montañoso en este distrito. Tambien hay una cueva profunda, y un pantano.
+Hay un lindo bosque montañoso en esté distrito. También hay una cueva profunda, y un pantano.
 
 P5:
 Heloise de La Tourvelle is buried somewhere in the plain. Shame on her...
@@ -2061,16 +2061,16 @@ Esta cerrado en el invierno..
 
 P1:
 Guillecourt Duchy
-You are entering the Albaret  Earldom.
+You are entering the Albaret Earldom.
 
 Ducado Guillecourt
-Entrando el Condado Albaret
+Entrando el Condado Albaret.
 
 
 P2: 
 WEST-
 Servigny Earldom
-La mésange Valley
+La Mésange Valley
 
 OESTE-
 Condado Servigny
@@ -2115,9 +2115,9 @@ Ciudad Delbasse
 
 P7:
 St Justine Convent
-Be glad to serve God
+Be glad to serve God.
 
-Convento St Justine.
+Convento St Justine
 Alegrate de servir a Dios.
 
 
@@ -2236,7 +2236,7 @@ No tengas miedo. Mis intenciones son buenas.
 
 P8:
 I traveled here in search of an item stolen from my family long ago.
-He viajado hasta este sitio buscando una reliquia que fue robada de mi familia hace mucho tiempo.
+He viajado hasta esté sitio buscando una reliquia que fue robada de mi familia hace mucho tiempo.
 
 P9:
 I now must continue my search.
@@ -2326,7 +2326,7 @@ Han habido viajeros que dicen que voces infernales resuenan en el viento.
 
 P28:
 This place is called "The Land of Eternal Night".
-Este sitio se llama “La Region de la Noche Eterna”
+Este sitio se llama “La Region de la Noche Eterna”.
 
 P29:
 Many people have disappeared there. According to the legends, a huge castle was built there as tribute to Lucifer.
@@ -2347,7 +2347,7 @@ P2:
 
 P3:
 Something happened in this floor...
-Algo paso en este piso...
+Algo paso en esté piso...
 
 P4:
 "Jean D'Albaret, major donor of this university"
@@ -2371,7 +2371,7 @@ El nivel maximo del PODER DE AURA SAGRADO ha subido.
 
 P9:
 You have found the SILVER EAGLE STATUETTE.
-Encontraste la ESTATUETA DEL AGUILA PLATEADA.
+Encontraste la ESTATUETA DEL ÁGUILA PLATEADA.
 
 P10:
                        GARDEN
@@ -2425,12 +2425,12 @@ I've no other choice but to stay in the shadows.
 No me queda de otra que quedarme en las sombras.
 
 P22:
-Away  from the world of man.
+Away from the world of man.
 Lejos del mundo de la humanidad.
 
 P23:
 But you, Lecarde, seem to walk this path of your own accord.
-Pero tu, Lecarde, parece que caminas este camino de tu propia volundat.
+Pero tu, Lecarde, parece que caminas esté camino de tu propia volundat.
 
 P24:
 Do not let the blackness envelope your soul.
@@ -2504,7 +2504,7 @@ Nada paso...
 
 P3:
 You have found a WHIRLWIND STATUETTE.
-Encontraste la ESTATUETA DEL VENTARRON.
+Encontraste la ESTATUETA DEL VENTARRÓN.
 
 P4: 
 ← CASTLE CLOCKWORK
@@ -2539,7 +2539,7 @@ La puerta reacciono con el EMBLEMA DE CALAVERA.
 
 P1:
 Insert the required amount.
-Dice “Inserte la cantidad requirida”
+Dice “Inserte la cantidad requirida”.
 
 P2:
 ...
@@ -2584,15 +2584,15 @@ Castle of Eternal Night
 Entrance Hall
 
 Castillo de la Noche Eterna
-Salon de Entrada
+Salón de Entrada
 
 P13:
 The Entrance Hall is the first place visited when someone enters the castle.
-El Salon de Entrada es el primer sitio visitado cuando alguien entra al castillo.
+El Salón de Entrada es el primer sitio visitado cuando alguien entra al castillo.
 
 P14:
 An imposing statue of Lucifer, the Fallen Angel, is placed at the center of the largest room.
-Una estatua imponente de Lucifer, el Angel Caido, esta localizada al centro de la camara mas grande.
+Una estatua imponente de Lucifer, el Ángel Caido, esta localizada al centro de la camara mas grande.
 
 P15:
 Sometimes, strange eyes hang from some doors. Do not face them while they are open...
@@ -2652,11 +2652,11 @@ Fue construido para honorar a Lucifer, el Portador de la Luz. Bendito sera el di
 
 P26:
 The Castle of Eternal Night will become the Castle of Eternal Light.
-El Castillo de la Noche Eterna se transformara en el Castillo de la Luz Eterna.
+El Castillo de la Noche Eterna se transformará en el Castillo de la Luz Eterna.
 
 P27:
 The castle is made of 13 distinct areas. Entrance Hall, Ancient Library, Clockwork, Four Seasons Hall..."
-El castillo esta compuesto de 13 areas diferentes. El Salon de Entrada, la Biblioteca Antigua, el Reloj, …
+El castillo esta compuesto de 13 areas diferentes. El Salón de Entrada, la Biblioteca Antigua, el Reloj, …
 
 P28:
 Pages have been torn off.
@@ -2712,7 +2712,7 @@ Castle of Eternal Night
 Four Seasons Hall
 
 Castillo de la Noche eterna
-Salon de las Cuatro Temporadas
+Salón de las Cuatro Temporadas
 
 
 P41:
@@ -2772,7 +2772,7 @@ Nos encontramos otra vez...
 
 P2:
 A strong evil energy steeps these walls.
-Una energia malefica muy fuerte permea de este lugar.
+Una energía malefica muy fuerte permea de esté lugar.
 
 P3:
 We must put it down at the source.
@@ -2780,7 +2780,7 @@ Debemos pararla, desde su fuente.
 
 P4:
 When this castle appeared, I sensed that my stolen item was somewhere inside of it.
-Cuando este castillo aparecio, senti que mi reliquia robada esta escondida en algun sitio adentro.
+Cuando esté castillo apareció, senti que mi reliquia robada esta escondida en algun sitio adentro.
 
 P5:
 Unfortunately I have yet to find it.
@@ -2834,7 +2834,7 @@ P2:
 → CHAMBER OF ILLUSIONS
 
 ← SALON DE LAS CUATRO TEMPORADAS
-→ CAMARA DE ILUSIONES
+→ CÁMARA DE ILUSIONES
 
 
 
@@ -2842,7 +2842,7 @@ P2:
 
 P1:
 You have found the Gold Angel Statuette.
-Encontraste la Estatueta del Angel Dorado.
+Encontraste la Estatueta del Ángel Dorado.
 
 P2:
 The HOLY AURA BLAST's maximum level has increased.
@@ -2876,7 +2876,7 @@ P7:
 I love this mirror. It's so beautiful.
 I could stare at it forever...
 
-Amo a este espejo.  Es tan bello.
+Amo a esté espejo.  Es tan bello.
 Pudiera mirarlo para siempre...
 
 
@@ -2989,7 +2989,7 @@ La puerta reacciono al EMBLEMA DE CALAVERA.
 
 P13:
 You have found the GOLD EAGLE STATUETTE.
-Encontraste la ESTATUETA DEL AGUILA DORADA.
+Encontraste la ESTATUETA DEL ÁGUILA DORADA.
 
 P14:
 You have found the MEDUSA STATUETTE.
@@ -3027,7 +3027,7 @@ La puerta ha reaccionado al EMBLEMA DE CALAVERA.
 
 P2:
 Equip the appropriate armor to get through the BLACK and WHITE energy rays.
-Ponte la armadura correcta, para poder pasar por los rayos de energia BLANCOS y NEGROS.
+Ponte la armadura correcta, para poder pasar por los rayos de energía BLANCOS y NEGROS.
 
 P3:
 The HOLY AURA BLAST's level max has increased.
@@ -3086,7 +3086,7 @@ Preparate a morir...
 
 P13:
 Finally, I have found it!
-Al fin, la encontre!
+Al fin, la encontré!
 
 P14:
 My ancestors sword, it was here after all.
@@ -3098,7 +3098,7 @@ Pero, temo que estoy muy herido, y demasiado debil como para usarla.
 
 P16:
 I lend you my sword, use it to rid this castle of evil.
-Te prestare mi espada.  Usala para eliminar la maldad de este castillo.
+Te prestare mi espada.  Usala para eliminar la maldad de esté castillo.
 
 P17:
 I must return to my slumber and leave you to restore peace.
@@ -3292,7 +3292,7 @@ Universidad Guernon
 
 P11:
 Main Hall
-Salon de entrada
+Salón de entrada
 
 P12:
 Clockwork
@@ -3319,7 +3319,7 @@ Jardin Del Muerto
 
 P18:
 Chamber of Illusion
-Camara de illusiones
+Cámara de illusiones
 
 P19:
 Princely Rooms
@@ -3339,4 +3339,4 @@ Biblioteca
 
 P23:
 Servigny Mansion
-Mansion Servigny
+Mansión Servigny
