@@ -48,6 +48,15 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### Update [1.1.4] - 2023/7/22 #### 
+
+
+`ADDED` - More Info of Reworked Edition Credits. (Aceearly1993)  
+`ADDED` - The fix of DualShock 4 D-pad compatibility to every Point of View direction to better reduce confusion. (Aceearly1993)  
+`FIXED` - Clean up of equipment name consistency.  (Aceearly1993)  
+`FIXED` - The remaining bugs caused by adding DualShock 4 D-pad compatibility to the game. (Aceearly1993)  
+`CHANGED` - When you exit from Boss Rush result screen, there will be fade transitions instead of abruptly changing to reset command. (Aceearly1993)  
+
  #### Update [1.1.3] - 2023/7/19 #### 
  
 `ADDED` - Source document of Spanish translation texts. (Jorge. D. Fuentes)  
