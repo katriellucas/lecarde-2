@@ -352,6 +352,7 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - mashedpotatoes312
 - theplottwist
 - Jorge. D. Fuentes
+- jdbuenol
 - 狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)
 
 ... and all the people in game credits.
