@@ -48,6 +48,23 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### [1.2.0] - 2023/8/3 #### 
+
+
+`ADDED` - Simplified Chinese and Japanese variation of item/equipment name when items/equipments are picked up in action scene. 
+This is done to match up the localization quality of CHS/JPN languages in Chronicles of the Wolf. (Aceearly1993)  
+`FIXED` - An oversight in original that the chosen Language selection in title screen menu did not get saved in the config file immediately. 
+This is done to match up the program's quality in Chronicles of the Wolf. (Aceearly1993)  
+`FIXED` - A bug that will cause stage name title in boss rush to repeatedly appear upon walking back and forth on the area transition line between initial preparation room and first boss room.  (Aceearly1993)  
+`CHANGED` - Slightly Reworked the structure of pickup name display code region for better visibility if any future editor want to take on improvement on other languages for this section.  (Aceearly1993)  
+`CHANGED` - Monster chart: One instance of Japanese variation of max up item name texts for consistency to Original languages. (Aceearly1993)  
+`CHANGED` - Relic Description: Several instances of Japanese variation of Silver Statue name texts for their new variants with better placing on pickup text box. (Aceearly1993)  
+`CHANGED` - Font: Item pickup text box font to cover an issue that causes the new Japanese variant of Item pickup text to exceed the text box in rare circumstances. (Aceearly1993)  
+`CHANGED` - Reworked video options so it's once again functional. The reworked video options screen has more functions and included brief indicators for every function. (Aceearly1993)  
+`CHANGED` - Font size of Keyboard key indicator display in controls setting for better visibility. (Aceearly1993)  
+
+
+
  #### [1.1.5] - 2023/7/28 #### 
 
 
