@@ -805,7 +805,7 @@ Shield ring
 Anello dello Scudo
 
 Angel Ring
-BaAnello Angelico
+Anello Angelico
 
 Guardian Ring
 Anello del Guardiano
