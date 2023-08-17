@@ -48,6 +48,29 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### [1.2.1] - 2023/8/17 #### 
+
+
+`ADDED` - Rest of language variations of item/equipment name when items/equipments are picked up in action scene. 
+This is done to match up the localization quality of all western languages in Chronicles of the Wolf. (Aceearly1993)  
+`ADDED` - Rest of language variations of item/equipment name in Sub screen > monster chart section. 
+This is done to match up the localization quality of all western languages in Chronicles of the Wolf. (Aceearly1993)  
+`ADDED` - Misc. object icon for text objects related to monster chart and pick up item display text box. (Aceearly1993)  
+`ADDED` - A simple background to make the control conifg screen and boss rush character selection screen look less barebone. (Aceearly1993)  
+`ADDED` - The function that can auto detect game pad type from demo version of Wallachia. (Aceearly1993)  
+`FIXED` - An oversight in original that will cause the initial map index to go wrong in Servigny Mansion's save spot. (DragonX24)  
+`FIXED` - A text corruption in Italian script not previously caught for some reason. (Aceearly1993)  
+`FIXED` - Several background positioning errors in St Justine. (Aceearly1993)  
+`FIXED` - Several background positioning errors in Garden of the Dead. (Aceearly1993)  
+`FIXED` - Servigny earldom: A layering error at the left side of Azure Lake so that it's now identical to original. (Aceearly1993)  
+`FIXED` - Revamped the Controller recognization system to get rid of several issues:  
+              1. An input stuck bug when a direction of Xbox d-pad is pressed if window is not focusing.  
+              2. A control problem when directly jumping to scene frames through frame editor if an Xbox d-pad is plugged.  (Aceearly1993)  
+`CHANGED` - Garden of the Dead: Slightly tweaked a sentence in a French text object in order to fit the text box graphics better. (Aceearly1993)  
+`CHANGED` - Auberge/Dark Forest: Tweaked some graphics for better visibility (done by requests of CHS people). (Aceearly1993)  
+
+
+
  #### [1.2.0] - 2023/8/3 #### 
 
 
@@ -380,6 +403,7 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - theplottwist
 - Jorge. D. Fuentes
 - jdbuenol
+- Exorion Hagen
 - 狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)
 
 ... and all the people in game credits.
