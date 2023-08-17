@@ -51,12 +51,12 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
  #### [1.2.1] - 2023/8/17 #### 
 
 
-`ADDED` - Rest of language variations of item/equipment name when items/equipments are picked up in action scene. 
+`ADDED` - Rest of language variations of item/equipment name when items/equipment are picked up in action scene. 
 This is done to match up the localization quality of all western languages in Chronicles of the Wolf. (Aceearly1993)  
 `ADDED` - Rest of language variations of item/equipment name in Sub screen > monster chart section. 
 This is done to match up the localization quality of all western languages in Chronicles of the Wolf. (Aceearly1993)  
 `ADDED` - Misc. object icon for text objects related to monster chart and pick up item display text box. (Aceearly1993)  
-`ADDED` - A simple background to make the control conifg screen and boss rush character selection screen look less barebone. (Aceearly1993)  
+`ADDED` - A simple background to make the control config screen and boss rush character selection screen look less barebone. (Aceearly1993)  
 `ADDED` - The function that can auto detect game pad type from demo version of Wallachia. (Aceearly1993)  
 `FIXED` - An oversight in original that will cause the initial map index to go wrong in Servigny Mansion's save spot. (DragonX24)  
 `FIXED` - A text corruption in Italian script not previously caught for some reason. (Aceearly1993)  
