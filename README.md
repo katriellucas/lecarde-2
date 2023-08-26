@@ -48,6 +48,22 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### [1.2.2] - 2023/8/27 #### 
+
+
+`ADDED` - Brazilian Purtuguese variant of stage name title graphics missing in original.  (Aceearly1993)  
+`ADDED` - Simplified Chinese and Japanese variant of resist negative status rate text to match the localization quality in Chronicles of the Wolf. (Aceearly1993)  
+`FIXED` - One Brazilian Purtuguese text error not caught previously for some reason. (Aceearly1993)  
+`CHANGED` - Updated PoV (PS4) direction control system and Controller Recognition system to V1.3; 
+Fully separated inputs of Keyboard, Xbox controller and PS4 controller/PoV direction input into 3 groups as an attempt to prevent control stuck bugs and overrides.  (Aceearly1993)  
+`CHANGED` - If the game window is not focused, the game now temporarily disables Xbox D-pad controls 
+(as an attempt to prevent control stuck bugs introduced after implemented PoV direction controls if going across "loading" zones when the game window is not active). (Aceearly1993)  
+`CHANGED` - Forced the game to always keep V-Sync active to prevent performance issues. (Aceearly1993)  
+`CHANGED` - One instance of German variant of stage name title graphics for consistency with new translations. (Aceearly1993)  
+`FIXED` - An issue that the game will lose control in PoV direction control (Xbox controller) after going across brief "loading" screens if temporarily deactive the game window; 
+This is fixed by isolating Xbox D-pad inputs to be exclusively in Xbox gamepad controls. (Aceearly1993)  
+
+
  #### [1.2.1] - 2023/8/17 #### 
 
 
