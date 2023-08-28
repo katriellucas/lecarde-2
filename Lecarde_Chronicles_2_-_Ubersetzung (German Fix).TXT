@@ -1038,7 +1038,7 @@ Die Zeit steht an drei Orten des Herzogtums still!
 
 P5:
 Count Servigny's mansion. The Convent Sainte-Justine.
-In Graf Servigny's Villa. Das Kloster der Heiligen Justine.
+In Graf Servigny's Villa. Das Kloster der Saint Justine.
 
 P6:
 Also in the mansion of the Count La Tourvelle.
