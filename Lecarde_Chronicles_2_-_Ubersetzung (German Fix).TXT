@@ -1062,7 +1062,7 @@ Tränke können für später aufbewahrt werden. Nahrung kann jedoch verderben, s
 
 P11:
 Welcome to the peaceful village of SAINT ANSELME.
-Willkommen in unserem friedlichen Dorf HEILIGER ANSELME.
+Willkommen in unserem friedlichen Dorf SAINT ANSELME.
 
 P12:
 WEST- Azur District
@@ -1079,7 +1079,7 @@ Da hat jemand etwas hingekritzelt:
 
 P14:
 EAST- Saint Anselme District
-OSTEN - Bezirk vom Heiligen Anselme
+OSTEN - Bezirk vom Saint Anselme
 
 P15: 
 Welcome to the inn
@@ -1234,7 +1234,7 @@ Die Stadt Delbasse ist die größte im ganzen Herzogtum.
 
 P51:
 St Justine convent is closed now.
-Die Kapelle der Heiligen Justine ist geschlossen.
+Die Kapelle der Saint Justine ist geschlossen.
 
 P52:
 When the demons revealed their true nature, the nuns fled.
@@ -1340,7 +1340,7 @@ Er hatte langes, platinfarbenes Haar, schien jedoch jung zu sein. Er fragte übe
 
 P75:
 He went to the St Justine Convent, if I'm not mistaken. What could he want on a place like this?
-Er ging zur Kapelle der Heiligen Justine, wenn ich nicht irre. Was könnte er an diesem Ort nur wollen?
+Er ging zur Kapelle der St. Justine, wenn ich nicht irre. Was könnte er an diesem Ort nur wollen?
 
 P76:
 The Albaret Family and the Duke Henri de Guillecourt were demons.
@@ -1508,7 +1508,7 @@ EAST-
 Saint Anselme Valley
 
 OSTEN -
-Tal vom Heiligen Anselme
+Tal vom Saint Anselme
 
 
 
@@ -1518,7 +1518,7 @@ WEST-Saint Anselme Forest
 EAST- La Mésange District
         L'Auberge rouge Inn
 
-WESTEN - Wald vom Heiligen Anselme
+WESTEN - Wald vom Saint Anselme
 OSTEN  - Bezirk La Mésange
 	 Gasthaus "L´auberge rouge"
 
@@ -1540,7 +1540,7 @@ EAST-
 Saint Anselme Village
 
 OSTEN -
-Dorf vom Heiligen Anselme
+Dorf vom Saint Anselme
 
 
 P6:
@@ -1596,7 +1596,7 @@ P12:
 WEST- St Anselme District
 EAST- Servigny Mansion
 
-WESTEN - Bezirk vom Heiligen Anselme
+WESTEN - Bezirk vom Saint Anselme
 OSTEN - Villa Servigny
 
 P13: 
@@ -1732,7 +1732,7 @@ Earldom of Servigny
 Saint Anselme District
 
 Grafschaft von Servigny
-Bezirk vom Heiligen Anselme
+Bezirk vom Saint Anselme
 
 
 
@@ -2169,7 +2169,7 @@ P7:
 St Justine Convent
 Be glad to serve God
 
-Kapelle der Heiligen Justine
+Kapelle der St. Justine
 Seid freudig Gott zu dienen.
 
 
@@ -2258,7 +2258,7 @@ Endlich kann ich in Frieden ruhen. Lebt wohl...
 
 
 - St Justine Convent
-- Kapelle der Heiligen Justine
+- Kapelle der St. Justine
 
 P1:
 You have used the SILVER KEY.
@@ -3325,7 +3325,7 @@ SPIEL LADEN
 ------------
 P1:
 Saint Anselme
-Heiliger Anselme
+Saint Anselme
 
 P2:
 Dark Forest
@@ -3357,7 +3357,7 @@ Stadt Delbasse
 
 P9:
 St Justine
-Kapelle der Heiligen Justine
+Kapelle der St. Justine
 
 P10:
 Guernon university
