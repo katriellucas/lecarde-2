@@ -48,6 +48,15 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 
 ## Changelog
 
+ #### [1.2.3] - 2023/9/1 #### 
+
+`ADDED` - Brazilian Portuguese variation of reworked text script.  (Aceearly1993)  
+`ADDED` - Picture variant of Efrain and Alucard if player gets "Best" rank in boss rush. (Aceearly1993)  
+`FIXED` - General missing parts in Portuguese text script.   (Aceearly1993)  
+`FIXED` - One inconsistency part in Simplified Chinese text script.   (Aceearly1993)  
+`CHANGED` - In-depth adjust of Alucard player walking animation's speed. (Aceearly1993)  
+
+
  #### [1.2.2] - 2023/8/27 #### 
 
 
