@@ -46,6 +46,9 @@ Keys are set below:
 #### Read this if antivirus softwares flagged the game as Malware ####
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
 
+#### Read this if your screen capture program did not work in Reworked LC2 ####
+Some capture programs will have compatibility issue with reworked LC2 on Windows 10 (for example, Ocam). This is because the compatibility issue of some revisions of Windows 10's Direct X9 mode. If you want safe screen recording methods, more mainstream programs (like OBS) will work.
+
 ## Changelog
 
  #### [1.2.3] - 2023/9/1 #### 
