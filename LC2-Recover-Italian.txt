@@ -10,7 +10,7 @@ L’oscurità si era impadronita del Ducato di Guillecourt. La gente parlava di 
 
 P3:
 One night, during his journey, a vision materialized before Efrain's eyes. A damsel overtaken by sorrow asked for his help, vanishing into the night just as suddenly as she had appeared. Who could she be? Does she know anything about the misery of the populace?
-Una notte, nel corso del viaggio, una visione si palesò di fronte agli occhi di Efrain. Una ragazza dall’espressione triste gli chiese aiuto, e scomparve nell’oscurità rapidamente come era apparsa. Chi poteva mai essere? Aveva qualcosa a che fare con le sofferenze della gente?
+Una notte, nel corso del viaggio, una visione si palesò di fronte agli occhi di Efrain. Una ragazza dall’espressione triste gli chiese aiuto, e scomparve nell’oscurità così come era apparsa. Chi poteva mai essere? Aveva qualcosa a che fare con le sofferenze della popolazione?
 
 P4:
 The Duchy of Guillecourt is formed by three earldoms: Servigny, La Tourvelle and Albaret. 
@@ -18,7 +18,7 @@ Il Ducato di Guillecourt si divideva in tre contee: Servigny, La Tourvelle e Alb
 
 P5:
 After many days and nights, Efrain reached Sevigny, where the most important mission of his life was about to begin...
-Dopo molti giorni e notti, Efrain raggiunse Servigny, da cui stava per iniziare la missione più importante della sua vita…
+Dopo molti giorni e notti, Efrain raggiunse Servigny, da cui stava per iniziare la missione più importante della sua vita...
 
 
 P6:
@@ -27,7 +27,7 @@ Non riuscendo a impedire l’empia evocazione di Lucifero, Efrain trovò la mort
 
 P7:
 Efrain's name was soon forgotten by the many years of bloodshed and destruction to follow. Evil was eventually repelled by other knights of the Church, but the long lost Lecarde name was not part of this legacy...
-Il nome di Efrain fu presto dimenticato, negli anni di sangue e distruzione che seguirono. Il Male fu infine respinto da altri Cavalieri della Chiesa, un lascito di cui non fece parte il nome ormai perduto dei Lecarde…
+Il nome di Efrain fu presto dimenticato, negli anni di sangue e distruzione che seguirono. Il Male fu infine respinto da altri Cavalieri della Chiesa, un lascito di cui non fece parte il nome ormai perduto dei Lecarde...
 
 
 P8:
@@ -39,8 +39,8 @@ With Duke Guillecourt's successful summoning of Lucifer, many years of bloodshed
 
 Efrain's effort was remembered and honored, but at the cost of countless lives. No honor could spare Efrain from the anguish tormenting him until the last of his days. If only he had stopped the summoning of Lucifer all those years before...
 
-L’evocazione di Lucifero da parte del Duca di Guillecourt portò tanti anni di sangue e distruzione. Ma insieme ad altri Cavalieri della Chiesa, Efrain riuscì infine a respingere le forze dell’oscurità.Le imprese di Efrain furono celebrate e commemorate, ma tantissime vite erano andate perse. 
-Nessun onore poteva salvare Efrain dal rimorso che lo accompagnò per il resto della sua vita. Se solo avesse impedito l’arrivo di Lucifero, molti anni prima…
+L’evocazione di Lucifero da parte del Duca di Guillecourt portò tanti anni di sangue e distruzione. Ma insieme ad altri Cavalieri della Chiesa, Efrain riuscì infine a respingere le forze dell’oscurità. Le imprese di Efrain furono celebrate e commemorate, ma tantissime vite erano andate perse. 
+Nessun onore poteva salvare Efrain dal rimorso che lo accompagnò per il resto della sua vita. Se solo avesse impedito l’arrivo di Lucifero, molti anni prima...
 
 
 P10:
@@ -51,7 +51,7 @@ Con la sconfitta di Lucifero, il male che minacciava di inghiottire il mondo fu 
 
 P12:
 A bird appeared on the horizon, and brought the knight a message. It was a letter from Alucard.
-Un uccello apparve all’orizzonte, portava un messaggio per il cavaliere. Era una lettera da parte di Alucard.
+Un uccello apparve all’orizzonte, portando un messaggio per il cavaliere. Era una lettera da parte di Alucard.
 
 P13:
 Lecarde
@@ -71,13 +71,14 @@ Alucard
 
 Lecarde,
 
-sei un grande guerriero e degno senz’altro della mia fiducia. Sono tornato al mio sonno, ma ho qualcosa da chiederti.
+Sei un grande guerriero e degno senz’altro della mia fiducia. Sono tornato al mio sonno, ma ho qualcosa da chiederti.
 
-In cerca della mia spada rubata, ho visitato molti posti. Durante i miei viaggi ho incontrato un Dottore che intende sconfiggere la morte. Temo che se lasciato fare, diventerà un pericolo per l’umanità.
+In cerca della mia spada rubata, ho visitato molti luoghi. Durante i miei viaggi ho incontrato un Dottore che intende sconfiggere la morte. Temo che se lasciato fare, diventerà un pericolo per l’umanità.
 
 Lascio qui le indicazioni per raggiungere il mio rifugio. Trovalo, e riportami la spada. C’è un’altra, potente arma che ti aspetta laggiù.
 
 Buona fortuna, Lecarde.
+
 Il tuo amico,
 
 Alucard
@@ -167,7 +168,7 @@ Arma leggendaria, a lungo perduta.
 
 P19:
 A strong weapon for battle.
-Una potente arma da lotta.
+Una potente arma da battaglia.
 
 P20:
 Crushes enemies.
@@ -231,7 +232,7 @@ Difesa scarsa, ma permette di passare oltre lance e spuntoni senza danni.
 
 P35:
 Not very resistant. It was a gift to the Von Viltheim Family. Must be worn in order to...
-Poco resistente. Era un regalo alla famiglia Von Viltheim. È necessario indossarla per…
+Poco resistente. Era un regalo alla famiglia Von Viltheim. È necessario indossarla per...
 
 P36:
 Mediocre protection, but allows the wearer to walk through fire.
@@ -263,7 +264,7 @@ Ha il potere di far sparire le illusioni della SALA DEI MIRAGGI.
 
 P43:
 Produces a field of light that can light up the darkest places.
-Genera una luce che rischiara anche I luoghi più oscuri.
+Genera una luce che rischiara anche i luoghi più oscuri.
 
 P44:
 Made to resist the swamps' poisonous atmosphere while crossing them.
@@ -275,7 +276,7 @@ Protegge la mente dal rischio di disorientamento.
 
 P46:
 Not really protective. Once belonged to a late Von Viltheim Family member. Nevertheless it's vital for...
-Appartenuto a un defunto membro dei Von Viltheim. Protegge poco, tuttavia è necessario per…
+Appartenuto a un defunto membro dei Von Viltheim. Protegge poco, tuttavia è necessario per...
 
 P47:
 Belongs to the Lecarde Family ever since 1322.
@@ -331,7 +332,7 @@ Il miglior anello per la propria difesa.
 
 P60:
 Slightly increases many statuses. It's also important for...
-Migliora un poco molte caratteristiche. È anche importante per…
+Migliora un poco molte caratteristiche. È anche importante per...
 
 P61:
 Family pendant. Raises its owner's bravery.
@@ -371,11 +372,11 @@ Grants 50%  protection against weak status.
 
 P70:
 Grants full protection against poison status.
-Protezione completa dal Veleno.
+Piena protezione dal Veleno.
 
 P71:
 Grants full protection against cursed status.
-Protezione completa dalla Maledizione.
+Piena protezione dalla Maledizione.
 
 P72:
 Grants full protection against stunned status.
@@ -395,7 +396,7 @@ Piena protezione da tutti gli stati negativi.
 
 P76:
 Grants 40% protection against all ailments and increases critical rate. It's also required for...
-40% di protezione da tutti gli stati negativi e più attacchi critici, oltre ad essere necessario per…
+40% di protezione da tutti gli stati negativi e più attacchi critici, oltre ad essere necessario per...
 
 P77:
 DOUBLE SHOT: Shoots 2 subweapons in a row.
@@ -415,7 +416,7 @@ ZAINO: Permette di trasportare più pozioni.
 
 P81:
 LARGE BACKPACK: Get maximum capacity to carry potions.
-ZAINO GRANDE: Massima capacità di carico per le pozioni..
+ZAINO GRANDE: Massima capacità di carico per le pozioni.
 
 P82:
 RED MIRROR: Reveals ghosts in the red mist rooms.
@@ -435,7 +436,7 @@ CHIAVE DI BRONZO: Apre la porta della Residenza Servigny.
 
 P86:
 SILVER KEY: Opens a door in Sainte Justine Convent.
-CHIAVE D’ARGENTO: Apre una porta nel Convento di Sante Justine. 
+CHIAVE D’ARGENTO: Apre una porta nel Convento di Sainte Justine. 
 
 P87:
 GOLD KEY: Opens a door in  the Entrance Hall of the Castle of Eternal Night.
@@ -475,7 +476,7 @@ SCETTRO SPETTRALE: Permette di entrare negli specchi maledetti.
 
 P96:
 BLOOD STAFF: The incrusted blood gem detects the location of BLACK ORBS on the map.
-SCETTRO  INSANGUINATO: La sua gemma scarlatta rileva la posizione delle SFERE NERE sulla mappa.
+SCETTRO INSANGUINATO: La sua gemma scarlatta rileva la posizione delle SFERE NERE sulla mappa.
 
 P97:
 SILVER WIND STATUETTE: Grants the power of WHIRLWIND ATTACK level 1.
@@ -499,7 +500,7 @@ LETTERA «A»: Lastra di marmo usata per comporre parole.
 
 P102:
 WIND BELL: Pacifies strong winds.
-CAMPANELLO DEL VENTO: Calma I venti forti.
+CAMPANELLO DEL VENTO: Calma i venti forti.
 
 P103:
 STONE HAND: May be of interest.
@@ -531,7 +532,7 @@ MAPPA DI SERVIGNY: Una mappa basilare della Contea di Servigny.
 
 P110:
 LA TOURVELLE MAP: A basic map of the Earldom of La Tourvelle.
-MAPPA DI LA TOURVELLE: Una mappa basilare della Contea di La Tourvelle.
+MAPPA DI LA TOURVELLE: Una mappa basilare della Contea de La Tourvelle.
 
 P111:
 ALBARET MAP: A basic map of the Earldom of Albaret.
@@ -591,7 +592,7 @@ Rinforza ATT, DIF e FRT.
 
 P125:
 Reduces the heart consumption of the WHIRLWIND.
-Riduce il numero di cuori consumati usando il TORNADO.
+Riduce il numero di cuori consumati per il TORNADO.
 
 P126:
 Reduces the heart consumption of the subweapons.
@@ -735,7 +736,7 @@ Neptune Helmet
 Elmetto di Nettuno
 
 Mask of Vision
-Mshra. della Chiarezza
+Masc. della Chiarezza
 
 Circlet of Light
 Diadema della Luce
@@ -886,7 +887,7 @@ Contea di Servigny
 
 P3:
 La Tourvelle Earldom
-Contea di La Tourvelle
+Contea de La Tourvelle
 
 P4:
 Albaret Earldom
@@ -915,7 +916,7 @@ Scegli una destinazione.
 
 P2:
 Maybe another time.
-Forse un'altra durata...
+Forse un'altra volta...
 
 
 - opening Rome
@@ -942,7 +943,7 @@ Affronterai demoni molto più potenti.
 
 P6:
 But a warrior with your power should have no need for such a fine weapon.
-Ma dubito che una così bella arma serva a un guerriero forte come te.
+Ma dubito che una così bella arma serva a un potente guerriero come te.
 
 P7:
 Double Shot
@@ -1017,7 +1018,7 @@ In quei luoghi è sempre notte. Dev’essere opera di forze maligne!
 
 P8:
 I think something fell inside the village's well. If only I could climb down there and see...
-Sembra sia caduto qualcosa nel pozzo del villaggio. Se solo potessi scendere e controllare…
+Sembra sia caduto qualcosa nel pozzo del villaggio. Se solo potessi scendere e controllare...
 
 P9:
 You will need a flute to call the ferryman at Azur Lake.
@@ -1090,7 +1091,7 @@ La Foresta Oscura è nei pressi del lago di Azur.
 
 P25:
 You found a SILVER FLUTE.
-
+Hai trovato un FLAUTO D'ARGENTO.
 
 P26:
 This is the mountain village of Isigny.
@@ -1126,7 +1127,7 @@ Il castello del conte La Tourvelle è pieno di opere sui volatilii.
 
 P34:
 It's also called the Birds' Castle.
-Infatti lo chiamano anche il Castello degli Uccelli .
+Infatti lo chiamano anche il Castello degli Uccelli.
 
 P35:
 Far to the west you will find the cemetery of Sarelle.
@@ -1236,7 +1237,7 @@ Parco Delbasse
 
 P59:
 People cannot leave the towns because of the monsters.
-La gente non può lasciare icentri abitati per colpa dei mostri.
+La gente non può lasciare i centri abitati per colpa dei mostri.
 
 P60:
 They are ransacking the duchy ever since the demons' revelation.
@@ -1284,11 +1285,11 @@ Fu scritto da Aristide Torchia a Venezia, nel 1666.
 
 P70:
 Almost all copies were burned by the Holy Inquisition, but 3 of these books still exist somewhere...
-La Santa Inquisizione fece bruciare quasi tutte le copie, ma tre di questi libri esistono ancora…
+La Santa Inquisizione fece bruciare quasi tutte le copie, ma tre di quei libri esistono ancora...
 
 P71:
 Some illustrations are signed by Torquia, while others are signed "LCF". I have no idea who "LCF" is. Maybe you can find out?
-Alcuni disegni sono opera di Torchia, mentre altri portano la firma “LCF”, forse tu puoi scoprire chi fosse?
+Alcuni disegni sono opera di Torchia, mentre altri portano la firma “LCF”. Non ho idea di chi fosse "LCF", forse tu lo puoi scoprire?
 
 P72:
 Beyond the bridge you will find a strange wasteland.
@@ -1338,7 +1339,7 @@ Sei Lecarde, non è vero? Devi essere quello che ha sconfitto i malvagi Von Vilt
 
 P83:
 I will tell you a very ironic story, then...
-Lascia che ti racconti una storia molto ironica…
+Lascia che ti racconti una storia molto ironica...
 
 P84:
 Did you know that 100 years ago, a Lecarde almost married a Von Viltheim dame called Anna?
@@ -1354,15 +1355,15 @@ Nella sua lettera d’addio chiese di essere sepolta col suo abito nuziale.
 
 P87:
 What a sad end...
-Che fine triste…
+Che fine triste...
 
 P88:
 A young girl named Christine Chantrene has been taken by men wearing very strange clothes.
-Degli uomini vestiti in modo strano hanno portato via una ragazza di nome Christine Chantrene.
+Degli uomini vestiti in modo strano hanno rapito una ragazza di nome Christine Chantrene.
 
 P89:
 She has been taken away toward East. Her parents are broken down.
-E' stata portata via verso est. I suoi genitori sono a pezzi.
+È stata portata via verso est. I suoi genitori sono a pezzi.
 
 P90:
 The weather is abnormally cold in the La Tourvelle Earldom.
@@ -1415,20 +1416,21 @@ P102:
 
 P103:
 Spirit of the night.. Come.. Come with us..
+Spirito della notte... Vieni... Vieni da noi...
 
 P104:
 A young girl appeared and started speaking...
-È apparsa una ragazza e ha preso a parlare…
+È apparsa una ragazza e ha preso a parlare...
 
 P105:
 My heart.. My heart.. I need.. 100 hearts.
 Please give me 100 hearts..
-Il mio cuore… Il mio cuore… Mi servono… 100 cuori.
-Vi prego datemi 100 cuori…
+Il mio cuore... Il mio cuore... Mi servono... 100 cuori.
+Vi prego datemi 100 cuori...
 
 P106:
 A young lad without his hands appeared and started speaking...
-È apparso un ragazzo senza mani che ha detto…
+È apparso un ragazzo senza mani che ha detto...
 
 P107:
 I'm no more than a thief. Please forgive me, Lady Albaret.
@@ -1438,7 +1440,7 @@ Restituirò subito il suo gioiello.
 
 P108:
 It seems that the spirits of the departed do not wish to join us...
-A quanto pare gli spiriti dei defunti non vogliono unirsi a noi…
+A quanto pare gli spiriti dei defunti non vogliono unirsi a noi...
 
 P109:
 You should buy a Broad Sword in the shop before venturing the Dark Forest ahead.
@@ -1549,8 +1551,8 @@ P12:
 WEST- St Anselme District
 EAST- Servigny Mansion
 
-OVEST-Distretto di St. Anselme
-EST-Residenza Servigny
+OVEST- Distretto di St. Anselme
+EST- Residenza Servigny
 
 
 P13: 
@@ -1558,7 +1560,7 @@ La Mésange Bridge
 Built in 1713
 
 Ponte de La Mésange
-Costruito nel 1713.
+Costruito nel 1713
 
 
 P14:
@@ -1616,7 +1618,7 @@ P3:
 
 P4:
 You have found the PILGRIM STATUETTE.
-Hai trovato la STATUETTA DEL PELLEGRINO
+Hai trovato la STATUETTA DEL PELLEGRINO.
 
 P5:
 Gregoire Count of Servigny 1580-1662.
@@ -1628,7 +1630,7 @@ Jeanne, Contessa di Servigny, 1585-1668
 
 P7:
 Maximilien Count of Servigny 1605-1899. 1899... What's that?
-Maximilien, Conte di Servigny, 1605-1899. 1899… Cosa?
+Maximilien, Conte di Servigny, 1605-1899. 1899... Cosa?
 
 P8:
 VON VILTHEIM AURA BLAST's level max has increased.
@@ -1642,7 +1644,7 @@ Maximilien de Servigny.
 This coffin is huge.. It's empty.
 
 Maximilien de Servigny
-Questa bara è enorme… e vuota.
+Questa bara è enorme... e vuota.
 
 
 - Servigny mansion
@@ -1671,7 +1673,7 @@ P5:
 It says..
 «You are not worthy of witnessing my beauty»
 
-Si legge…
+Si legge...
 «Non sei degno di contemplare la mia bellezza»
 
 
@@ -1757,7 +1759,7 @@ Guillecourt Duchy
 You are entering the La Tourvelle Earldom.
 
 Ducato di Guillecourt
-Stai entrando nella Contea de La Tourvelle.
+State entrando nella Contea de La Tourvelle.
 
 P3:
 WEST-
@@ -1813,7 +1815,7 @@ Voglio aiutarti. Prendi questo oggetto.
 
 P9:
 Farewell...
-Addio…
+Addio...
 
 P10:
 EAST-
@@ -1869,7 +1871,7 @@ P16:
 Beyond this post you will be frozen to death...
 Nicolas Xavier De La Tourvelle.
 
-Oltre questo punto congelerai a morte…
+Oltre questo punto congelerai a morte...
 Nicolas Xavier De La Tourvelle.
 
 P17:
@@ -1893,7 +1895,7 @@ WEST-
 Sarelle Mountains
 
 OVEST-
-Monti di Sarelle.
+Monti di Sarelle
 
 
 P20:
@@ -1924,7 +1926,7 @@ Sono Gabrielle de La Touvelle. Fui condannata a vivere qui per tutto il resto de
 
 P24:
 I would like to see the 8 BLACK ORBS. They are breathtaking..
-Vorrei tanto vedere 8 SFERE NERE. Sono splendide…
+Vorrei tanto vedere 8 SFERE NERE. Sono splendide...
 
 P25:
 The 8 BLACK ORBS are so beautiful. 
@@ -1936,7 +1938,7 @@ Ho trovato questo oggetto tempo fa, prendilo, ti tornerà utile.
 
 P27: 
 I can now rest in peace...
-Ora potrò riposare in pace…
+Ora potrò riposare in pace...
 
 - Sautelle cemetery
 
@@ -1954,23 +1956,23 @@ Lasciaci andare in pace per vivere la Parola di Dio.
 
 P4:
 Rest in peace our beloved..
-Riposa in pace, nostro adorato…
+Riposa in pace, nostro adorato...
 
 P5:
 Efrain Lecarde..
-Efrain Lecarde…
+Efrain Lecarde...
 
 P6:
 It says: 3-B-2 times.
-Dice: 3 - B- 2 volte
+Dice: 3 - B - 2 volte.
 
 P7:
 It says: 1-C-3 times.
-Dice: 1  -  C - 3 volte.
+Dice: 1 - C - 3 volte.
 
 P8:
 It says: 2-A-5 times.
-Dice: 2  -  A - 5 volte.
+Dice: 2 - A - 5 volte.
 
 
 - La Tourvelle castle
@@ -2001,7 +2003,7 @@ In questo distretto ci sono belle foreste di montagna; anche una grande caverna 
 
 P5:
 Heloise de La Tourvelle is buried somewhere in the plain. Shame on her...
-Heloise de La Tourvelle è sepolta da qualche parte nella piana. Che disonore…
+Heloise de La Tourvelle è sepolta da qualche parte nella piana. Che disonore...
 
 P6:
 Earldom of La Tourvelle
@@ -2054,7 +2056,7 @@ Guillecourt Duchy
 You are entering the Albaret  Earldom.
 
 Ducato di Guillecourt
-Stai entrando nella Contea di Albaret.
+State entrando nella Contea di Albaret.
 
 
 P2: 
@@ -2191,7 +2193,7 @@ Questo potrebbe esserti d’aiuto, prendilo.
 
 P19: 
 I can now rest in peace. Farewell...
-Posso riposare in pace adesso. Addio…
+Posso riposare in pace adesso. Addio...
 
 
 - St Justine Convent
@@ -2213,7 +2215,7 @@ Cos’è stato?
 
 P5: 
 That emblem..You're a member of the Lecarde clan.
-Quell’emblema… Sei un membro del clan Lecarde.
+Quell’emblema... Sei un membro del clan Lecarde.
 
 P6:
 Let me introduce myself, I am Alucard..
@@ -2264,7 +2266,7 @@ P17:
 
 P18:
 These carved words are strange...
-Queste parole incise sono bizzarre…
+Queste parole incise sono bizzarre...
 
 P19:
 BOOK OF THE CRUCIFIXES
@@ -2307,7 +2309,7 @@ La città di Delbasse è il maggiore centro del ducato.
 
 P26:
 There is a creepy, dark area beyond the bridge...
-Oltre il ponte si trova una zona oscura e spaventosa…
+Oltre il ponte si trova una zona oscura e spaventosa...
 
 P27:
 Some travelers have reported that voices coming from Hell often resonate in the wind.
@@ -2328,15 +2330,15 @@ P1:
 It says..
 "Show me the STORM PENDANT"
 
-C’è scritto…
-“Mostrami il CIONDOLO DELLA BUFERA”
+C’è scritto...
+“Mostrami il CIONDOLO DELLA BUFERA”
 
 
 P2:
 
 P3:
 Something happened in this floor...
-Si è mosso qualcosa su questo piano…
+Si è mosso qualcosa su questo piano...
 
 P4:
 "Jean D'Albaret, major donor of this university"
@@ -2352,7 +2354,7 @@ Hai attivato il meccanismo nel basamento.
 
 P7:
 Something happened in the garden..
-Nel giardino è successo qualcosa…
+Nel giardino è successo qualcosa...
 
 P8:
 The HOLY AURA BLAST's maximum level has increased.
@@ -2394,18 +2396,18 @@ P17:
 Piano…
 ↓←↑←↓→↓←↑
 
-Pianoforte…
+Pianoforte...
 ↓←↑←↓→↓←↑
 
 P18:
 Something happened in the garden.
-Nel giardino è successo qualcosa…
+Nel giardino è successo qualcosa...
 
 P19:
 Listen...
 Such a beautiful melody.
 
-Ascolta…
+Ascolta...
 Che splendida melodia.
 
 P20:
@@ -2492,7 +2494,7 @@ La sfera di ferro ha cambiato posizione.
 
 P2:
 Nothing happened...
-Non succede nulla…
+Non succede nulla...
 
 P3:
 You have found a WHIRLWIND STATUETTE.
@@ -2588,7 +2590,7 @@ Una possente statua di Lucifero, l’Angelo Caduto, si erge al centro della sala
 
 P15:
 Sometimes, strange eyes hang from some doors. Do not face them while they are open...
-A volte si palesano strani occhi su alcune porte. Non guardarle mentre sono aperte…
+A volte si palesano strani occhi su alcune porte. Non guardarli mentre sono aperti...
 
 P16:
 Castle of Eternal Night
@@ -2612,7 +2614,7 @@ I resti di anime tormentate vi riposano per l’eternità. Una di esse è Anna V
 
 P20:
 The only way to harm her corpse is to wear the 5.. The following is illegible.
-L’unico modo per colpirla… indossare le cinque… Il resto è illeggibile.
+L’unico modo per colpirla... indossare le cinque... Il resto è illeggibile.
 
 P21:
 Castle of Eternal Night
@@ -2648,7 +2650,7 @@ Il Castello della Notte Eterna diverrà il Castello della Luce Eterna.
 
 P27:
 The castle is made of 13 distinct areas. Entrance Hall, Ancient Library, Clockwork, Four Seasons Hall..."
-Il castello consiste in 13 settori. Sale d’Ingresso, Antica Biblioteca, Locali Meccanismi, Padiglione delle Quattro Stagioni…”
+Il castello consiste in 13 settori. Sale d’Ingresso, Antica Biblioteca, Locali Meccanismi, Padiglione delle Quattro Stagioni...”
 
 P28:
 Pages have been torn off.
@@ -2673,7 +2675,7 @@ P. Ogouz HNK ep 37
 
 P33: 
 This hasn't got interest...
-Niente di interessante…
+Niente di interessante...
 
 P34:
 Memories of a castle guard 
@@ -2685,7 +2687,7 @@ Mentre sorvegliavo la Galleria degli Orrori, sono stato attaccato da un altro me
 
 P36: 
 I couldn't hurt it with my own sword and had to run away...
-La mia spada non gli faceva nulla, sono dovuto scappare…
+La mia spada non gli faceva nulla, sono dovuto scappare...
 
 P37: 
 I lost my sword during the fight, but fortunately I have managed to find a similar one.
@@ -2697,7 +2699,7 @@ Ho combattuto contro la stessa copia un’altra notte.
 
 P39:
 This time I managed to destroy it! It was so strong...
-Questa volta la ho distrutta! Era davvero forte…
+Questa volta la ho distrutta! Era davvero forte...
 
 P40:
 Castle of Eternal Night
@@ -2725,7 +2727,7 @@ Perché il rituale sia completo, è necessario il sangue di una ragazza innocent
 
 P45: 
 It's very important because without it the result could be very uncertain...
-È molto importante perché senza di esso, l’esito potrebbe essere imprevedibile…
+È molto importante perché senza di esso, l’esito potrebbe essere imprevedibile...
 
 P46:
 Castle of Eternal Night 
@@ -2749,18 +2751,18 @@ Pensaci bene prima di entrarvi, perché dopo non potrai più uscirne.
 
 P50: 
 Die... Die... Die... Die... Die...
-Muori… Muori… Muori… Muori…
+Muori... Muori... Muori... Muori...
 
 P51: 
 The whole book is written with these words. It is scary...
-L’intero libro è scritto così. Inquietante…
+L’intero libro è scritto così. Inquietante...
 
 
 - Horror Gallery
 
 P1:
 So we meet again...
-Ci incontriamo di nuovo…
+Ci incontriamo di nuovo...
 
 P2:
 A strong evil energy steeps these walls.
@@ -2863,14 +2865,14 @@ P5:
 
 P6:
 There is a note here...
-C’è scritto qualcosa qui…
+C’è scritto qualcosa qui...
 
 P7:
 I love this mirror. It's so beautiful.
 I could stare at it forever...
 
 Adoro questo specchio. Così bello.
-Potrei restare a guardarlo in eterno…
+Potrei restare a guardarlo in eterno...
 
 
 
@@ -2878,7 +2880,7 @@ Potrei restare a guardarlo in eterno…
 
 P1:
 Marionette presentation.
-“Spettacolo delle marionette.”
+“Spettacolo delle marionette.”
 
 P2:
 The gate has reacted to the SKULL EMBLEM.
@@ -2908,7 +2910,7 @@ Marionette presentation.
 The show's length is: 150 years..
 
 Spettacolo delle marionette.
-Durata: 150 anni…
+Durata: 150 anni...
 
 P7:
 
@@ -2937,7 +2939,7 @@ Hai usato la COPPA DELLA FALSITÀ.
 
 P5:
 Choose your path..
-Scegli la tua via…
+Scegli la tua via...
 
 P6:
 1-The cross is the truth.
@@ -2961,11 +2963,11 @@ P7:
 
 P8:
 7-The upended truth brings up the rear. 
-7 - La verità capovolta porta su ciò che sta in basso
+7 - La verità capovolta porta su ciò che sta in basso.
 
 P9:
 It seems that there is a letter is missing!
-Sembra che manchi una lettera !
+Sembra che manchi una lettera!
 
 P10:
 You have used the "A" LETTER.
@@ -2973,7 +2975,7 @@ Hai usato la LETTERA "A".
 
 P11:
 In HELL, death may be invisible..
-Nell’INFERNO, la morte potrebbe essere invisibile…
+Nell’INFERNO, la morte potrebbe essere invisibile...
 
 P12:
 The gate has reacted to the SKULL EMBLEM.
@@ -2996,11 +2998,11 @@ Amo le rose. Mi piacerebbe vederle.
 
 P2:
 Roses everywhere..
-Rose dappertutto…
+Rose dappertutto...
 
 P3:
 Marvelous, wonderful...
-Meravigliose, sublimi…
+Meravigliose, sublimi...
 
 P4:
 At last, my soul is released.
@@ -3008,7 +3010,7 @@ Finalmente, la mia anima può andare in pace.
 
 P5:
 I would like to express my deepest gratitude...
-La mia più profonda gratitudine…
+Ti esprimo la mia più profonda gratitudine...
 
 
 - Illusion Chamber
@@ -3034,11 +3036,11 @@ La porta ha reagito all’EMBLEMA DEL TESCHIO.
 
 P2: 
 The clock's hands move strangely...
-Le lancette si muovono in modo strano…
+Le lancette si muovono in modo strano...
 
 P3: 
 I'm so tired...
-Sono molto stanco…
+Sono molto stanco...
 
 P4: 
 I won't need this weapon anymore.
@@ -3046,15 +3048,15 @@ Non ho più bisogno di quest’arma.
 
 P5: 
 I can now rest in peace. Farewell...
-Ora posso riposare in pace. Addio…
+Ora posso riposare in pace. Addio...
 
 P6: 
 It's written "POISON" on the label.
-Sulla fiaschetta sta scritto “VELENO”.
+Sulla fiaschetta sta scritto “VELENO”.
 
 P7: 
 It was disgusting... A very violent pain engulfs your body... And then your heartbeat stops...!
-Disgustoso… Sei sopraffatto da un dolore violentissimo…Poi il tuo cuore smette di battere…
+Disgustoso... Sei sopraffatto da un dolore violentissimo... Poi il tuo cuore smette di battere...!
 
 P8:
 A powerful force has neutralized the poison effect!
@@ -3074,11 +3076,11 @@ Sei un degno avversario, senza dubbio.
 
 P12: 
 Prepare to die...
-Preparati a morire…
+Preparati a morire...
 
 P13:
 Finally, I have found it!
-Finalmente l’ho trovata !
+Finalmente l’ho trovata!
 
 P14:
 My ancestors sword, it was here after all.
@@ -3086,7 +3088,7 @@ La spada del mio antenato era davvero qui.
 
 P15: 
 But I fear that I'm wounded and too weak, to wield it.
-Ma temo di non poterla maneggiare, ferito e debole come sono.
+Ma temo di non poterla impugnare, ferito e debole come sono.
 
 P16:
 I lend you my sword, use it to rid this castle of evil.
@@ -3098,7 +3100,7 @@ Devo tornare al mio sonno, a te il compito di riportare la pace.
 
 P18: 
 Farewell Lecarde...
-Addio, Lecarde…
+Addio, Lecarde...
 
 P19:
 Words are carved here...
@@ -3106,7 +3108,7 @@ Ci sono delle parole incise.
 
 P20: 
 Welcome to the end of your life. You will never leave this place...
-Benvenuto al termine della tua vita. Non uscirai mai da qui…
+Benvenuto al termine della tua vita. Non uscirai mai da qui...
 
 P21:
 This room contains everything you need for your preferred way to die.
@@ -3114,7 +3116,7 @@ In questa stanza c’è tutto quel che serve per morire come più gradisci.
 
 P22: 
 Choose your death...
-Scegli la tua morte…
+Scegli la tua morte...
 
 P23:
 But I cannot allow you to go any further.
@@ -3125,19 +3127,19 @@ Ma non posso permettere che tu vada oltre.
 
 P1: 
 Four angels lead the path...
-Quattro angeli indicano la via…
+Quattro angeli indicano la via...
 
 P2: 
 ← ALTAR
 → UNDERGROUND AQUEDUCT
 
-←ALTARE
+← ALTARE
 → ACQUEDOTTO SOTTERRANEO
 
 
 P3:
 Come Lucifer... Rise from the depths of Hell. 
-Vieni, Lucifero… Sorgi dalle profondità degli Inferi.
+Vieni, Lucifero... Sorgi dalle profondità degli Inferi.
 
 P4:
 What?
@@ -3145,7 +3147,7 @@ Cosa?
 
 P5: 
 Miserable vermin...!
-Dannato verme…
+Dannato verme...!
 
 P6:
 You are too late. Lucifer will bask the world in evil. 
@@ -3157,15 +3159,15 @@ Non può essere! Il rituale non è completo!
 
 P8: 
 DIE...
-Muori… 
+Muori...
 
 P9: 
 Something can be inserted in the pedestal of this statue...
-Nel piedistallo di questa statua si può inserire qualcosa…
+Nel piedistallo di questa statua si può inserire qualcosa...
 
 P10: 
 Forgive me... Prince of Darkness...
-Perdonami… O Principe delle Tenebre…
+Perdonami... O Principe delle Tenebre...
 
 P11:
 Have you come to see the light?
@@ -3177,7 +3179,7 @@ Porto il bagliore di un milione di Soli che ridurrà questo mondo in cenere.
 
 P13:
 That weapon... I sense it's dark power. 
-Quell’arma… Che potere oscuro. 
+Quell’arma... Che potere oscuro. 
 
 P14:
 Did lord Dracula's half breed son pass it to you?
@@ -3220,7 +3222,7 @@ Pessimo
 
 P2:
 AVERAGE
-Medio
+Mediocre
 
 P3:
 GOOD
