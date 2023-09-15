@@ -26,7 +26,7 @@ Après plusieurs jours, Efrain atteignît  le petit village de Saint Anselme à 
 
 P6:
 Unable to stop the unholy summoning of Lucifer, Efrain met his demise within the depths of the Castle of Eternal Night. His fight against evil lost, Efrain's heroism amounted to dust in the wind.
-Incapable d’arrêter l’invocation de Lucifer, Efrain expira dans les entrailles du Château de la Nuit Eternelle. Son combat contre le mal fût malheureusement  perdu. 
+Incapable d’arrêter l’invocation de Lucifer, Efrain expira dans les entrailles du Château de la Nuit Eternelle. Son combat contre le mal fût malheureusement perdu. 
 
 P7:
 Efrain's name was soon forgotten by the many years of bloodshed and destruction to follow. Evil was eventually repelled by other knights of the Church, but the long lost Lecarde name was not part of this legacy...
@@ -111,7 +111,7 @@ Récupérez  tous les HP.
 
 P5:
 Remove curse.
-Retire l’affliction CURSE
+Retire l’affliction CURSE.
 
 P6:
 Heals poison.
@@ -143,7 +143,7 @@ Arme bon marché.
 
 P13:
 Heavy weapon that can crush weak enemies.
-Arme lourde qui pourfend les ennemis
+Arme lourde qui pourfend les ennemis.
 
 P14:
 A heavy weapon wielded by strong men.
@@ -279,7 +279,7 @@ Ne protège pas beaucoup, a appartenu à un membre de la famille Von Viltheim, i
 
 P47:
 Belongs to the Lecarde Family ever since 1322.
-Dans la famille depuis 1322
+Dans la famille depuis 1322.
 
 P48:
 A beautiful ring that slightly increases monsters' rare item drop rate.
@@ -911,7 +911,7 @@ Que Dieu soit avec toi.
 
 P1:
 Choose your destination.
-Choisissez la destination
+Choisissez la destination.
 
 P2:
 Maybe another time.
@@ -1001,7 +1001,7 @@ N’oubliez pas d’utiliser votre CARTE afin de ne pas vous perdre.
 
 P4:
 Time has been stopped in 3  places on the duchy!
-Le temps s’est arrêté dans  3 lieux du duché.
+Le temps s’est arrêté dans 3 lieux du duché.
 
 P5:
 Count Servigny's mansion. The Convent Sainte-Justine.
@@ -1045,7 +1045,7 @@ Il est ajouté «  faites attention lorsque il fait nuit »
 P14:
 EAST-
 Saint Anselme District
-EST-District de Saint Anselme
+EST- District de Saint Anselme
 
 P15: 
 Welcome to the inn
