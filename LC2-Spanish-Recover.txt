@@ -291,15 +291,15 @@ Le ha pertenecido a la familia Lecarde desde el año 1322.
 
 P48:
 A beautiful ring that slightly increases monsters' rare item drop rate.
-Un anillo hermoso que aumenta ligeramente la probabilidad de que monstruos matados dejen un tesoro raro.
+Un anillo hermoso que sube ligeramente la probabilidad de que monstruos matados dejen un tesoro raro.
 
 P49:
 A strange ring that increases monsters' rare item drop rate.
-Un anillo extraño que aumenta la probabilidad de que monstruos matados dejen un tesoro raro.
+Un anillo extraño que sube la probabilidad de que monstruos matados dejen un tesoro raro.
 
 P50:
 A mysterious ring that greatly increases monsters' rare item drop rate.
-Anillo misterioso que aumenta bastante la probabilidad de que monstruos matados dejen un tesoro raro.
+Anillo misterioso que sube bastante la probabilidad de que monstruos matados dejen un tesoro raro.
 
 P51:
 Slightly increases attack power.
