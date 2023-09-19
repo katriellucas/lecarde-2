@@ -151,7 +151,7 @@ Una espada grande y barata.
 
 P13:
 Heavy weapon that can crush weak enemies.
-Arma pesada que pulveriza a enemigos débiles.
+Arma pesada que aporrea a enemigos débiles.
 
 P14:
 A heavy weapon wielded by strong men.
@@ -203,7 +203,7 @@ Liviana y cómoda, pero da poca protección.
 
 P26:
 Quite heavy and not really resistant.
-Un tanto pesada, y no tan resistente.
+Un cuan pesada, y no tan resistente.
 
 P27:
 Cheap and not really fashionable.
