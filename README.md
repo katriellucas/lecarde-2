@@ -58,7 +58,7 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 `FIXED` - Some issues in Italian text.  (Aceearly1993)    
 `FIXED` - One inconsistency part in French text script.   (Aceearly1993)    
 `CHANGED` - Groups of Control input events are made combined into Global event for optimization. (Aceearly1993)    
-`FIXED` - Blocked an extremely rare variation of Dual Shock 4 input stuck bug that was missed from previous checks by adding one more rules. (Aceearly1993)    
+`FIXED` - Blocked an extremely rare variation of Dual Shock 4 input stuck bug that was missed from previous checks by adding one more rule. (Aceearly1993)    
 `FIXED` - Re-implemented notes for item pickup events. (Aceearly1993)    
 
 
