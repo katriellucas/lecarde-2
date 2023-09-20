@@ -51,6 +51,17 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+ #### [1.2.4] - 2023/9/20 #### 
+ 
+`RETRIEVED` - Source document file for the game. (Mig)  
+`FIXED` - Some issues in Spanish text.  (Aceearly1993)    
+`FIXED` - Some issues in Italian text.  (Aceearly1993)    
+`FIXED` - One inconsistency part in French text script.   (Aceearly1993)    
+`CHANGED` - Groups of Control input events are made combined into Global event for optimization. (Aceearly1993)    
+`FIXED` - Blocked an extremely rare variation of Dual Shock 4 input stuck bug that was missed from previous checks by adding one more rules. (Aceearly1993)    
+`FIXED` - Re-implemented notes for item pickup events. (Aceearly1993)    
+
+
  #### [1.2.3] - 2023/9/1 #### 
 
 `ADDED` - Brazilian Portuguese variation of reworked text script.  (Aceearly1993)  
