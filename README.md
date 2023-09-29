@@ -47,6 +47,12 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+ #### [1.2.6] - 2023/9/29 #### 
+
+`HOTFIX` - A bug that makes the font for pickup item display texts return to their default value rathen than using the pre-determined fonts upon entering the sub menu/map screen and quitting.  (Aceearly1993)  
+
+
+
  #### [1.2.5] - 2023/9/28 #### 
 
 `FIXED` - Alucard Jump animation inconsistency.  (Aceearly1993)  
