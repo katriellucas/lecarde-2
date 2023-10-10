@@ -47,6 +47,32 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.2.7] - 2023/10/10 #### 
+
+`FIXED` - Inconsistency of Alucard's new walking animation.  (Astral "Bozo" Clocktower)  
+`FIXED` - Inconsistency of Alucard's jumping/falling animation.  (Aceearly1993)  
+`FIXED` - "Do not use as function keys" text position for multi language.  (Aceearly1993)  
+`FIXED` - Better Compatibility of Simplified Chinese and Japanese texts on different computers; preparation of Direct X 11 compatibility port.  (Aceearly1993)  
+`FIXED` - Blocked an extremely rare variation of Dual Shock 4 input stuck bug that was missed from previous checks - by adding 3 more rules.  (Aceearly1993)  
+`ADDED` - Most notations of subjects that demanded future changes in event editor, for visibility convenience of any future editor if one day Aceearly1993 is in absence.  (Aceearly1993)  
+`ADDED` - Hint text of one puzzle unused in original.  (Aceearly1993)  
+`CHANGED` - Hidden esater egg's input detection so that the adding of alterable value counter is now only accepted in "main screen visual" region;   
+Changed the key to trigger it for avoiding input confusion;   
+Changed key press count to 8 times to make the triggering easier.  (Aceearly1993)  
+`CHANGED` - One text in red room in order to fit the situation if you intended to miss the ghost for the first time (example: in all relics speedruns).  (Aceearly1993)  
+`CHANGED` - Simplified Chinese embedded text color in sub menu.  (Aceearly1993)  
+`CHANGED` - Font type of "controller type" and "Do not use as function keys" texts for multi language;
+Adjusted positions of "please refer to LC2 Github pages" texts.  (Aceearly1993)  
+`CHANGED` - Nerf the addition damage scaling dealt in following situations:
+- Damage taken during aura blast charging. 
+- Damage taken during "Weak" status.  (Aceearly1993)
+  
+`CHANGED` - Made Gale Headband's function (reduce heart consumption) more effective. (Aceearly1993)  
+`CHANGED` - In load file screen/boss rush result screens, Simplified Chinese and Japanese texts now have unique afonts where they have to share with Western text paragraphs in the same text object. (Aceearly1993)  
+`REMOVED` - Duplicated stage tile map in La Tourvelle for optimization.  (Aceearly1993)
+
+
+
  #### [1.2.6] - 2023/9/29 #### 
 
 `HOTFIX` - A bug that makes the font for pickup item display texts return to their default value rather than using the pre-determined fonts upon entering the sub menu/map screen and quitting.  (Aceearly1993)  
