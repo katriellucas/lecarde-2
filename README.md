@@ -47,6 +47,19 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.2.8] - 2023/10/15 #### 
+
+
+`FIXED` - Inconsistency of spacing in Japanese item pickup dispaly textbox. (Aceearly1993)  
+`FIXED` - Inconsistency of two map tiles in Albaret.  (Aceearly1993)  
+`FIXED` - Two errors in Japanese script.  (Aceearly1993)  
+`FIXED` - More notes for better visibility to future editors. (Aceearly1993)  
+`CHANGED` - Japanese font for better visibility.  (Aceearly1993)  
+`CHANGED` - Optimization: Fuse windowed mode input stuck fixes into global events.  (Aceearly1993)  
+`CHANGED` - La Tourvelle Castle: Copied the trigger action to unused hint to the front of another indoor roman number plate.  (Aceearly1993)  
+
+
+
 #### [1.2.7] - 2023/10/10 #### 
 
 `FIXED` - Inconsistency of Alucard's new walking animation.  (Astral "Bozo" Clocktower)  
