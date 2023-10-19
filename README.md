@@ -55,7 +55,7 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 `ADDED` - "Ring of Fury mode" embedded texts in pause menu as indication when you're currently in gameplay of Ring of Fury mode. (Aceearly1993)  
 `CHANGED` - Color brightness of "Ring of Fury mode" texts for better visibility. (Aceearly1993)  
 `CHANGED` - Translate rest of untranslated parts in Simplified Chinese and Japanese counterparts in pause menu to match the translation quality in Chronicles of the Wolf. (Aceearly1993)  
-`BETA` - Situation of Windows Vista compatibility to be identcial to original. (Aceearly1993)  
+`BETA` - Situation of Windows Vista compatibility to be identical to original. (Aceearly1993)  
 
 
 #### [1.2.8] - 2023/10/15 #### 
