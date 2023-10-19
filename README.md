@@ -47,6 +47,17 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.2.9] - 2023/10/20 #### 
+
+`FIXED` - A design oversight in original which causes you to accidently lost a recover potion by using such recover potion when Efrain's HP is already full. (Aceearly1993)  
+`ADDED` - More event notes for better visibility to future editors. (Aceearly1993)  
+`ADDED` - Localized counterpart of "Ring of Fury mode" embedded texts. (Aceearly1993)  
+`ADDED` - "Ring of Fury mode" embedded texts in pause menu as indication when you're currently in gameplay of Ring of Fury mode. (Aceearly1993)  
+`CHANGED` - Color brightness of "Ring of Fury mode" texts for better visibility. (Aceearly1993)  
+`CHANGED` - Translate rest of untranslated parts in Simplified Chinese and Japanese counterparts in pause menu to match the translation quality in Chronicles of the Wolf. (Aceearly1993)  
+`BETA` - Situation of Windows Vista compatibility to be identcial to original. (Aceearly1993)  
+
+
 #### [1.2.8] - 2023/10/15 #### 
 
 
@@ -490,6 +501,6 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - Jorge. D. Fuentes
 - jdbuenol
 - Exorion Hagen
-- 狼王之2型 (https://space.bilibili.com/936194/dynamic) (Japanese re-translation)
-
+- 狼王之2型 (https://space.bilibili.com/936194) (Japanese re-translation)
+- ACC (a.k.a."得枫.德广")(https://space.bilibili.com/1471923), Astral "Bozo" Clocktower (Alucard animation enhance)  
 ... and all the people in game credits.
