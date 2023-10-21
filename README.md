@@ -51,8 +51,7 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 `HOTFIX` - Implemented toggle V-Sync on/off trigger in Global event. (Aceearly1993)  
 
-- F6 - V-Sync off
-- F7 - V-Sync on
+- F6 - Toggle V-Sync on/off
 
 `ADDED` - Notation of V-Sync on/off trigger at video mode screen. (Aceearly1993)  
 
