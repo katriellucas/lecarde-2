@@ -47,6 +47,16 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.3.0] - 2023/10/21 #### 
+
+`HOTFIX` - Implemented toggle V-Sync on/off trigger in Global event. (Aceearly1993)  
+
+- F6 - V-Sync off
+- F7 - V-Sync on
+
+`ADDED` - Notation of V-Sync on/off trigger at video mode screen. (Aceearly1993)  
+
+
 #### [1.2.9] - 2023/10/20 #### 
 
 `FIXED` - A design oversight in original which causes you to accidently lost a recover potion by using such recover potion when Efrain's HP is already full. (Aceearly1993)  
