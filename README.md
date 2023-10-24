@@ -47,6 +47,12 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.3.1] - 2023/10/24 #### 
+
+`CHANGED` - Control config screen formatting and layout. (Katriel & Aceearly1993)  
+`CHANGED` - Discarded the changes in 1.3.0; Isolate No V-Sync into a separated build (the mechanic is incompatible with LC2 structure and can make confusions.) (Aceearly1993)  
+
+
 #### [1.3.0] - 2023/10/21 #### 
 
 `HOTFIX` - Implemented toggle V-Sync on/off trigger in Global event. (Aceearly1993)  
