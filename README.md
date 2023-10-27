@@ -47,6 +47,16 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.3.2] - 2023/10/26 #### 
+
+`ADDED` - Jumping environmental sounds ported from Wallachia. (Aceearly1993)  
+`ADDED` - Recovered original notations in Alucard's animations for better visibility to future editors. (Aceearly1993)  
+`ADDED` - Simplified Chinese variant in a hidden easter egg screen. (Aceearly1993)  
+`ADDED` - Simplified Chinese variant in a secret screen. (Aceearly1993)  
+`FIXED` - Inconsistency with Alucard's new walking animations, new jump animation and relative air animations. (Aceearly1993)  
+`FIXED` - Size and position of Character art in a secret screen. (Aceearly1993)  
+
+
 #### [1.3.1] - 2023/10/24 #### 
 
 `CHANGED` - Control config screen formatting and layout. (Katriel & Aceearly1993)  
