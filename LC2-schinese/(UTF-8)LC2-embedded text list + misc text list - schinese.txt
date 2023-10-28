@@ -528,8 +528,20 @@ BOSS RUSH MODE UNLOCKED.
 
 RING OF FURY MODE SPECIAL ENDING
 
+恭喜你完成狂怒戒指模式挑战!
+
+我就知道你可以的!
+
 You're a great hero...
-你是伟大的英雄...
+你真是位了不起的英雄...
+
+HIDDEN EASTER EGG SCREEN
+
+你好!恭喜你发现了这个隐藏的界面。
+虽然李卡德2是过去我制作的同人作品，但是现在仍然有很多人感兴趣，
+得知有团队在着手修复本作的程序跟兼容性，
+我真的很高兴!再次感谢你们能够喜欢我的作品!
+- “MIG” Miguel Perez
 
 ENEMY CHART
 
