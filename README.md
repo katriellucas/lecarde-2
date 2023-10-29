@@ -47,6 +47,13 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.3.3] - 2023/10/29 #### 
+
+`FIXED` - Font bugs of Japanese and Simplified Chinese texts in Delbasee City and Guernon University after changing the fonts. (Aceearly1993)  
+`FIXED` - A note in Simplified Chinese texts - Garden. (Aceearly1993)  
+`FIXED` - A minor layering problem at Albaret earldom overlooked in previous checks. (Aceearly1993) 
+
+
 #### [1.3.2] - 2023/10/26 #### 
 
 `ADDED` - Jumping environmental sounds ported from Wallachia. (Aceearly1993)  
