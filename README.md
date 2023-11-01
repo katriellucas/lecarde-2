@@ -45,6 +45,12 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 #### Read this if your screen capture program did not work in Reworked LC2 ####
 Some capture programs will have compatibility issue with reworked LC2 on Windows 10 (for example, Ocam). This is because the compatibility issue of some revisions of Windows 10's Direct X9 mode. If you want safe screen recording methods, more mainstream programs (like OBS) will work.
 
+#### Known bugs #### 
+- If the game's project file is loaded through frame editor, quickly unfocus the game window by overlapping it with a larger window upon proceeding a frame change, when the next frame about to be loaded, the cursor will automatically move upwards. We tried multiple ways but cannot proceed bright results to rule out it. This shouldn't get in the way of normal gameplay on the generated .exes, though.
+
+- If quickly unfocus the game window when holding a direction key at title menu, then focus back, the game's direction input will stuck. This is because the reworked game requires Control X plugin to sufficiently apply newly assigned Keyboard key input dynamically (in DragonX24's remodeled key assign formula) with the structure of such plugin is unfortunately too old and can generate issues with LC2 structure. Shouldn't get in the way of normal gameplay though.
+
+
 ## Changelog
 
 #### [1.3.3] - 2023/10/29 #### 
