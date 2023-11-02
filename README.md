@@ -53,6 +53,20 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.3.4] - 2023/11/1 #### 
+
+`FIXED` - Inconsistency regarding animation of Skeleton gunman enemy. (Aceearly1993)  
+`FIXED` - Debug command key position to reduce overlapping with main keyboard region. (Aceearly1993)  
+`FIXED` - Make Debug command keys permanently disabled instead of just not immediately loaded. (Aceearly1993)  
+`FIXED` - One overlap within debug position warp command.  (Aceearly1993)  
+`FIXED` - One collision bug of platform in Rivoire Cave which will make backtracking difficult for wrong reason.  (Aceearly1993)  
+`ADDED` - Backported invincibility potion timer from LC1. (Aceearly1993)  
+`ADDED` - More event notes for better visibility to future editors. (Aceearly1993)  
+`ADDED` - Controller support to a hidden easter egg screen to reduce confusion and inconvenience. (Aceearly1993)  
+`ADDED` - Simplified Chinese text variant for keyboard direction keys remapping. (Aceearly1993)  
+`CHANGED` - Reorganized gamepad control event. (Aceearly1993)  
+
+
 #### [1.3.3] - 2023/10/29 #### 
 
 `FIXED` - Font bugs of Japanese and Simplified Chinese texts in Delbasee City and Guernon University after changing the fonts. (Aceearly1993)  
