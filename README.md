@@ -53,6 +53,13 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 ## Changelog
 
+#### [1.3.5] - 2023/11/9 #### 
+
+`FIXED` - A very rare occasion that can cause out of bound by a side effect of mapchip position rework. (Aceearly1993)  
+`CHANGED` - Sound volume of jumping sound. (Aceearly1993)  
+`ADDED` - One more event as an attempt to rule out a bug (an extremely rare variation of Dual Shock 4 input stuck bug) and hope this time the bug can be removed once and for all. (Aceearly1993)  
+
+
 #### [1.3.4] - 2023/11/1 #### 
 
 `FIXED` - Inconsistency regarding animation of Skeleton gunman enemy. (Aceearly1993)  
