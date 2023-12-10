@@ -46,7 +46,7 @@ It's something about Clickteam's engine itself. Antivirus softwares don't seem t
 Some capture programs will have compatibility issue with reworked LC2 on Windows 10 (for example, Ocam). This is because the compatibility issue of some revisions of Windows 10's Direct X9 mode. If you want safe screen recording methods, more mainstream programs (like OBS) will work.
 
 
-#### Read this if you encounered framerate problem in fullscreen mode #### 
+#### Read this if you encountered framerate problem in fullscreen mode #### 
 It's something about your setting of VSync under Direct X 9 mode. If your only graphic device is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" if you encountered frame rate problem in fullscreen mode.
 
 #### Known bugs #### 
