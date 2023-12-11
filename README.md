@@ -47,7 +47,7 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 
 #### Read this if you encountered framerate problem in fullscreen mode #### 
-It's something about your setting of VSync under Direct X 9 mode. If your only graphic device is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" if you encountered frame rate problem in fullscreen mode.
+It's something about your setting of VSync under Direct X 9 mode. If your only graphic device is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" or "on" if you encountered frame rate problem in fullscreen mode.
 
 #### Known bugs #### 
 - If the game's project file is loaded through frame editor, quickly unfocus the game window by overlapping it with a larger window upon proceeding a frame change, when the next frame about to be loaded, the cursor will automatically move upwards. We tried multiple ways but cannot proceed bright results to rule out it. This shouldn't get in the way of normal gameplay on the generated .exes, though.
