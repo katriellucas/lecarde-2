@@ -57,6 +57,12 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.3.6] - 2023/12/11 #### 
+
+`ADDED` - More event notes. (Aceearly1993)  
+`CHANGED` - Load method of Sounds to improve loading time when changing scenes. (Aceearly1993 & Mig)  
+
+
 #### [1.3.5] - 2023/11/9 #### 
 
 `FIXED` - A very rare occasion that can cause out of bound by a side effect of mapchip position rework. (Aceearly1993)  
