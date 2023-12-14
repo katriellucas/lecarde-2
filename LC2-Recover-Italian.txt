@@ -184,7 +184,7 @@ L’arma più potente che esista. Porta speranza nel cuore di chi la possiede.
 
 P23:
 Owned by a famous member of the Von Viltheim Family. Also known as: Rain Slayer.
-Era di un famoso esponente della famiglia Von Viltheim. Nota anche come “Ammazzapioggia”
+Era di un famoso esponente della famiglia Von Viltheim. Nota anche come “Ammazzapioggia”.
 
 P24:
 Family sword of the Lecardes. A gift from the Pope Innocent X in 1650.
@@ -512,7 +512,7 @@ OROLOGIO D’ORO: Impedisce le distorsioni temporali.
 
 P105:
 ORNAMENTAL CRUCIFIX: A decorative element. The words "St Justine" are carved on its back.
-CROCIFISSO ORNAMENTALE: Un oggetto decorativo. Dietro di esso è inciso “St Justine”.
+CROCIFISSO ORNAMENTALE: Un oggetto decorativo. Dietro di esso è inciso “St Justine”.
 
 P106:
 NINE GATES OF THE KINGDOM OF SHADOWS: Written in 1666, there are only 3 of them.
@@ -560,7 +560,7 @@ SFERA NERA: Uno strano globo che emette una luce inquietante. Se ne possono trov
 
 P117:
 A powerful inheritance from Alucard's.
-Potente arma ricevuta da Alucard
+Potente arma ricevuta da Alucard.
 
 P118:
 Resembles family sword.
@@ -990,7 +990,7 @@ Puoi caricare l’Aura anche mentre cammini.
 
 P1:
 Beyond the forest there is an Inn called "L'Auberge rouge". I'd say it's better to not enter that place.
-Oltre la foresta si trova una vecchia locanda chiamata “L’Auberge Rouge”. Non è il caso di entrarci.
+Oltre la foresta si trova una vecchia locanda chiamata “L’Auberge Rouge”. Non è il caso di entrarci.
 
 P2:
 There are fields riddled with BLACK LOTUS flowers far to the east. That flower can disrupt your orientation. 
@@ -1041,7 +1041,7 @@ P13:
 NORTH- Du Goyet Clearing
 A scribbling reads "Be careful at nightime".
 NORD  -  Radura Du Goyet
-C’è una scritta che dice “Siate prudenti di notte”.
+C’è una scritta che dice “Siate prudenti di notte”.
 
 P14:
 EAST-
@@ -1277,7 +1277,7 @@ I nostri signori erano demoni. Moriremo tutti!
 
 P68:
 Have you heard of a book called "The Nine Gates of the Kingdom of the Shadows"?
-Hai mai sentito parlare del libro “Le Nove Porte del Regno delle Ombre?”
+Hai mai sentito parlare del libro “Le Nove Porte del Regno delle Ombre?”
 
 P69:
 It was written by Aristide Torchia in Venice, 1666.
@@ -2317,7 +2317,7 @@ Secondo alcuni viaggiatori, spesso nel vento si sentono voci che vengono dall’
 
 P28:
 This place is called "The Land of Eternal Night".
-Quel luogo è detto “Terra della Notte Eterna”.
+Quel luogo è detto “Terra della Notte Eterna”.
 
 P29:
 Many people have disappeared there. According to the legends, a huge castle was built there as tribute to Lucifer.
@@ -2342,7 +2342,7 @@ Si è mosso qualcosa su questo piano...
 
 P4:
 "Jean D'Albaret, major donor of this university"
-“Jean D’Albaret, grande benefattore di questa università”
+“Jean D’Albaret, grande benefattore di questa università”
 
 P5:
 Apparently, there's a trapdoor in the base. But it cannot be opened.
@@ -2532,7 +2532,7 @@ La porta ha reagito all’EMBLEMA DEL TESCHIO.
 
 P1:
 Insert the required amount.
-Dice “Inserire la quantità necessaria”.
+Dice “Inserire la quantità necessaria”.
 
 P2:
 ...
@@ -2638,7 +2638,7 @@ Storia del castello
 
 P24:
 "This great castle was erected in 1666; The same year as the writing of "The Nine Gates of the Kingdom of the Shadows".
-“Questo grande castello fu eretto nel 1666, lo stesso anno della stesura de “Le Nove Porte del Regno delle Ombre”.
+“Questo grande castello fu eretto nel 1666, lo stesso anno della stesura de “Le Nove Porte del Regno delle Ombre”.
 
 P25:
 It was built in order to honor Lucifer the Light Bringer. Blessed is the day when he will return.
