@@ -57,6 +57,18 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.3.7] - 2023/12/20 #### 
+
+`FIXED` - A bug carried from LC1 which will cause invincibility potion timer HUD to be gone after a scene swap.  (Aceearly1993)  
+`FIXED` - Several text corruptions in multilanguage texts that can only be seen on Direct X 11 mode.  (Aceearly1993)  
+`ADDED` - More event notes.  (Aceearly1993)  
+`ADDED` - Direct X 11 counterpart of text events.  (Aceearly1993)  
+`ADDED` - Video option application for VSync toggle. (Aceearly1993)  
+`CHANGED` - Reorganized text events that will be affected by Direct X 11 mode.  (Aceearly1993)  
+`CHANGED` - Slightly tweaked JPN/CHS text phrasing for Direct X 11 mode.  (Aceearly1993)  
+`REMOVED` - A global event in jumping sound that will cause sound bugs. 
+The adjust of sound volume jumping sound will be predefined in sound clip instead of being adjusted through events.   (Aceearly1993)  
+
 #### [1.3.6] - 2023/12/11 #### 
 
 `ADDED` - More event notes. (Aceearly1993)  
