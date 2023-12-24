@@ -57,6 +57,14 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.3.8] - 2023/12/25 #### 
+
+`CHANGED` - Ditch red text variations for better visibility. (Aceearly1993)  
+`CHANGED` - La Tourvelle castle: Coloring on a ring object for better visibility.  (Aceearly1993)  
+`CHANGED` - Tweak and adjusts on descriptions in readme. (Aceearly1993)  
+`CHANGED` - Minor position tweak on Simplified Chinese text embedded as pictures - Monster chart screen/Teleport spots. (Aceearly1993)  
+
+
 #### [1.3.7] - 2023/12/20 #### 
 
 `FIXED` - A bug carried from LC1 which will cause invincibility potion timer HUD to be gone after a scene swap.  (Aceearly1993)  
@@ -68,6 +76,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `CHANGED` - Slightly tweaked JPN/CHS text phrasing for Direct X 11 mode.  (Aceearly1993)  
 `REMOVED` - A global event in jumping sound that will cause sound bugs. 
 The adjust of sound volume jumping sound will be predefined in sound clip instead of being adjusted through events.   (Aceearly1993)  
+
 
 #### [1.3.6] - 2023/12/11 #### 
 
