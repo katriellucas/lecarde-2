@@ -57,6 +57,11 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.3.9] - 2023/12/29 #### 
+
+`CHANGED` - Direct X 9: Bold settings and text format to prevent pickup item text (CHS/JPN) from clipping out of text box on some computers. (Aceearly1993)   
+`CHANGED` - Direct X 9: Tweak and adjusts to prevent weapon/equipment text - pause menu (CHS/JPN) from clipping out of text box on some computers. (Aceearly1993)  
+
 #### [1.3.8] - 2023/12/25 #### 
 
 `CHANGED` - Ditch red text variations for better visibility. (Aceearly1993)  
