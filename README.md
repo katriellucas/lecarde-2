@@ -13,7 +13,7 @@ The release of Lecarde Chronicles 2 got permitted by Konami, the game and its as
 
 
 ## Usage
-To get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe file. The .exe file is the generated executable, while the .mfa file is the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
+To get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
 
 Note that the original game is infamous for the compatibility issue for PS4/Xbox controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like us:
 
