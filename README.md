@@ -589,8 +589,8 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - Konami
 - Robert Belgrade
 - palmymkgames
-- Aceearly1993
-- DragonX24
+- Aceearly1993 
+- DragonX24 (https://www.projectdread.com/) - Reworked Keyboard function
 - mashedpotatoes312
 - theplottwist
 - Jorge. D. Fuentes
