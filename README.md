@@ -63,7 +63,6 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `CHANGED` - Garden of the Dead: Make the A-letter panel temporarily blink in order to reduce progression problem. (Aceearly1993)  
 `ADDED` - More new event notes and restored more event notes from source document file regarding the changed parts.  (Aceearly1993)  
 
-
 #### [1.3.9] - 2023/12/29 #### 
 
 `CHANGED` - Direct X 9: Bold settings and text format to prevent pickup item text (CHS/JPN) from clipping out of text box on some computers. (Aceearly1993)   
@@ -596,7 +595,7 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - Konami
 - Robert Belgrade
 - palmymkgames
-- Aceearly1993 
+- Aceearly1993
 - DragonX24 (https://www.projectdread.com/) - Reworked Keyboard function
 - mashedpotatoes312
 - theplottwist
