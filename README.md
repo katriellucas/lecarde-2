@@ -57,6 +57,13 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.0] - 2024/1/10 #### 
+
+`CHANGED` - Mini Map: The red ghost rooms will now be marked in a different color scheme, which makes them more recognizible on mini map. (Aceearly1993)  
+`CHANGED` - Garden of the Dead: Make the A-letter panel temporarily blink in order to reduce progression problem. (Aceearly1993)  
+`ADDED` - More new event notes and restored more event notes from source document file regarding the changed parts.  (Aceearly1993)  
+
+
 #### [1.3.9] - 2023/12/29 #### 
 
 `CHANGED` - Direct X 9: Bold settings and text format to prevent pickup item text (CHS/JPN) from clipping out of text box on some computers. (Aceearly1993)   
