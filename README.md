@@ -59,8 +59,6 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 #### [1.4.0] - 2024/1/10 #### 
 
-End of Catoblepas tag.
-
 `CHANGED` - Mini Map: The red ghost rooms will now be marked in a different color scheme, which makes them more recognizible on mini map. (Aceearly1993)  
 `CHANGED` - Garden of the Dead: Make the A-letter panel temporarily blink in order to reduce progression problem. (Aceearly1993)  
 `ADDED` - More new event notes and restored more event notes from source document file regarding the changed parts.  (Aceearly1993)  
