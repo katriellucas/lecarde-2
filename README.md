@@ -57,6 +57,15 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.1] - 2024/1/15 #### 
+
+(Gorgon build only)
+`ADDED` - Simplified Chinese and Japanese variation of misc. enemy bestiary embedded text.  (Aceearly1993)  
+`ADDED` - Enemy description (currently only in English/Simplified Chinese). (Aceearly1993)  
+`ADDED` - Simplified Chinese variation of boss rush character selection screen embedded text. (Aceearly1993)  
+`CHANGED` - In-depth adjust of text formats in enemy bestirary screen to fit localizations. (Aceearly1993)  
+
+
 #### [1.4.0] - 2024/1/10 #### 
 
 `CHANGED` - Mini Map: The red ghost rooms will now be marked in a different color scheme, which makes them more recognizible on mini map. (Aceearly1993)  
