@@ -57,7 +57,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 (Catoblepas)  
 `ADDED` - Port the Gorgon 1.4.1 changes to graphic variations to Catoblepas builds (1.4.0). (Aceearly1993)  
 (Gorgon)  
-`FIXED` - A bug that causes the capability of air dash to be temporarily locked up after performing a chain of air dash>swork attack actions. (Aceearly1993)  
+`FIXED` - A bug that causes the capability of air dash to be temporarily locked up after performing a chain of air dash>sword attack actions. (Aceearly1993)  
 
 
 #### [1.4.1] - 2024/1/15 #### 
