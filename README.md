@@ -28,17 +28,6 @@ A reworked version of the keyboard control created by DragonX24.
 This file must be placed in the same directory the game locates if you downloaded the game and moved the game files to a fresh new location.
 
 
-#### About Small keyboard region control #### 
-
- Small keyboard region control is inspired from the original keyboard control, added back by requests.  
-Keys are set below:  
-- "Ins": Attack  
-- "Del": Jump  
-- "End": Special   
-- "Page Down": Aura  
-- "-": Map Screen  
-- "+": Sub Menu  
-
 #### Read this if antivirus softwares flagged the game as Malware ####
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
 
