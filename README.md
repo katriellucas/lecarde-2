@@ -62,7 +62,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 #### [1.4.1] - 2024/1/15 #### 
 
-(Gorgon build only)
+(Gorgon build only)  
 `ADDED` - Simplified Chinese and Japanese variation of misc. enemy bestiary embedded text.  (Aceearly1993)  
 `ADDED` - Enemy description (currently only in English/Simplified Chinese). (Aceearly1993)  
 `ADDED` - Simplified Chinese variation of boss rush character selection screen embedded text. (Aceearly1993)  
