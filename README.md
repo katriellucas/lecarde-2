@@ -53,7 +53,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `CHANGED` - In-depth adjust of text formats to fit screen resize situations. (Aceearly1993)  
 `ADDED` - Regulations in keyboard remap function so that hardcoded system keys won't get accidently recognized as valid input in keyboard remap. (Aceearly1993)  
 `CHANGED` - Terminated the mentioning of small keyboard region due to redundant.  (Aceearly1993)  
-`ADDED` - Regulations in keyboard remap function so that multiple keys won't get registered the same key function. (Aceearly1993)  
+`ADDED` - Regulations in keyboard remap function so that multiple keyboard keys won't get registered the same key function. (Aceearly1993)  
 (Catoblepas)  
 `ADDED` - Port the Gorgon 1.4.1 changes to graphic variations to Catoblepas builds (1.4.0). (Aceearly1993)  
 (Gorgon)  
