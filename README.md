@@ -28,17 +28,6 @@ A reworked version of the keyboard control created by DragonX24.
 This file must be placed in the same directory the game locates if you downloaded the game and moved the game files to a fresh new location.
 
 
-#### About Small keyboard region control #### 
-
- Small keyboard region control is inspired from the original keyboard control, added back by requests.  
-Keys are set below:  
-- "Ins": Attack  
-- "Del": Jump  
-- "End": Special   
-- "Page Down": Aura  
-- "-": Map Screen  
-- "+": Sub Menu  
-
 #### Read this if antivirus softwares flagged the game as Malware ####
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
 
@@ -56,6 +45,20 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 
 ## Changelog
+
+#### [1.4.2] - 2024/2/19 #### 
+(Shared)  
+`FIXED` - Some Map chip layering errors at Rivoire Cave.  (Aceearly1993)  
+`FIXED` - A bug to text size after resizing the windows display scale to be higher than 100%. (Aceearly1993)  
+`CHANGED` - In-depth adjust of text formats to fit screen resize situations. (Aceearly1993)  
+`ADDED` - Regulations in keyboard remap function so that hardcoded system keys won't get accidently recognized as valid input in keyboard remap. (Aceearly1993)  
+`CHANGED` - Terminated the mentioning of small keyboard region due to redundant.  (Aceearly1993)  
+`ADDED` - Regulations in keyboard remap function so that multiple keys won't get registered the same key function. (Aceearly1993)  
+(Catoblepas)  
+`ADDED` - Port the Gorgon 1.4.1 changes to graphic variations to Catoblepas builds (1.4.0). (Aceearly1993)  
+(Gorgon)  
+`FIXED` - A bug that causes the capability of air dash to be temporarily locked up after performing a chain of air dash>swork attack actions. (Aceearly1993)  
+
 
 #### [1.4.1] - 2024/1/15 #### 
 
