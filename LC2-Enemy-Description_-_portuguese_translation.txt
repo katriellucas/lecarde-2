@@ -1,0 +1,1231 @@
+Translation guide:
+Replace ONLY the Simplified Chinese text to the language you are going to translate into.
+English texts are not subject to be changed unless if you feel some English terms usage being too wrong or serious text limit problems are met in translations.
+Do not exceed the text len-gth of creature No.75.
+Some terms like human names will not be translated. (e.g.: Nicolas Xavier de La Tourvelle)
+
+-An ASTERISK (*) besides the enemy name means that english grammar was corrected by me (ThePlotTwist) and nothing else was changed.
+
+Page 1 
+No.1 Skeleton *
+"Skeletons reanimated by the dark power's influence."
+
+"因为暗黑力量的影响而能重新行动的骸骨"
+
+"Esqueletos reanimados pela influência das trevas."
+
+
+No.2 Roman Zombie
+"Animated corpse of a soldier who marched to his death in ancient Rome"
+
+"在古代罗马战死的士兵的尸体，受暗黑力量的影响而能重新行动"
+
+"Cadáver reanimado de um soldado que marchou para a morte na Roma antiga."
+
+
+No.3 Spider *
+"Spiders made violent under the dark power's influence."
+
+"受到暗黑力量影响的蜘蛛"
+
+"Aranhas enraivecidas pela influência de poderes escuros."
+
+
+No.4 Dead Fleaman *
+"Corpses of Fleamen reanimated by the dark power's influence."
+
+"受暗黑力量影响而能重新行动的跳蚤男的尸骸"
+
+"Cadáveres de Fleamen reanimados pela influência das trevas."
+
+
+No.5 Bat *
+"A bloodsucking bat that follows the dark power."
+
+"感知到暗黑力量而来的吸血蝙蝠"
+
+"Morcego vampiro que obedece os poderes escuros."
+
+
+No.6 Roman Skeleton *
+"Skeletal remains of ancient Roman soldiers that fought bravely."
+
+"死后仍坚持战斗的罗马士兵的骸骨"
+
+"Restos mortais de soldados da Roma antiga que lutaram bravamente."
+
+
+No.7 Colossus *
+
+"Was an elite Colossus during his lifetime."
+
+"生前曾是体格健壮的角斗士"
+
+"Foi um colosso de elite durante sua vida."
+
+
+No.8 Medusa Statue (Boss)*
+"Statue carved in the image of Medusa's head."
+
+"雕刻成美杜莎头颅形状的雕像"
+
+"Estátua esculpida como a cabeça da Medusa."
+
+
+No.9 Stone Snake *
+"Snakes generated from the Medusa Statue."
+
+"从美杜莎雕像上生成的小蛇"
+
+"Serpentes nascidas a Estátua da Medusa."
+
+No.10 Giant Crow
+"A crow that nibbles upon rotting corpses."
+
+"以腐烂的尸体为食的漆黑乌鸦"
+
+"Um corvo que mordisca cadáveres apodrecidos."
+
+
+No.11 Troll
+"Throws stones in a weird, irritating arc"
+
+"以刁钻，烦人的轨道投射石块"
+
+"Atira pedras em um arco estranho e irritante."
+
+
+No.12 Slime Eye *
+"Single-eyed creature parasiting on walls"
+
+"寄生在墙上的单眼生命体"
+
+"Criatura de apenas um olho parasitando paredes."
+
+
+No.13 Fish *
+"A ferocious fish inhabiting the waters of Guillecourt Duchy."
+
+"栖息在纪耶古公国水域中的食人鱼"
+
+"Um peixe feroz habitando nas águas do Ducado Guillecourt."
+
+No.14 Big Wasp
+"A wasp with a stinger that can easily pierce and kill."
+
+"带有锋利的蜇针的马蜂，可以轻而易举地杀人"
+
+"Uma vespa capaz de perfurar e matar facilmente com seu ferrão."
+
+No.15 Hive
+"The evil spreading over Guillecourt Duchy has made these hives unsuitable for consumption."
+
+"因为纪耶古公国最近的灵异事件的影响，这些蜂巢受到了污染，不可用做食材"
+
+"O mal se espalhando pelo Ducado Guillecourt tornou essas colmeias impróprias para consumo."
+
+
+No.16 Living Blood *
+"Dangerous Creatures inhabiting on blood."
+
+"寄生于血液中的危险生物"
+
+"Criaturas perigosas habitando no sangue."
+
+No.17 Grass Man
+"A victim of the parasitic une."
+
+"被妖草寄生而死的受害者"
+
+"Uma vítima da Une parasítica."
+
+
+No.18 Zombie *
+"Corpses reanimated by dark magic in the soil."
+
+"因为土壤中的暗黑力量而苏生，爬出地面重新活动的尸体"
+
+"Cadáveres reanimados por magia negra no solo."
+
+
+No.19 Hanged *
+"These miserable lives had their necks impaled, and were hanged from trees."
+
+"这些人被刺穿脖子挂在树上，流干鲜血而死"
+
+"Eles foram perfurados no pescoço, e pendurados nas árvores para morrer."
+
+
+Page 2
+No.20 Possessed Tree (boss)
+"An ancient tree possessed by a malevolent will."
+
+"被凶恶灵魂凭依的枯树"
+
+"Uma árvore antiga possuída por uma força malévola."
+
+
+No.21 Plant *
+"Mutated plants capable of spreading their seeds on their own will."
+
+"可以主动向远处喷射种子的变异植株"
+
+"Plantas mutantes capazes de espalhar suas sementes por vontade própria."
+
+No.22 Dea Medusa *
+"Monsters created from Medusa's head. Became corpses due to leaving Medusa for too long."
+
+"从美杜莎的头发中产生的怪物，因为游离母体太久化成了尸骸"
+
+"Monstros criados da cabeça da Medusa. Cadaverizados por deixarem a Medusa por tempo demais."
+
+
+No.23 Hand
+"Severed hands capable to float in the air"
+
+"漂浮在空中的断手"
+
+"Mãos decepadas capazes de flutuar."
+
+
+No.24 Bone Dragon 
+"The magically animated remains of a dinosaur."
+
+"被注入魔力而复生的古代恐龙骨骸"
+
+"O restos mortais de um dinossauro animados magicamente."
+
+
+No.25 Cog *
+"Cogs animated by a dark power."
+
+"受魔力影响而持续转动的齿轮"
+
+"Engrenagens animadas por uma força das trevas."
+
+
+No.26 Upended Demon (boss)
+"A demon which always faces its opponents upside down"
+
+"以颠倒状态袭击侵入者的恶魔"
+
+"Um demônio que ataca intrusos de cabeça para baixo."
+
+No.27 Dressed Skeleton
+"Skeletal remains of residents near Servigny Mansion"
+
+"塞尔维尼洋馆附近的居民们的骸骨"
+
+"Restos mortais de residentes próximos da Mansão Servigny."
+
+
+No.28 Ectoplasm *
+"Cotton-like substance that oozes from corpses filled with regret."
+
+"从尸体中产生的包含生前怨念的绵状物质"
+
+"Substância como algodão que escorre de cadáveres cheios de arrependimento."
+
+
+No.29 Bone Pillar
+"The skeletal remains of a dinosaur neck animated by magic."
+
+"受暗黑力量影响而排列成柱状的古代恐龙头骨"
+
+"Restos mortais do pescoço de um dinossauro animado magicamente."
+
+
+No.30 Jeanne De Servigny (sub-boss)
+"The haunted spirit of Jeanne De Servigny (1585-1668)"
+
+"珍妮.塞尔维尼伯爵夫人 (1585-1668) 的亡魂"
+
+"Espírito assombrado de Jeanne De Servigny (1585-1668)."
+
+
+No.31 Count Servigny (boss) *
+"Maximilien Count of Servigny (1605-1899) 
+Made a pact with demons to extended his lifespan."
+
+"麦克西米连.塞尔维尼伯爵 (1605-1899) 
+与恶魔签订了契约以寻求长生"
+
+"Maximilien Conde de Servigny (1605-1899) 
+Fez um pacto com os demônios para viver mais."
+
+
+No.32 Mega Raven
+"Crows enlarged by the evil power hovering over the La Tourvelle Earldom."
+
+"受到拉.托尔维地区的暗黑力量影响而变异得体型更大的乌鸦"
+
+"Corvos aumentados pelo poder maligno pairando sobre o Condado La Tourvelle."
+
+No.33 Tarentul *
+"Mutated Tarentuls capable to launch venom at its foes"
+
+"会喷射毒液的变异蜘蛛"
+
+"Tarentuls capazes de lançar veneno contra suas vítimas."
+
+
+No.34 Death Mushroom *
+"Mutated Mushrooms capable of spreading their spores further."
+
+"会向远处主动散射孢子的变异蘑菇"
+
+"Cogumelos mutantes capazes de espalhar esporos mais longe."
+
+
+No.35 Snake
+"Snakes driven to violence under the corruption of La Tourvelle Earldom."
+
+"感知到纪耶古公国内的暗黑力量而凶暴化的小蛇"
+
+"Cobras levadas à violência pela corrupção do Condado La Tourvelle."
+
+
+No.36 Flea man 
+"These Flea men are more fortunate than their cousins in Rome"
+
+"这些跳蚤男相比罗马地区的同族来说非常幸运"
+
+"Estes Flea men têm mais sorte do que suas contrapartes em Roma."
+
+No.37 Bird *
+"Flea men love to travel riding on these birds."
+
+"跳蚤男们喜欢乘着这些阿泰尔鹰到处欣赏风景"
+
+"Flea men gostam de viajar montados nesses pássaros."
+
+
+No.38 Black Panther
+"A jet-black beast that runs with great speed."
+
+"在较暗的地方埋伏，随时准备袭击猎物的黑色豹子"
+
+"Animal preto como a noite que corre em alta velocidade."
+
+Page 3
+No.39 Frozen Eye
+"A special one-eye monster which keeps floating in the air despite being frozen"
+
+"被冷冻后却仍能保持浮在空中的单眼怪物"
+
+"Um monstro com um olho só que flutua no ar apesar de estar congelado."
+
+
+No.40 Frozen Bones
+"The frozen remains of residents near th La Perdrix District"
+
+"在拉.托尔维城外的鹧鸪地区被冻死的居民的骸骨"
+
+"Os restos congelados dos residentes próximos do Distrito La Perdrix."
+
+
+No.41 Frozen Shade
+"A wraith that can freeze the air."
+
+"操纵冷气的亡灵"
+
+"Uma aparição que pode congelar o ar."
+
+
+No.42 Death Wall (sub-boss)
+"Cursed wall that advances nonstop. The skeleton trapped on it casts freezing spells."
+
+"被诅咒而不断向前推进的墙，墙上的骸骨会施展冰冻法术"
+
+"Parede maldita que avança sem parar. O esqueleto preso nela lança feitiços congelantes."
+
+
+N0.43 Caged Corpse (boss) *
+"The corpse of a giant demon frozen in Rivoire Cave"
+
+"里瓦洞窟深处被冰封的巨大恶魔的尸骸"
+
+"O cadáver de um demônio gigante congelado na Caverna Rivoire."
+
+
+No.44 Caged Corpse Hand *
+"Hands belonging to the frozen giant demon."
+
+"冰封的巨大恶魔的双手"
+
+"As mãos que pertencem ao demônio gigante congelado."
+
+
+No.45 Mud Man
+"A figure made of mud, imbued with a tormented soul."
+
+"沼泽里的泥浆，包裹着曾陷在沼泽里痛苦而死的人的亡魂"
+
+"Uma figura criada da lama, preenchida de uma alma atormentada."
+
+
+No.46 Ghost Skull
+"A special skull that flies through the air. Usually hidden in the night sky of La Tourvelle earldom."
+
+"一种特殊的头盖骨，会在夜晚来到拉.托尔维伯爵领地并隐藏身形"
+
+"Um crânio fantasmagórico que se esconde no céu noturno do Condado La Tourvelle."
+
+
+No.47 Medusa Head
+"A monster created in great numbers from the head of Medusa."
+
+"从美杜莎的头发中产生的怪物"
+
+"Um monstro criado em massa da cabeça da Medusa."
+
+
+No.48 Frozen Skull
+"Unlike the Ghost Skulls, these monsters are frozen so they cannot hide their appearances"
+
+"与野外的头盖骨不同，它们被冻住了所以无处躲藏"
+
+"Diferente dos Ghost Skulls, esses monstros congelados não podem esconder sua real forma."
+
+No.49 Wharg
+"Wolves which guard the entrance of Sarelle Cemetery."
+
+"守护萨雷勒墓地入口的凶狼"
+
+"Lobos que guardam a entrada do Cemitério Sarelle."
+
+
+No.50 Blood Skeleton
+"A skeleton warrior that has absorbed blood. It can regenerate."
+
+"浸泡了大量鲜血的骷髅，被击倒后可以复生"
+
+"Guerreiro esqueleto que absorveu sangue. Pode se regenerar."
+
+No.51 Spectral Girl *
+"Ghosts of dead female locals which control spiritual powers"
+
+"逝去的少女亡魂，擅长发动精神力量"
+
+"Fantasmas de mulheres locais que controlam poderes espirituais."
+
+
+No.52 Tombstone
+"A gravestone that rattles around violently."
+
+"被恶灵凭依的墓碑"
+
+"Uma lápide que chacoalha violentamente por aí."
+
+
+No.53 Widow
+"Women sobbing in pain"
+
+"痛苦地哭泣的妇人"
+
+"Mulheres chorosas de dor."
+
+
+No.54 Efrain Fake (Doppelganger boss)
+"A demon who assumes the form of its intended victims before killing them."
+
+"通过伪装他人样貌恫吓并杀人的魔鬼"
+
+"Demônio que assume a forma da vítima que pretende matar."
+
+
+No.55 Poisoned Ectoplasm *
+"A special variation of Ectoplasm consisting of poisonous substance."
+
+"一种特殊的诅咒魔，带有剧毒"
+
+"Variação especial de ectoplasma feito de substância venenosa."
+
+
+No.56 Upended Yorick
+"A special variation of skeleton which can step on the ceiling, upside down"
+
+"一种特殊的骷髅，可以踩在天花板上"
+
+"Variação especial de esqueleto que caminha de cabeça para baixo."
+
+
+No.57 Hornet *
+"Hornets that emerged from the painting."
+
+"从壁画中而出的蜜蜂"
+
+"Vespas que emergiram da pintura."
+
+
+PAGE 4
+No.58 Schmoo
+"No weapon like Crissaegrim exists in the Duchy of Guillecourt. Save your time with this monster."
+
+"纪耶古公国里并没有瓦尔曼维这种武器，所以不要跟它浪费时间"
+
+"Não existe Crissaegrim no Ducado de Guillecourt. Então, não perca seu tempo com ele."
+
+
+No.59 BowKnight *
+"Armored knights equipped with arrows, capable of chasing opponents."
+
+"装备带有追踪能力的弓弩的重装骑士"
+
+"Cavaleiros de armadura equipados com flechas, capazes de perseguir oponentes."
+
+
+No.60 Count La Tourvelle (boss)
+"Nicolas Xavier de La Tourvelle (1734-1781)
+Betrayed by Heloise after making a pact with demons."
+
+"尼古拉斯.泽维尔.德.拉.托尔维 (1734-1781)
+与恶魔签订契约之后遭到了埃罗伊丝的背叛"
+
+"Nicolas Xavier de La Tourvelle (1734-1781)
+Traído por Heloise depois de fazer pactos com demônios."
+
+
+No.61 Lotus Corpse *
+"Corpses of humans which were victims of the Black Lotus."
+
+"吸收了黑莲花的暗黑能量而死的人类尸骸"
+
+"Cadáveres humanos vitimados pela Black Lotus."
+
+
+No.62 Balloon Pod
+"A plant that scatters sharp spores."
+
+"一种特殊的植物，会喷出带有锐利边角的外壳的种子"
+
+"Uma planta que espalha esporos afiados."
+
+
+No.63 Fatal Chest *
+"A demonically-possessed chest capable of spitting human bones."
+
+"这箱子里时不时会喷射出人骨"
+
+"Um baú endemoninhado que é capaz de cuspir ossos humanos."
+
+
+No.64 Floating Eye 
+"A creature that keeps watch in front of the Castle of Eternal Night."
+
+"在古城的遗迹附近负责监视任务的怪物"
+
+"Uma criatura mantendo vigilha na frente do Castelo da Noite Eterna."
+
+No.65 Horned Bat *
+"Enlarged mutant bat. Also gained a pair of horns."
+
+"变异得身形巨大的蝙蝠，头上也长了很长的角"
+
+"Morcego mutante aumentado que também ganhou um par de chifres."
+
+
+No.66 Merman
+"This aquatic hunter spots prey from the water before leaping."
+
+"半人半鱼的怪物，会用水弹攻击但不会在陆地上停留太久"
+
+"Esse caçador aquático vigia a presa antes de pular pra fora da água."
+
+
+No.67 Hunter Skeleton
+"A skeleton warrior armed with an old musket."
+
+"装备旧式火枪的骷髅，但是因为骷髅们的熟练运用，这种火枪仍然很致命"
+
+"Um esqueleto armado cuja mira torna um mosquete velho extremamente mortal."
+
+
+No.68 Withered Plant
+"A special plant which seed contains unique toxin, capable to make people powerless upon contact"
+
+"一种特别的植物，它的种子包含特殊毒素，人类触到后会虚弱无力"
+
+"A semente desta planta contém uma toxina capaz de tornar aquele que a toca inofensivo."
+
+
+No.69 Urchain
+"A hard-shelled sea urchin. Corrupt water made it unsuitable as delicacy."
+
+"一种带有尖刺的硬壳海胆。但是因为水域被污染了所以它不能用作食材。"
+
+"Ouriço marinho de casca dura. Corrupção na água o torna impróprio para consumo."
+
+
+No.70 Decarabia
+"A five-legged demon servant."
+
+"长有五只脚的恶魔仆从"
+
+"Servo demoníaco de cinco pernas."
+
+
+No.71 Jellyfish * 
+"A demonic creature from the oceans of the underworld."
+
+"从海底深处而来的魔性生物"
+
+"Criatura demoníaca vinda dos oceanos do submundo."
+
+
+No.72 Dark Nun *
+"Nuns in the local nun concil, fallen prey to the darkness."
+
+"被杀害后堕入黑暗的当地修女会成员"
+
+"Freiras do conselho local que foram vítimas das trevas."
+
+
+No.73 Mygale Spider *
+"Mutant spiders enlarged 20 times their original size."
+
+"变异的蜘蛛，体型达到了原来的数十倍"
+
+"Aranhas mutantes aumentadas 20 vezes do seu tamanho original."
+
+
+No.74 Red Ectoplasm
+"A special variation of Ectoplasm filled with blood"
+
+"一种特殊的会流出血的诅咒魔"
+
+"Variação especial de ectoplasma preenchido de sangue."
+
+
+No.75 Constance D' Albaret (boss) *
+
+"Constance D'Albaret (1740-1781)
+When demons approached the convent, she took a decoration cross away"
+
+"康斯坦丝.蒂.艾尔芭蕾 (1740-1781)
+当纪耶古公国的恶魔作乱时，她盗走了修道院里装饰用的十字架"
+
+"Constance D'Albaret (1740-1781)
+Ela escondeu uma cruz decorativa quando os demônios invadiram."
+
+
+No.76 Large Slime
+"A creature made of a slimy gel."
+
+"胶状的软体怪物"
+
+"Criatura feita de um gel cremoso."
+
+Page 5
+No.77 Living Curse
+"Surronded by hatred and curse"
+
+"被憎恨与诅咒包裹的生命体"
+
+"Envolto em ódio e maldição."
+
+
+No.78 Wicked Scientist
+"Came to Guernon University to offer assistance in Chemistry research."
+
+"来到格尔农大学协助进行化学学科的研究"
+
+"Veio para a Universidade Guernon para ajudar na pesquisa de Química."
+
+
+No.79 Poltergeist
+"Enchanted furnishings possessed by a spirit summoned in a seance."
+
+"被施以降灵术的室内陈设"
+
+"Móveis possuídos por um espírito invocado em uma sessão espirita."
+
+
+No.80 Corpse Guest (boss)
+"Guernon University's guests were murdered in this dormitory when the demons invaded the region."
+
+"格尔农大学接待来客的宿舍。但是恶魔们来到纪耶古公国后里面的人全部遇害了。"
+
+"Convidados da Universidade Guernon morreram neste quarto quando demônios invadiram a região."
+
+
+No.81 Golden Skeleton
+"A skeleton made of a hard, unknown material similar to gold."
+
+"一种特殊的骷髅，身体由类似黄金的未知金属构成"
+
+"Um esqueleto feito de um metal desconhecido, similar a ouro."
+
+
+No.82 Head *
+"These severed heads don't match the headless zombies."
+
+"跟无头僵尸的脑袋大小对不上"
+
+"Essas cabeças decepadas não encaixam nos zumbis sem cabeça."
+
+
+No.83 Slogra
+"A fiend that serves the Grim Reaper. It fights on the ground with a spear."
+
+"死神直属的恶魔骑士。擅长地面战与用长矛攻击。"
+
+"Um demônio que serve o Ceifador. Ele luta no chão usando uma lança."
+
+
+No. 84 Headless Zomble
+"Unlike their peers outside the Castle of Eternal Night, these have their heads missing."
+
+"与永夜城外的僵尸不同，这些家伙的头都被砍掉了"
+
+"Diferente daqueles fora do Castelo da Noite Eterna, estes zumbis perderam suas cabeças."
+
+
+No.85 Murderer *
+"Wandering ghosts filled with evil intentions."
+
+"带有邪恶意志的杀人鬼"
+
+"Fantasmas errantes cheios de intenções perversas."
+
+
+No.86 Wicked Head
+"Creatures generated from evil forces in the castle"
+
+"从永夜城的邪恶力量中生出的怪物"
+
+"Criaturas geradas por forças maldosas no castelo."
+
+
+
+No.87 Golden Dragon
+"Enhanced bone dragons made of a hard, unknown material similar to gold."
+
+"由类似黄金的未知金属强化防御的特殊骨龙"
+
+"Dragões de ossos aprimorados. Feitos de metal desconhecido similar a ouro."
+
+
+No.88 Occupied Wheel *
+"Wheels in the Castle's clockwork made functional by devils"
+
+"永夜机械塔里由恶魔们提供动力的齿轮"
+
+"Engrenagens do relógio do castelo funcionando graças à demônios."
+
+
+No.89 Dark Wanderer *
+"Creatures always seen hanging from ropes."
+
+"常在绳上行动的怪人"
+
+"Criaturas sempre vistas penduradas em cordas."
+
+
+No.90 Malus
+"Hunchbacks with their faces hidden"
+
+"邪恶的矮人，用袍子掩藏着面容"
+
+"Corcundas que escondem suas faces."
+
+
+No.91 Spell Book
+"Book of ancient spells."
+
+"记载有古代咒术的书籍"
+
+"Livro de feitiços antigos."
+
+
+No.92 Trap Statue (sub boss) *
+"Statue connected with defensive traps to dispose of intruders."
+
+"雕像里连接着为防御入侵者制作的机关"
+
+"Estátua conectada a armadilhas defensivas para repelir intrusos."
+
+
+No.93 Giant Fish
+"Rumors said that this fish swims in the Azure Lake during the night."
+
+"传闻说这种鱼会在夜晚游到碧蓝之湖的湖底"
+
+"Rumores dizem que este peixe nada no Lago Azure durante a noite."
+
+
+No.94 Death Plant *
+"Demonic plant that invaded the park in Delbasse City."
+
+"德尔巴斯市内公园里的魔化植物"
+
+"Planta demoníaca que invadiu o parque na Cidade Delbasse."
+
+
+No.95 Lost Head
+"Severed head of a man with complex emotions"
+
+"被斩下的心绪复杂的人的头颅"
+
+"Cabeça decepada de um homem com emoções complicadas."
+
+
+Page 6
+No.96 Two Headed Skeleton 
+"A special variation of skeleton with two heads. Can throw bones in two different arcs."
+
+"一种特殊的骷髅，可以同时向两个方向用骨头攻击"
+
+"Uma variação especial de esqueleto com duas cabeças. Atira ossos em dois arcos diferentes."
+
+
+No.97 Bust
+"A special variation of bust which can float in the air"
+
+"一种特殊的胸像，可以浮在空中"
+
+"Uma variação especial de busto que pode flutuar pelos ares."
+
+
+No.98 Flying Picture *
+"Picture frame with hunchbacks drawn in it."
+
+"画框里有一些矮人的画像"
+
+"Quadro com uma pintura de corcundas nele."
+
+
+No.99 Modern Art
+"Art statues with element combinations difficult for humans to understand"
+
+"用人类难以理解的艺术元素组合而制作成的雕像"
+
+"Uma estátua feita de uma combinação de elementos difíceis para humanos compreenderem."
+
+
+No.100 Artwork
+"Artworks built upon different parts of human bodies"
+
+"用各种人体组织为蓝本制作的雕塑"
+
+"Peças de arte formadas de partes diferentes de corpos humanos."
+
+
+No.101 Hell Picture (boss)
+"A large frame with several corpses sealed behind it"
+
+"巨大的画像，有一族人的尸体被封在后面"
+
+"Uma pintura imensa com diversos cadáveres selados por trás dela."
+
+
+No.102 Autumn Man
+"A shy spirit which tend to use leaves of escape from human sight"
+
+"害羞的鬼魂，见到人类后就会钻到叶子里逃跑"
+
+"Um espírito tímido que costuma usar folhas para escapar do olho humano."
+
+
+No.103 Grave Digger
+"Special skeletons with an unpleasant aura reminiscent of graves"
+
+"奇特的骷髅，身上含有类似墓地里发出的不祥气息"
+
+"Esqueletos estranhos com uma aura desagradável tal qual uma cova."
+
+
+No.104 Ice Bird *
+"Demonic ice shaped like a bird."
+
+"聚集成鸟形状的冰块"
+
+"Gelo demoníaco na forma de um pássaro."
+
+
+No.105 Frozen Mask *
+"Gigantic masks made of frozen spirits."
+
+"由宿有灵魂的冰形成的巨大面具状物体"
+
+"Máscaras gigantes feitas de espíritos congelados."
+
+
+No. 106 Water Element
+"Water bubbles only seen in warm and wet spots"
+
+"只在温暖且有水的地方出现的特殊水泡"
+
+"Bolhas d'água vistas apenas em locais húmidos e quentes."
+
+
+No.107 Water Spirit
+"A spirit rarely seen in front of the fountain"
+
+"很少能在喷泉附近见到的灵魂"
+
+"Um espírito raramente visto na frente da fonte."
+
+
+No.108 White Flower
+"A special flower which only appears in Spring"
+
+"一种特殊的花，它的花苞只在春季开放"
+
+"Uma flor especial que desabrocha apenas na Primavera."
+
+
+No.109 Nightmare Plant (boss) *
+"Demonic plant capable of controlling the seasons in the Four Seasons Hall."
+
+"控制四季之馆内气候的魔化植物"
+
+"Planta demoníaca capaz de alterar as estações no Salão das Quatro Estações."
+
+
+No.110 Weed
+"An eerie grass that feeds on blood."
+
+"以鲜血作养分成长的特殊的草"
+
+"Grama estranha que se alimenta de sangue."
+
+
+No.111 Cursed Skeleton *
+"Skeletons indestructible except for holy magic."
+
+"除神圣魔法外，其他攻击均无法彻底摧毁这种骷髅"
+
+"Esqueletos indestrutíveis exceto por magia sagrada."
+
+
+No.112 Golden Pillar
+"Enhanced bone pillars made of a hard, unknown material similar to gold."
+
+"由类似黄金的未知金属强化防御的特殊骨柱"
+
+"Pilar de ossos aprimorado. Feito de um metal desconhecido similar a ouro."
+
+
+No.113 Fire Shade
+"A wraith that can control the heat."
+
+"可以操作热波的亡魂"
+
+"Um espectro que pode controlar o calor."
+
+
+No.114 Blood Barrel *
+"An unique wine barrel with blood occasionally dripping from it."
+
+"特殊的酒桶，里面时常会流出血"
+
+"Um barril de vinho único de onde sanque ocasionalmente pinga."
+
+Page 7
+No.115 Bloody Zombie
+"Eastern Church soldiers dispatched 300 years ago."
+
+"300年前战死的东正教教会所属的士兵"
+
+"Soldados despachados pela Igreja Ortodoxa 300 anos atrás."
+
+
+No.116 Giant Skeleton
+"A giant condemned in ages past."
+
+"在远古征战中倒下的巨人的骸骨"
+
+"Um gigante condenado eras atrás."
+
+
+No.117 Necromancer (sub boss)
+"Uses black magic to summon a stream of deadly lightning blast"
+
+"会使用黑魔导术召唤致命的闪电屏障"
+
+"Utiliza magia negra para invocar um feixo de raios mortal."
+
+
+No.118 Cage
+"Used by haunted spirits in the Castle to trap foes"
+
+"由城里的亡魂从空中扣下的笼子"
+
+"Utilizado por espíritos assombrados do castelo para capturar inimigos."
+
+
+No.119 Arachne
+"A spider which bodily fluids are highly toxic."
+
+"体内充满毒液的巨大蜘蛛"
+
+"Uma aranha cujos fluídos corporais são altamente tóxicos."
+
+
+No.120 Nephilia *
+"A furious spider nest in the Castle, spits venom tirelessly"
+
+"因为永夜城的魔力而凶暴化的蜘蛛，不停喷射毒液"
+
+"Um ninho de aranhas furioso no castelo. Cospe veneno incansavelmente."
+
+
+No.121 Stone Rose
+"A carnivorous plant that grew and developed a taste for human flesh."
+
+"从人类尸体中吸取养分而生的特殊玫瑰"
+
+"Uma planta carnívora que cresceu e adquiriu gosto por carne humana."
+
+
+No.122 Carpet
+"Carpets animated through the works of poltergeists"
+
+"被施以降灵术而能随意行动的地毯"
+
+"Carpetes animados pela travessura de poltergeists."
+
+
+No.123 Clothes
+"Clothes animated through the works of poltergeists"
+
+"被施以降灵术而能随意行动的服装"
+
+"Roupas animadas pela travessura de poltergeists."
+
+
+No.124 Axe Armor
+"An armored warrior equipped with a devastating axe."
+
+"身着重甲的骑士，手里拿着一把锋利的双刃斧"
+
+"Guerreiro de armadura equipado com um machado devastador."
+
+
+No.125 Yellow Ectoplasm
+
+"A special variant of Ectoplasm that takes away human's strength upon contacting"
+
+"特殊的诅咒魔，拥有使人身体虚弱的邪恶力量"
+
+"Variante especial de ectoplasma que rouba a força da vítima com quem faz contato."
+
+
+No.126 Pudding
+"Gets this name because of its glue-like shape"
+
+"这怪物因为其如布丁一般的凝胶状体质而得此名"
+
+"Recebe esse nome pela sua consistência parecida com cola."
+
+
+No.127 Lost Skull
+"Differs from Lost Head by never having had a physical body and hiding from human sight."
+
+"与失落头颅的不同是它没有实体而是从能量体中产生"
+
+"Não ter um corpo físico e se esconder da visão humana o difere do Lost Head."
+
+
+No.128 Lady Zombie
+"Ladies buried near the corpse of Anna Von Viltheim"
+
+"死后葬在安娜.冯.维尔特海姆附近的淑女们"
+
+"Senhoras que foram enterradas próximas do corpo de Anna Von Viltheim."
+
+
+No.129 Sadan Chair
+"Two skeletons carrying the sadan chair, with a headless female sitting on it"
+
+"两个骷髅抬着一顶轿子，轿子里的女性尸体没有头部"
+
+"Dois esqueletos carregando uma cadeira de sadan, com uma moça sem cabeça sentada nela."
+
+
+No.130 Flower Maid
+"Maids tidy and clean the grave of Anna Von Viltheim"
+
+"打扫安娜.冯.维尔特海姆的坟墓的女仆们"
+
+"Empregadas mantendo a cova de Anna Von Viltheim limpa."
+
+
+No.131 Anna Von Viltheim (sub boss) *
+"The Corpse of Anna Von Viltheim, tormented for a hundred years."
+
+"安娜.冯.维尔特海姆的尸骸，带着痛苦与遗憾沉睡了百余年"
+
+"O cadáver de Anna Von Vilthem, atormendado por um século."
+
+No.132 Leviathan (boss)
+"A humongous amalgamation of human corpses."
+
+"由死者们的尸骸聚集而成的巨大怪物"
+
+"Uma amálgama gigantesca de corpos humanos."
+
+
+No.133 Goliath *
+"Highest ranked among all Axe Armors. Guards the most important area of the Castle."
+
+"在所有斧装甲中拥有最高级别的战力。负责看守永夜之城中最重要的地点。"
+
+"Axe Armor com a maior patente de todas. Guarda o local mais importante do castelo."
+
+Page 8
+No.134 Devil Worshipper A
+"One of the Devil Worshippers, attacks his foes by throwing sickles."
+
+"恶魔仆从中的一员，擅长使用适合投掷的短柄镰刀"
+
+"Um dos Adoradores do Diabo. Ataca os inimigos arremessando foices."
+
+
+No.135 Devil Worshipper B
+"One of the Devil Worshippers, attacks his foes by throwing swords."
+
+"恶魔仆从中的一员，擅长使用适合投掷的短剑"
+
+"Um dos Adoradores do Diabo. Ataca os inimigos arremessando espadas."
+
+
+No.136 Hunting Girl
+"An angel who hunts and slaughters man-beasts."
+
+"狩猎兽人的天使之魂"
+
+"Um anjo que caça e destrói homens-besta."
+
+
+No.137 Decorative Head
+"For Decorative use at the rooms with illusions"
+
+"幻象室内用作装饰的头颅"
+
+"Para uso decorativo em salas com ilusões."
+
+
+No.138 Illusionist (boss) *
+"Uses magic to confuse opponents in Illusion Chamber"
+
+"使用擅长的幻术在幻象室内迷惑对手"
+
+"Utiliza magia para confundir os oponentes da Câmara Ilusória."
+
+
+No.139 Devil Worshipper C *
+"One of the Devil Worshippers, attacks his foes by throwing flasks filled with dark matter."
+
+"恶魔仆从中的一员，使用装满暗物质的元素瓶袭击对手"
+
+"Um dos Adoradores do Diabo. Ataca os inimigos arremessando frascos cheios de matéria escura."
+
+
+No.140 Bow Master *
+"Bow Armors that guard the most important area of the Castle."
+
+"负责守卫永夜城内重要地点的弓装甲。"
+
+"Armaduras arqueiras que guardam a parte mais importante do castelo."
+
+
+No.141 Balkan
+"In addition to the capability to cast multiple spells, he's more physically durative than other Necromancers"
+
+"Capable of casting multiple spells, and more physically durable than other Necromancers."
+
+"掌握多种法术的同时，比其他的亡灵法师体格更健壮"
+
+"Capaz de lançar múltiplos feitiços, e mais fisicamente resistente que outros Necromantes."
+
+
+No.142 Shroud *
+"Shroud enshrouding spirits."
+
+"寄宿着灵魂的裹尸布"
+
+"Mortalhas que abrigam espíritos."
+
+
+No.143 Gaibon
+"A fiend that serves the Grim Reaper. It can spit fire while flying."
+
+"死神直属的恶魔骑士。擅长空中战和喷火攻击。"
+
+"Um demônio que serve o Ceifador. Ele pode cuspir fogo enquanto voa."
+
+
+No.144 Evil Slogra *
+"The wicked shadow of a fiend that serves the Grim Reaper. Fights on the ground with a spear."
+
+"死神直属的恶魔枪骑士的幻影。"
+
+"Sombra perversa do demônio que serve o Ceifador. Luta no chão usando uma lança."
+
+No.145 Death (boss)
+"Sought to revive Lord Dracula by luring Efrain to France to rid the castle of Lucifer worshippers."
+
+"德古拉的心腹仆人。打算利用艾尔弗林清除复活主人的道路上的障碍。"
+
+"Buscou reviver Drácula atraindo Efrain para a França, para limpar o castelo do culto de Lúcifer."
+
+
+No.146 Duke Guillecourt (boss)
+"Henri de Guillecourt (1717-1781) 
+Holds a Dark Ritual in order to summon the Fallen Angel"
+
+"亨利.纪耶古 (1717-1781)
+纪耶古公国的统治者。他正准备进行暗黑堕天使路西法的召唤仪式"
+
+"Henri de Guillecourt (1717-1781) 
+Realizou um ritual escuro para invocar o Anjo Caído." 
+
+
+No.147 Servigny Shadow (sub boss)
+"Shadow of Maximilien Count of Servigny"
+
+"麦克西米连.塞尔维尼的幻影"
+
+"Sombra de Maximilien Conde de Servigny"
+
+
+No.148 La Tourvelle Shadow (sub boss)
+"Shadow of Nicolas Xavier de La Tourvelle"
+
+"尼古拉斯.泽维尔.德.拉.托尔维的幻影"
+
+"Sombra de Nicolas Xavier de La Tourvelle"
+
+
+No.149 Albaret Shadow (sub boss)
+"Shadow of Constance D'Albaret"
+
+"康斯坦丝.蒂.艾尔巴蕾的幻影"
+
+"Sombra de Constance D'Albaret"
+
+
+No. 150 Angels of Death
+"Lucifer's servants"
+
+"侍从路西法的天使仆人"
+
+"Servos de Lúcifer."
+
+
+No. 151 Altered Lucifer (boss)
+"The Fallen Angel who brings Eternal Light. The botched ritual summoned him only partially."
+
+"带着无尽光辉重回人间的暗黑堕天使。但是因为仪式失败未能展现出全部实力"
+
+"O Anjo Caído que traz a Luz Eterna. O ritual interrompido o trouxe de forma incompleta."
+
+
+No.152 Efrain Fake 2 (Doppenganger II boss)
+"A foul fiend that nests inside mirrors."
+
+"在镜中模仿他人的镜像并进行袭击的恶魔"
+
+"Demônio asqueroso que se esconde nos espelhos."
