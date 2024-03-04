@@ -1,0 +1,470 @@
+Seite 1
+Nr.1 Skelett
+"Reanimiert durch dunkle Künste, wirft gefährliche Knochen."
+
+Nr.2 Römischer Zombie
+"Der belebte Leichnahm eines Soldaten, gestorben im Marsch durch das alte Rom."
+
+Nr.3 Nachtspinne
+"Durch die dunklen Mächte wurden diese Spinnen bedeutsam aggressiver."
+
+Nr.4 Toter Flohmann
+"Die wiedererweckten Kadaver eines Flohmann, gerufen von den dunklen Mächten."
+
+Nr.5 Vampirfledermaus
+"Eine blutsaugendes Tier gesteuert durch die dunklen Mächte."
+
+Nr.6 Römisches Skelett
+"Skelettartige, reanimierte Reste tapferer Soldaten aus dem antiken Rom."
+
+Nr.7 Colossus
+"Ein Riese welcher zu Lebzeiten zur Elite gehörte."
+
+Nr.8 Medusastatue (Boss)
+"Auf hartem Stein, gemeißelt nach dem Abbild von Medusa."
+
+Nr.9 Steinschlange
+"Generiert durch Medusas Statue."
+
+Nr.10 Riesenkrähe
+"Durch Dunkelheit mutiert, immer nagend an Leichen."
+
+Nr.11 Troll
+"Dieses Wesen wirft Brocken in unvorhersehbaren Bögen."
+
+Nr.12 Schleimauge
+"Einäugige Parasiten, stationiert an Wänden."
+
+Nr.13 Bachfisch
+"Ein wilder Fisch welcher die Gewässer des Herzogtums Guillecourt bewohnt."
+
+Nr.14 Riesenwespe
+"Der Stachel dieser Riesenwespe kann spielend Beute durchbohren."
+
+Nr.15 Bienenstock
+"Diese Nester sind aufgrund der sich ausbreitenden Macht des Bösen unverzehrbar geworden."
+
+Nr.16 Blutvirus
+"Höchstgefährliche Parasit, lebt in Blut und nährt sich davon."
+
+Nr.17 Überwucherter Mann
+"Das Ergebnis wenn eine Une ihr Opfer vollständig befallen hat."
+
+Nr.18 Zombie
+"Gestorben in den Feldern, durch dunkle Mächte zum Unleben gezwungen."
+
+Nr.19 Gehängter
+"Nach grausamer Ermordung durch Nackenbruch sind diese Wesen aus auf Rache."
+
+
+Seite 2
+Nr.20 Besessener Baum (Boss)
+"Dieser böswillige Geist bedient sich eines antiken Baumes um Lecarde zu stoppen."
+
+Nr.21 Monsterpflanze
+"Mutierte Pflanze welche ihre tötliche Saat verteilt."
+
+Nr.22 Toter Medusenkopf
+"Abgeworfene Monster von Medusa selbst welche nach einer Weile durch diese Trennung als Leichen enden."
+
+Nr.23 Besessene Hand
+"Abgetrennte Hände mit der Macht durch die Luft schweben können."
+
+Nr.24 Knochendrache
+"Dunkle Mächte haben diese mächtigen Überreste eines Dinosauriers wiedererweckt."
+
+Nr.25 Verzaubertes Zahnrad
+"Animiert durch die Mächte der Dunkelheit."
+
+Nr.26 Verdrehter Dämon
+"Dieser Dämon konfrontiert seine Feinde immer auf dem Kopf stehend."
+
+Nr.27 Bekleidetes Skelett
+"Einstige Bewohner der Villa von Servigny, gegen ihren Willen als Skelette reanimiert."
+
+Nr.28 Ektoplasma
+"Wollartige Substanz, angeblich die manifestierte Reue von Toten." 
+
+Nr.29 Knochensäule
+"Durch Magie angetriebener Dinosaurierkopf, auch ohne Haut extrem tödlich."
+
+Nr.30 Jeanne De Servigny (Boss)
+"Einstige Herzogin Servignys (1585 bis 1668). Dunkle Mächte zwingen sie als ruheloser Geist zu spuken."
+
+Nr.31 Herzog Servigny (Boss)
+"Ehemals bekannt als Maximilien von Servigny (1605 bis 1899). Verkaufte seine Seele an Teufel für eine verlängerte Lebensspanne."
+
+Nr.32 Riesenrabe
+"Die dunklen Mächte aus der Grafschaft La Tourvelle erzeugten dieses unnatürliche Wachstum."
+
+Nr.33 Toxinspinne
+"Pervertierte Spinnentiere welche Giftmasse spucken können."
+
+Nr.34 Todespilz
+"Die Sporen dieses dämonischen Pilzes reichen weit und sind tödlich."
+
+Nr.35 Feldschlange
+"Das Böse aus der Grafschaft La Tourvelle trieb diese Wesen in einen Blutrausch."
+
+Nr.36 Flohmann
+"Anders als ihre römischen Verwandten sind diese Varianten lebend, dennoch gleichsam hartnäckig."
+
+Nr.37 Gleitvogel
+"Das beliebteste Reittier aller Flohmänner."
+
+Nr.38 Schwarzer Panther
+"Blitzschneller Schatten der Nacht, tötet innerhalb eines Wimpernschlags."
+
+
+Seite 3
+Nr.39 Frostauge
+"Trotz seines Aggregatzustands kann dieses Wesen frei durch die Luft schweben."
+
+Nr.40 Gefrierknochen
+"Einstige Bewohner des Bezirks La Perdrix welche der tötlichen Kälte zum Opfer fielen."
+
+Nr.41 Eisschatten
+"Durchtriebenes Gespenst mit der Macht die Luft gefrieren zu lassen."
+
+Nr.42 Todesmauer (Boss)
+"Eine verfluchte Wand die sich unaufhaltsam bewegt. Das angebundene Skelett wirkt Eismagie."
+
+Nr.43 Gefangener Leichnam (Boss)
+"Zu Eis erstarrter Körper eines Dämonen in der Rivoirehöhle."
+
+Nr.44 Hand des Gefangenen Leichnams
+"Teil des gefrorenen Dämons der Rivoirehöhle."
+
+Nr.45 Schlammwesen
+"Menschenartiges Monster, kombiniert mit einer leidenden Seele." 
+
+Nr.46 Bespukter Schädel
+"Man sagt dieses Monster fliegt und versteckt sich bei Nacht im Himmel nahe der Grafschaft La Tourvelle."
+
+Nr.47 Medusenkopf
+"Durch Medusa geschaffene Monster welche in Massen Feinde überwältigen."
+
+Nr.48 Erstarrter Schädel
+"Aufgrund des Eises kann sich diese Schädelvariante nicht verstecken."
+
+Nr.49 Warg
+"Nordische Wölfe und Torwächter des Friedhofs in Sarelle."
+
+Nr.50 Blutskelett
+"Die Überreste dieses Kriegers kann sich durch Blutabsorbtion selbst regenerieren."
+
+Nr.51 Spektraldame
+"Geister weiblicher Einwohner mit spirituellen Kräften."
+
+Nr.52 Verhexter Grabstein
+"Schon aus großer Distanz kann man die gewaltsamen Bewegungen dieser animierten Objekte vernehmen."
+
+Nr.53 Trauernde Witwe
+"Seit ihrem schmerzvollen Verlust kann sie nicht aufhören zu weinen."
+
+Nr.54 Doppelgänger "Efrain" (Doppelgänger Boss)
+"Dieser Dämon tritt in Gestalt seiner Beute auf bevor er diese tötet."
+
+Nr.55 Giftiges Ektoplasma
+"Eine Kombination aus giftiger Materie und Geisterfäden."
+
+Nr.56 Deckenläufer Yorick
+"Ein besonderer Yorick welcher es schafft mühelos an Dachdecken zu laufen, kurios."
+
+Nr.57 Gezeichnete Wespe
+"Entsprungen aus besessenen Gemälden."
+
+
+Seite 4
+Nr.58 Verzauberter Tand
+"Das Herzogtum von Guillecourt haust keine so mächtige Waffe wie Crissaegrim, vergeude deine Zeit nicht mit diesem Monster."
+
+Nr.59 Bogenritter
+"Gepanzerter Krieger mit verzauberten Pfeilen."
+
+Nr.60 Herzog La Tourvelle (Boss)
+"Einst Nicolas Xavier(1734-1781), betrogen von Heloise nach Paktschließungen mit Dämonen."
+
+Nr.61 Blütenbefallene Leiche
+"Fremdgesteuerte Opfer des Schwarzen Lotus."
+
+Nr.62 Ballonschote
+"Lass dich nicht von den scharfen Sporen dieser Pflanze treffen."
+
+Nr.63 Mimic
+"Dämonische Truhe welche sich mit den Überresten einstiger Schatzjäger wehrt."
+
+Nr.64 Wächterauge
+"Allzeit aufmerksam übersieht diese Kreatur den Eingang zum Schloss der Ewigen Nacht."
+
+Nr.65 Dämonenfledermaus
+"Größer, mächtiger und mit einem paar Hörner versehen sucht es stehts nach Beute."
+
+Nr.66 Nix
+"Ein Jäger zu Wasser, immer auf der Lauer liegend."
+
+Nr.67 Jägerskelett
+"Verfluchte Reste eines alten Kriegers, bewaffnet mit einer Muskete."
+
+Nr.68 Verwelkte Pflanze
+"Sonderbares Gestrüpp, überzogen mit höchst giftiger, lähmender Substanz."
+
+Nr.69 Kettenigel
+"Stark gepanzerter Seeigel, ungenießbar aufgrund der verseuchten Gewässer."
+
+Nr.70 Decarabia
+"Ein Diener des Dämonenreiches mit fünf Beinen."
+
+Nr.71 Unterweltqualle
+"Bösartige Seekreatur aus dem Reich der Dämonen."
+
+Nr.72 Gefallene Nonne
+"Einstige Schwestern aus dem lokalen Kloster, verführt durch das Böse."
+
+Nr.73 Tarantula
+"Die Größe und Stärke dieses Wesens wurde ums Zwanzigfache gesteigert. Extrem giftig."
+
+Nr.74 Rötliches Ektoplasma
+"Angefüllt mit dem Blut aller bisherigen Opfer."
+
+Nr.75 Constance D' Albaret (Boss)
+"Vergangene Leiterin des Konvent (1740 bis 1781). Als Dämonen einfiehlen stahl sie ein dekoratives Kruzifix."
+
+Nr.76 Riesenschleim
+"Eine Mikrobe umhüllt mit einer geleeartigen Substanz."
+
+
+Seite 5
+Nr.77 Wandelnder Fluch
+"Umgeben von Hass und bösen Verzauberungen."
+
+Nr.78 Verrückter Wissenschaftler
+"Ein Fachmann auf Technik und Chemie an der Universität Guernon, nur eben verrückt."
+
+Nr.79 Poltergeist
+"Der beschworene Geist eines Mediums treibt diese Möbelstücke an."
+
+Nr.80 Verstorbener Gast (Boss)
+"Einst hausend im Schlafsaal an der Universität Guernon bevor dieser von Dämonen ermordet wurde."
+
+Nr.81 Goldknochen
+"Das Material wirkt ähnlich zu Gold doch scheint es von anderer Zusammensetzung zu sein."
+
+Nr.82 Abgetrennter Kopf
+"Zum ewigen Umherschweben verdammt da sie passende Körper nicht fanden."
+
+Nr.83 Slogra
+"Ein Untergebener vom Sensenmann selbst. Sehr geschickt im Bodenkampf mit einem Speer."
+
+Nr.84 Kopfloser Zombie
+"Trotz ihrer fehlenden Schädel können diese wandelnden Leichen gezielt töten."
+
+Nr.85 Verurteilter Mörderer
+"Auch als Geist wandelt dieses Wesen mit tödlicher Absicht umher."
+
+Nr.86 Teuflicher Kopf
+"Unheilige Kreaturen, entsprungen aus der Bosheit des Schlosses der Ewigen Nacht."
+
+Nr.87 Goldgeschuppter Drache
+"Verstärkte Drachenskelette, umhüllt von einer harten, goldähnlichen Substanz."
+
+Nr.88 Besessene Uhrwerke
+"Zahnräder der riesigen Schlossuhr, beseelt von einem Dämon."
+
+Nr.89 Düsterer Wanderer
+"Sieht man häufig am Wegesrand an einem Strick hängen."
+
+Nr.90 Bösartige Bucklige
+"Zu jeder Gelegenheit verbergen sie ihr Gesicht."
+
+Nr.91 Verzaubertes Buch
+"Angefüllt mit Flüchen aus uralten Tagen."
+
+Nr.92 Mechanische Statue (Miniboss)
+"Verbunden mit allerlei Fallen des Schlosses um Eindringlinge zu vernichten."
+
+Nr.93 Überfisch
+"Ein hartnäckiges Tier welches sich angeblich im Azursee verbirgt."
+
+Nr.94 Todeswucher
+"Befällt den gesamten Park der Stadt Delbasse."
+
+Nr.95 Verlorener Kopf
+"Zu jeder Zeit trägt dessen Gesicht emotionale Mimiken."
+
+
+Seite 6
+Nr.96 Zweiköpfiges Skelett
+"Durch den zusätzlichen, denkenden Teil kann er in zwei Richtungen Knochen werfen."
+
+Nr.97 Beseelte Büste
+"Mit strengem Blick schwebt dieses Steinantlitz umher und greift dich an."
+
+Nr.98 Schwebendes Gemälde
+"Eventuell sind die Seelen der eingezeichneten Buckligen in diesem Gemälde gelandet."
+
+Nr.99 Moderne Kunst
+"Steinstatuen mit komplexer Technik gehauen, für viele künstlich zu anspruchsvoll."
+
+Nr.100 Makaberes Kunstwerk
+"Enstanden aus verschiedensten Menschenteilen."
+
+Nr.101 Teufelsabbild (Boss)
+"Ein riesiges Gemälde, versiegelte bereits Tausende in sich."
+
+Nr.102 Herbstgeist
+"Schüchterne Wesen welche Blätter nutzen um sich vor Menschen zu verstecken."
+
+Nr.103 Grabräuber
+"Zu jeder Zeit bringen diese Skelette den Hauch des Todes mitsich."
+
+Nr.104 Eisvogel
+"Durch Dämonen besessenes Eis in Form eines anmutigen Vogels."
+
+Nr.105 Gefriermaske
+"Viele Frostgeister haben sich zu dieser gigantischen Maske zusammengeschlossen."
+
+Nr.106 Aquaelementar
+"Aus Blasen bestehende Geister, oft zu finden in warmen und feuchten Gebieten."
+
+Nr.107 Wassergeist
+"Selten kann man diese Seelen vor anmutigen Brunnen bewundern."
+
+Nr.108 Unschuldsblume
+"Geschmückt mit weißen Blättern, nur im Frühling anzutreffen."
+
+Nr.109 Alptraumgesträuch (Boss)
+"Ein Dämon in Pflanzengestalt mit der Macht das Wetter in der Jahreszeitenhalle zu manipulieren."
+
+Nr.110 Aderlassunkraut
+"Unheimliches Gras welches sich von Blut nährt."
+
+Nr.111 Verfluchtes Skelett
+"Durch Flüche nicht mit Gewalt zu bezwingen. Doch heilige Magie..."
+
+Nr.112 Vergoldete Knochensäulen
+"Überzogen mit einer goldartigen jedoch extrem harten Substanz."
+
+Nr.113 Feuergespenst
+"Durch Dunkelheit angetrieben kann diese Kreatur Hitze kontrollieren."
+
+Nr.114 Teufelzholzfass
+"Entstanden aus einem dämonischen Baum. Blut tropft aus dem Inneren."
+
+
+Seite 7
+Nr.115 Blutverströmter Zombie
+"Soldaten der östlichen Kirche, vor über 300 Jahren verstorben."
+
+Nr.116 Riesenskelett
+"Einst ein Koloss, vor Äonen zur ewigen Verdammnis verurteilt."
+
+Nr.117 Nekromant (Miniboss)
+"Durch Manipulation etherischer Winde kann er blitzartige Magie wirken."
+
+Nr.118 Geisterkäfig
+"Wird von Plagegeistern genutzt um Feinde des Schlosses zu fangen."
+
+Nr.119 Arachnide
+"Die Körperflüssigkeiten dieses Monstern sind extrem giftig."
+
+Nr.120 Seidene Nephilia
+"Gnadenloses Spinnentier des Schlosskellers, versprüht dauerhaft Gift."
+
+Nr.121 Mineralrose
+"Fleischfressend mit einer Vorliebe für Menschen."
+
+Nr.122 Fliegender Teppich
+"Animiert durch das Werk verspielter Gespenster."
+
+Nr.123 Schwebende Gewänder
+"Werden durch Poltergeister bewegt."
+
+Nr.124 Axtritter
+"Mit schwerer Rüstung und einer mächtigen Axt ausgerüstet."
+
+Nr.125 Gelbliches Ektoplasma
+"Eine Berührung reicht um alles Leben aus einem Menschen zu saugen."
+
+Nr.126 Pudding
+"Erhielt seinen Namen durch dessen Form."
+
+Nr.127 Umherirrender Schädel
+"Anders als die schwebenden Köpfe kann dieses Wesen mangels physischer Hülle nicht von Menschen wahrgenommen werden." 
+
+Nr.128 Zombiezofe
+"Perönliche Dienerinnen, zusammen beigelegt mit Anna Von Viltheim."
+
+Nr.129 Adelskutsche
+"Diese edle Sänfte wird von einer kopflosen Dame genutzt, getragen von zwei Skelettdienern."
+
+Nr.130 Blütenmaid
+"Zu jeder Zeit säubern sie das Grab ihrer einstigen Herrin Anna Von Viltheim."
+
+Nr.131 Anna Von Viltheim (Boss)
+"Der Leichnahm der einstigen Herrin, für Jahrhunderte durch Flüche gefoltert."
+
+Nr.132 Leviathan (Boss)
+"Eine gigantische Verschmelzung menschlicher Kadaver."
+
+Nr.133 Goliath
+"Axtritter höchsten Ranges, bewacht den wichtigsten Bereich des Schlosses."
+
+
+Seite 8
+Nr.134 Teufelsanbeter Alpha
+"Fanatischer Teufelsgefälliger, schwingt tödliche Sicheln."
+
+Nr.135 Teufelsanbeter Beta
+"Fanatischer Teufelsgefälliger, führt grausame Schwerter."
+
+Nr.136 Himmelsjägerin
+"Schlachtet in Gestalt eines gefallenen Engels Tiermenschen gnadenlos ab."
+
+Nr.137 Zierkopf
+"Wird im Raum der Illusionen zur Dekoration genutzt."
+
+Nr.138 Illusionist (Boss)
+"Der Herr der Illusionskammer nutzt seine Macht um Feinde zu verwirren."
+
+Nr.139 Teufelsanbeter Omega
+"Fanatischer Teufelsgefälliger, wirft Glaskolbel gefüllt mit finterer Materie."
+
+Nr.140 Schützenmeister
+"Bogenführende Eliteritter, bewachen den wichtigsten Ort des Schlosses."
+
+Nr.141 Balkan
+"Der Erznekromant des Schlosses, physisch stark und bewaffnet mit unzähligen Zaubern."
+
+Nr.142 Teufelstuch
+"Verschlingt die Seele aller die es umhüllt."
+
+Nr.143 Gaibon
+"Ein Untergebener vom Sensenmann selbst. Kann mächtige Flammen speien."
+
+Nr.144 Slogra Satanas
+"Schattenkreatur aus der Essenz Slogras, gestärkt durch seinen Meister."
+
+Nr.145 Tod (Boss)
+"Manipulierte Effrain um die Diener Lucifers in Frankreich zu vernichten. Deren Ritual soll stattdessen Dracula wiederbeleben."
+
+Nr.146 Herzog Guillecourt (Boss)
+"Einst Henri de Guillecourt (1717 bis 1781), vollführt ein dunkles Ritual um den Gefallenen Engel zu beschwören."
+
+Nr.147 Schattengestalt Servigny (Miniboss)
+"Eine geistlose Kopie von Maximilien, Graf von Servigny."
+
+Nr.148 Schattengestalt La Tourvelle (Miniboss)
+"Eine seelenlose Kopie von Nicolas Xavier de La Tourvelle."
+
+Nr.149 Schattengestalt Albaret (Miniboss)
+"Eine willenlose Kopie von Constance D'Albaret."
+
+Nr.150 Engel des Todes
+"Die höchstrangigen Diener Lucifers."
+
+Nr.151 Neo Lucifer (Boss)
+"Der Gefallene Engel welcher das Ewige Licht bringen wird. Durch das gescheiterte Ritual nur partiell beschworen."
+
+Nr.152 Doppelgänger "Efrain X" (Doppelgänger II Boss)
+"In den Tiefen aller Spiegel wohnt diese verdorbene Kreatur."
