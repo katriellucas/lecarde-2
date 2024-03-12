@@ -46,7 +46,28 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+(Catoblepas)  
+`ADDED` - Port the Gorgon 1.4.2 changes on Air Dash (Github issue #43) to Catoblepas build (1.4.0). (Aceearly1993)  
+
+(Gorgon)  
+`ADDED` - Translations to enemy description:  
+English/Portuguese/Simplified Chinese - The Lecarde 2 rework project team (Aceearly1993, Katriel, ThePlotTwist, Jeffrey Montoya)    
+French - Chernabogue   
+Spanish - Jorge Fuentes   
+German - Exorion Hagen   
+Italian - TheCarsEdge   
+Japanese - 狼王之2型   
+`ADDED` - "S" and "T" labels on save spots and warp spots in oder to let color weak/color blind people 
+easier to recognize the location of save spots and warp spots on mini map. (Aceearly1993)    
+`ADDED` - Important UIs on start screen to make players not get lost quickly.  (Aceearly1993)    
+`ADDED` - A hotkey set so that the game's anti-alias can be toggled on/off to fit the preference of more people.  (Aceearly1993)    
+`CHANGED` - In-game credit text to match up the translation contributor lists of Reworked edition.  (Aceearly1993)    
+`CHANGED` - Position of text objects in sub screen that got missed for some reason.  (Aceearly1993)    
+`FIXED` - Now the game window's position will be automatically re-centered once a window size is chosen in video option screen. (Aceearly1993)     
+`FIXED` - A phenomenon that causes the resized window to flash repeatedly by disabling the ability to run while resizing. (Aceearly1993)     
+
 #### [1.4.2] - 2024/2/19 #### 
+
 (Shared)  
 `FIXED` - Some Map chip layering errors at Rivoire Cave.  (Aceearly1993)  
 `FIXED` - A bug to text size after resizing the windows display scale to be higher than 100%. (Aceearly1993)  
