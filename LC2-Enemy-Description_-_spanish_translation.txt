@@ -1,0 +1,1231 @@
+Translation guide:
+Replace ONLY the Simplified Chinese text to the language you are going to translate into.
+English texts are not subject to be changed unless if you feel some English terms usage being too wrong or serious text limit problems are met in translations.
+Do not exceed the text len-gth of creature No.75.
+Some terms like human names will not be translated. (e.g.: Nicolas Xavier de La Tourvelle)
+
+-An ASTERISK (*) besides the enemy name means that english grammar was corrected by me (ThePlotTwist) and nothing else was changed.
+
+Page 1 
+No.1 Skeleton *
+"Skeletons reanimated by the dark power's influence."
+
+"Esqueletos reanimados por la influencia del maldito poder." (damned/unholy power, not 'dark' [poder oscuro])
+
+"Esqueletos reanimados pela influência das trevas."
+
+
+No.2 Roman Zombie
+"Animated corpse of a soldier who marched to his death in ancient Rome"
+
+"Reanimado Cadáver de un soldado que marchó a su muerte en Roma antigua."
+
+"Cadáver reanimado de um soldado que marchou para a morte na Roma antiga."
+
+
+No.3 Spider *
+"Spiders made violent under the dark power's influence."
+
+"Arańa enfurecida por la influencia del maldito poder."
+
+"Aranhas enraivecidas pela influência de poderes escuros."
+
+
+No.4 Dead Fleaman *
+"Corpses of Fleamen reanimated by the dark power's influence."
+
+"Cadáveres de Fleamen, reanimados por la influencia del maldito poder."
+
+"Cadáveres de Fleamen reanimados pela influência das trevas."
+
+
+No.5 Bat *
+"A bloodsucking bat that follows the dark power."
+
+"Murcielago chupasangre que sigue al maldito poder."
+
+"Morcego vampiro que obedece os poderes escuros."
+
+
+No.6 Roman Skeleton *
+"Skeletal remains of ancient Roman soldiers that fought bravely."
+
+"Los restos mortales de soldados Romanos que lucharon valientemente."
+
+"Restos mortais de soldados da Roma antiga que lutaram bravamente."
+
+
+No.7 Colossus *
+
+"Was an elite Colossus during his lifetime."
+
+"Fue un Colossus élite durante su vida."
+
+"Foi um colosso de elite durante sua vida."
+
+
+No.8 Medusa Statue (Boss)*
+"Statue carved in the image of Medusa's head."
+
+"Estatua esculpta como la cabeza de Medusa."
+
+"Estátua esculpida como a cabeça da Medusa."
+
+
+No.9 Stone Snake *
+"Snakes generated from the Medusa Statue."
+
+"Serpientes generadas por la estatua de Medusa."
+
+"Serpentes nascidas a Estátua da Medusa."
+
+No.10 Giant Crow
+"A crow that nibbles upon rotting corpses."
+
+"Un cuervo que pica cadáveres podridos."
+
+"Um corvo que mordisca cadáveres apodrecidos."
+
+
+No.11 Troll
+"Throws stones in a weird, irritating arc"
+
+"Tira piedras en trayectorias irritantes."
+
+"Atira pedras em um arco estranho e irritante."
+
+
+No.12 Slime Eye *
+"Single-eyed creature parasiting on walls"
+
+"Creatura con solo un ojo, parasitando paredes."
+
+"Criatura de apenas um olho parasitando paredes."
+
+
+No.13 Fish *
+"A ferocious fish inhabiting the waters of Guillecourt Duchy."
+
+"Un pez feroz que habita las aguads del Ducado Guillecourt"
+
+"Um peixe feroz habitando nas águas do Ducado Guillecourt."
+
+No.14 Big Wasp
+"A wasp with a stinger that can easily pierce and kill."
+
+"Una avispa con un aguijon que facilmente puede perforar y matar"
+
+"Uma vespa capaz de perfurar e matar facilmente com seu ferrão."
+
+No.15 Hive
+"The evil spreading over Guillecourt Duchy has made these hives unsuitable for consumption."
+
+"El mal que crece sobre el Ducado Guillecourt ha hecho a estas colmenas malas a consumo."
+
+"O mal se espalhando pelo Ducado Guillecourt tornou essas colmeias impróprias para consumo."
+
+
+No.16 Living Blood *
+"Dangerous Creatures inhabiting on blood."
+
+"Criaturas peligrosas habitando en sangre."
+
+"Criaturas perigosas habitando no sangue."
+
+No.17 Grass Man
+"A victim of the parasitic une."
+
+"Una victima de la Une parasitica."
+
+"Uma vítima da Une parasítica."
+
+
+No.18 Zombie *
+"Corpses reanimated by dark magic in the soil."
+
+"Cadáveres reanimados por la magia negra en el suelo."
+
+"Cadáveres reanimados por magia negra no solo."
+
+
+No.19 Hanged *
+"These miserable lives had their necks impaled, and were hanged from trees."
+
+"Estos miserables tuvieron sus cuellos empalados, y despues fueron colgados de arboles."
+
+"Eles foram perfurados no pescoço, e pendurados nas árvores para morrer."
+
+
+Page 2
+No.20 Possessed Tree (boss)
+"An ancient tree possessed by a malevolent will."
+
+"Un arbol antiguo poseído por una fuerza malévola."
+
+"Uma árvore antiga possuída por uma força malévola."
+
+
+No.21 Plant *
+"Mutated plants capable of spreading their seeds on their own will."
+
+"Plantas mutantes capaces a esparcir sus semillas por su propia voluntad."
+
+"Plantas mutantes capazes de espalhar suas sementes por vontade própria."
+
+No.22 Dea Medusa *
+"Monsters created from Medusa's head. Became corpses due to leaving Medusa for too long."
+
+"Monstruos creados de la cabeza de Medusa. Cadaverizados por haber dejado a Medusa por demasiado tiempo."
+
+"Monstros criados da cabeça da Medusa. Cadaverizados por deixarem a Medusa por tempo demais."
+
+
+No.23 Hand
+"Severed hands capable to float in the air"
+
+"Manos cortadas capaces de flotar en el aire."
+
+"Mãos decepadas capazes de flutuar."
+
+
+No.24 Bone Dragon 
+"The magically animated remains of a dinosaur."
+
+"Los restos mortales de un dinosaurio, animados magicamente."
+
+"O restos mortais de um dinossauro animados magicamente."
+
+
+No.25 Cog *
+"Cogs animated by a dark power."
+
+"Engranajes animados por un poder malvado."
+
+"Engrenagens animadas por uma força das trevas."
+
+
+No.26 Upended Demon (boss)
+"A demon which always faces its opponents upside down"
+
+"Un demonio que siempre confronta a sus oponentes invertido al revés."
+
+"Um demônio que ataca intrusos de cabeça para baixo."
+
+No.27 Dressed Skeleton
+"Skeletal remains of residents near Servigny Mansion"
+
+"Restos mortales de residents por cerca de la Mansion Servigny."
+
+"Restos mortais de residentes próximos da Mansão Servigny."
+
+
+No.28 Ectoplasm *
+"Cotton-like substance that oozes from corpses filled with regret."
+
+"Sustancia como algodon que exude de cadaveres llenos de lamentos."
+
+"Substância como algodão que escorre de cadáveres cheios de arrependimento."
+
+
+No.29 Bone Pillar
+"The skeletal remains of a dinosaur neck animated by magic."
+
+"Restos mortales esqueleticos de un cuello de dinosaurio, animados por magia."
+
+"Restos mortais do pescoço de um dinossauro animado magicamente."
+
+
+No.30 Jeanne De Servigny (sub-boss)
+"The haunted spirit of Jeanne De Servigny (1585-1668)"
+
+"El espiritu embrujado de Jeanne De Servigny (1585-1668)"
+
+"Espírito assombrado de Jeanne De Servigny (1585-1668)."
+
+
+No.31 Count Servigny (boss) *
+"Maximilien Count of Servigny (1605-1899) 
+Made a pact with demons to extended his lifespan."
+
+"Maximilien Conde de Servigny (1605-1899) 
+Hizo un pacto con demonios para extender su vida."
+
+"Maximilien Conde de Servigny (1605-1899) 
+Fez um pacto com os demônios para viver mais."
+
+
+No.32 Mega Raven
+"Crows enlarged by the evil power hovering over the La Tourvelle Earldom."
+
+"Cuervos agrandados por el poder maldito que perdura sobre el Condado de La Tourvelle."
+
+"Corvos aumentados pelo poder maligno pairando sobre o Condado La Tourvelle."
+
+No.33 Tarentul *
+"Mutated Tarentuls capable to launch venom at its foes"
+
+"Tarentuls mutados capaces de lanzar veneno a sus enemigos."
+
+"Tarentuls capazes de lançar veneno contra suas vítimas."
+
+
+No.34 Death Mushroom *
+"Mutated Mushrooms capable of spreading their spores further."
+
+"Hongos mutantes capaces de esparcis sus esporas lejos."
+
+"Cogumelos mutantes capazes de espalhar esporos mais longe."
+
+
+No.35 Snake
+"Snakes driven to violence under the corruption of La Tourvelle Earldom."
+
+"Culebras violentizadas bajo la corrupcion del Condado de La Tourvelle."
+
+"Cobras levadas à violência pela corrupção do Condado La Tourvelle."
+
+
+No.36 Flea man 
+"These Flea men are more fortunate than their cousins in Rome"
+
+"Estos Flea men son mas afortunados que sus contrapartes en Roma."
+
+"Estes Flea men têm mais sorte do que suas contrapartes em Roma."
+
+No.37 Bird *
+"Flea men love to travel riding on these birds."
+
+"A los Flea Men les encantan viajar montandos en estos pajaros."
+
+"Flea men gostam de viajar montados nesses pássaros."
+
+
+No.38 Black Panther
+"A jet-black beast that runs with great speed."
+
+"Bestia negra que corre en alta velocidad."
+
+"Animal preto como a noite que corre em alta velocidade."
+
+Page 3
+No.39 Frozen Eye
+"A special one-eye monster which keeps floating in the air despite being frozen"
+
+"Un monstruo con solo un ojo, el cual se queda flotando en el aire aunque este helado."
+
+"Um monstro com um olho só que flutua no ar apesar de estar congelado."
+
+
+No.40 Frozen Bones
+"The frozen remains of residents near th La Perdrix District"
+
+"Loa restos mortales congelados de residentes por cerca del Distrito de La Perdrix."
+
+"Os restos congelados dos residentes próximos do Distrito La Perdrix."
+
+
+No.41 Frozen Shade
+"A wraith that can freeze the air."
+
+"Una aparicion que puede helar el aire."
+
+"Uma aparição que pode congelar o ar."
+
+
+No.42 Death Wall (sub-boss)
+"Cursed wall that advances nonstop. The skeleton trapped on it casts freezing spells."
+
+"Muro maldecido que avanza sin parar.  El esquelto atrapado adentro lanza hechizos congelantes."
+
+"Parede maldita que avança sem parar. O esqueleto preso nela lança feitiços congelantes."
+
+
+N0.43 Caged Corpse (boss) *
+"The corpse of a giant demon frozen in Rivoire Cave"
+
+"El cadáver de un demonio gigante congelado en la Caverna Rivoire."
+
+"O cadáver de um demônio gigante congelado na Caverna Rivoire."
+
+
+No.44 Caged Corpse Hand *
+"Hands belonging to the frozen giant demon."
+
+"Manos que pertenecen al demonio gigante congelado."
+
+"As mãos que pertencem ao demônio gigante congelado."
+
+
+No.45 Mud Man
+"A figure made of mud, imbued with a tormented soul."
+
+"Una figura hecha de lodo, permeada con una alma atormentada."
+
+"Uma figura criada da lama, preenchida de uma alma atormentada."
+
+
+No.46 Ghost Skull
+"A special skull that flies through the air. Usually hidden in the night sky of La Tourvelle earldom."
+
+"Un craneo fantasma que vuela por el aire. Usualmente escondido en el cielo nocturno del condado de La Tourvelle."
+
+"Um crânio fantasmagórico que se esconde no céu noturno do Condado La Tourvelle."
+
+
+No.47 Medusa Head
+"A monster created in great numbers from the head of Medusa."
+
+"Un monstruo creado en masa, de la cabeza de Medusa."
+
+"Um monstro criado em massa da cabeça da Medusa."
+
+
+No.48 Frozen Skull
+"Unlike the Ghost Skulls, these monsters are frozen so they cannot hide their appearances"
+
+"Diferentemente que los Ghost Skulls, estos monstruos estan congelados, y por eso no pueden esconder su forma."
+
+"Diferente dos Ghost Skulls, esses monstros congelados não podem esconder sua real forma."
+
+No.49 Wharg
+"Wolves which guard the entrance of Sarelle Cemetery."
+
+"Lobos que guardan la entrada al Cementerio Sarelle."
+
+"Lobos que guardam a entrada do Cemitério Sarelle."
+
+
+No.50 Blood Skeleton
+"A skeleton warrior that has absorbed blood. It can regenerate."
+
+"Un guerrero esqueletico que ha absorbido sangre. Por eso se puede regenerar."
+
+"Guerreiro esqueleto que absorveu sangue. Pode se regenerar."
+
+No.51 Spectral Girl *
+"Ghosts of dead female locals which control spiritual powers"
+
+"Fantasmas e mujereles locales, que controlan poderes espirituales."
+
+"Fantasmas de mulheres locais que controlam poderes espirituais."
+
+
+No.52 Tombstone
+"A gravestone that rattles around violently."
+
+"Una lapida que se estremece violentamente."
+
+"Uma lápide que chacoalha violentamente por aí."
+
+
+No.53 Widow
+"Women sobbing in pain"
+
+"Mujeres sollozando en dolor."
+
+"Mulheres chorosas de dor."
+
+
+No.54 Efrain Fake (Doppelganger boss)
+"A demon who assumes the form of its intended victims before killing them."
+
+"Un demonio que asume la forma de sus victimas intendidas, antes de matarlas."
+
+"Demônio que assume a forma da vítima que pretende matar."
+
+
+No.55 Poisoned Ectoplasm *
+"A special variation of Ectoplasm consisting of poisonous substance."
+
+"Una variacion especial del Ectoplasm, consistiendose de una sustancia venenosa."
+
+"Variação especial de ectoplasma feito de substância venenosa."
+
+
+No.56 Upended Yorick
+"A special variation of skeleton which can step on the ceiling, upside down"
+
+"Una variacion especial de esqueleto, que puede caminar en el techo, cabeza abajo."
+
+"Variação especial de esqueleto que caminha de cabeça para baixo."
+
+
+No.57 Hornet *
+"Hornets that emerged from the painting."
+
+"Avispas que emergen de la pintura."
+
+"Vespas que emergiram da pintura."
+
+
+PAGE 4
+No.58 Schmoo
+"No weapon like Crissaegrim exists in the Duchy of Guillecourt. Save your time with this monster."
+
+"Ninguna arma como la Crissaegrim existe en el Ducado de Guillecourt. No gastes tiempo con este monstruo."
+
+"Não existe Crissaegrim no Ducado de Guillecourt. Então, não perca seu tempo com ele."
+
+
+No.59 BowKnight *
+"Armored knights equipped with arrows, capable of chasing opponents."
+
+"Caballeros con armadura, equipados con arco y flechas, capaces de perseguir sus oponentes."
+
+"Cavaleiros de armadura equipados com flechas, capazes de perseguir oponentes."
+
+
+No.60 Count La Tourvelle (boss)
+"Nicolas Xavier de La Tourvelle (1734-1781)
+Betrayed by Heloise after making a pact with demons."
+
+"Nicolas Xavier de La Tourvelle (1734-1781)
+Traicionado por Heloise despues de hacer un pacto con demonios."
+
+"Nicolas Xavier de La Tourvelle (1734-1781)
+Traído por Heloise depois de fazer pactos com demônios."
+
+
+No.61 Lotus Corpse *
+"Corpses of humans which were victims of the Black Lotus."
+
+"Cadáveres de humanos que fueron victimas de la Black Lotus."
+
+"Cadáveres humanos vitimados pela Black Lotus."
+
+
+No.62 Balloon Pod
+"A plant that scatters sharp spores."
+
+"Una planta que esparce esporas afiladas."
+
+"Uma planta que espalha esporos afiados."
+
+
+No.63 Fatal Chest *
+"A demonically-possessed chest capable of spitting human bones."
+
+"Un cofre endemoniado capaz de escupir huesos humanos."
+
+"Um baú endemoninhado que é capaz de cuspir ossos humanos."
+
+
+No.64 Floating Eye 
+"A creature that keeps watch in front of the Castle of Eternal Night."
+
+"Una criatura que vigila el frente del Castillo de la Noche Eterna."
+
+"Uma criatura mantendo vigilha na frente do Castelo da Noite Eterna."
+
+No.65 Horned Bat *
+"Enlarged mutant bat. Also gained a pair of horns."
+
+"Murcielago agrandado mutante.  Tambien crecio un par de cuernos."
+
+"Morcego mutante aumentado que também ganhou um par de chifres."
+
+
+No.66 Merman
+"This aquatic hunter spots prey from the water before leaping."
+
+"Este cazador aquatico detecta presas desde el agua antes de saltar."
+
+"Esse caçador aquático vigia a presa antes de pular pra fora da água."
+
+
+No.67 Hunter Skeleton
+"A skeleton warrior armed with an old musket."
+
+"Un guerrero esqueletico armado con un mosquete viejo."
+
+"Um esqueleto armado cuja mira torna um mosquete velho extremamente mortal."
+
+
+No.68 Withered Plant
+"A special plant which seed contains unique toxin, capable to make people powerless upon contact"
+
+"Una planta especial de la cual sus semillas tienen una toxina particular, capaz de debilitar gente. "
+
+"A semente desta planta contém uma toxina capaz de tornar aquele que a toca inofensivo."
+
+
+No.69 Urchain
+"A hard-shelled sea urchin. Corrupt water made it unsuitable as delicacy."
+
+"Un erizo del mar con carapacho duro. Agua corrupta lo ha hecho malo como exquisitez."
+
+"Ouriço marinho de casca dura. Corrupção na água o torna impróprio para consumo."
+
+
+No.70 Decarabia
+"A five-legged demon servant."
+
+"Un demonio sirviente con cinco piernas."
+
+"Servo demoníaco de cinco pernas."
+
+
+No.71 Jellyfish * 
+"A demonic creature from the oceans of the underworld."
+
+"Criatura demoníaca de los oceanos del infierno."
+
+"Criatura demoníaca vinda dos oceanos do submundo."
+
+
+No.72 Dark Nun *
+"Nuns in the local nun concil, fallen prey to the darkness."
+
+"Monjas del concilio local, que cayeron victimas al mal."
+
+"Freiras do conselho local que foram vítimas das trevas."
+
+
+No.73 Mygale Spider *
+"Mutant spiders enlarged 20 times their original size."
+
+"Arañas mutantes engrandadas a 20 veces su tamaño original."
+
+"Aranhas mutantes aumentadas 20 vezes do seu tamanho original."
+
+
+No.74 Red Ectoplasm
+"A special variation of Ectoplasm filled with blood"
+
+"Variante especial de la Ectoplasma, rellena de sangre."
+
+"Variação especial de ectoplasma preenchido de sangue."
+
+
+No.75 Constance D' Albaret (boss) *
+
+"Constance D'Albaret (1740-1781)
+When demons approached the convent, she took a decoration cross away"
+
+"Constance D'Albaret (1740-1781)
+Cuando los demonios se aproximaban al convento, ella requisó una cruz de decoracion."
+
+"Constance D'Albaret (1740-1781)
+Ela escondeu uma cruz decorativa quando os demônios invadiram."
+
+
+No.76 Large Slime
+"A creature made of a slimy gel."
+
+"Criatura hecha de un gel baboso."
+
+"Criatura feita de um gel cremoso."
+
+Page 5
+No.77 Living Curse
+"Surronded by hatred and curse"
+
+"Envuelto en odio y maldición."
+
+"Envolto em ódio e maldição."
+
+
+No.78 Wicked Scientist
+"Came to Guernon University to offer assistance in Chemistry research."
+
+"Vino a la Universidad Guernon a ofrecer ayuda en los estudios de Química."
+
+"Veio para a Universidade Guernon para ajudar na pesquisa de Química."
+
+
+No.79 Poltergeist
+"Enchanted furnishings possessed by a spirit summoned in a seance."
+
+"Muebles poseídos por un espiritu invocado en una sesión espiritista."
+
+"Móveis possuídos por um espírito invocado em uma sessão espirita."
+
+
+No.80 Corpse Guest (boss)
+"Guernon University's guests were murdered in this dormitory when the demons invaded the region."
+
+"Los huespedes de la Universidad de Guernon fueron asesinados en este dormitorio, cuando los demonios invadieron la region."
+
+"Convidados da Universidade Guernon morreram neste quarto quando demônios invadiram a região."
+
+
+No.81 Golden Skeleton
+"A skeleton made of a hard, unknown material similar to gold."
+
+"Un esqueleto hecho de un material desconocido y duro, similar en color a oro."
+
+"Um esqueleto feito de um metal desconhecido, similar a ouro."
+
+
+No.82 Head *
+"These severed heads don't match the headless zombies."
+
+"Estas cavezas decapitadas no coinciden a los cuellos de los zombies decapitados."
+
+"Essas cabeças decepadas não encaixam nos zumbis sem cabeça."
+
+
+No.83 Slogra
+"A fiend that serves the Grim Reaper. It fights on the ground with a spear."
+
+"Un malvado que sirve a La Muerte. Lucha sobre el terren con una lanza."
+
+"Um demônio que serve o Ceifador. Ele luta no chão usando uma lança."
+
+
+No. 84 Headless Zomble
+"Unlike their peers outside the Castle of Eternal Night, these have their heads missing."
+
+"A diferencia que la version que esta afuera del Castillo de la Noche Eterna, estos han perdido sus cabezas."
+
+"Diferente daqueles fora do Castelo da Noite Eterna, estes zumbis perderam suas cabeças."
+
+
+No.85 Murderer *
+"Wandering ghosts filled with evil intentions."
+
+"Fantasmas errantes rellenos con intenciones malvadas."
+
+"Fantasmas errantes cheios de intenções perversas."
+
+
+No.86 Wicked Head
+"Creatures generated from evil forces in the castle"
+
+"Criaturas generadas pos fuerzas malvadas en el castillo."
+
+"Criaturas geradas por forças maldosas no castelo."
+
+
+
+No.87 Golden Dragon
+"Enhanced bone dragons made of a hard, unknown material similar to gold."
+
+"Dragones de hueso acentuados, hechos de un material desconocido duro, similar en color a oro."
+
+"Dragões de ossos aprimorados. Feitos de metal desconhecido similar a ouro."
+
+
+No.88 Occupied Wheel *
+"Wheels in the Castle's clockwork made functional by devils"
+
+"Ruedas del mecanismo del reloj del Castillo, funcionando por diablos."
+
+"Engrenagens do relógio do castelo funcionando graças à demônios."
+
+
+No.89 Dark Wanderer *
+"Creatures always seen hanging from ropes."
+
+"Criaturas siempre vistas colgadas por cuerdas."
+
+"Criaturas sempre vistas penduradas em cordas."
+
+
+No.90 Malus
+"Hunchbacks with their faces hidden"
+
+"Jorobados con sus caras ocultas."
+
+"Corcundas que escondem suas faces."
+
+
+No.91 Spell Book
+"Book of ancient spells."
+
+"Libro de hechizos antiguos."
+
+"Livro de feitiços antigos."
+
+
+No.92 Trap Statue (sub boss) *
+"Statue connected with defensive traps to dispose of intruders."
+
+"Estatua conectada a trampas defensivas, para despachar a intrusos."
+
+"Estátua conectada a armadilhas defensivas para repelir intrusos."
+
+
+No.93 Giant Fish
+"Rumors said that this fish swims in the Azure Lake during the night."
+
+"Hay rumores que este pez nada en el Lago Azul en la noche."
+
+"Rumores dizem que este peixe nada no Lago Azure durante a noite."
+
+
+No.94 Death Plant *
+"Demonic plant that invaded the park in Delbasse City."
+
+"Planta demoníaca que invadió el parque en Ciudad Delbasse. "
+
+"Planta demoníaca que invadiu o parque na Cidade Delbasse."
+
+
+No.95 Lost Head
+"Severed head of a man with complex emotions"
+
+"Cabeza decapitada de un complejamente emocioniado."
+
+"Cabeça decepada de um homem com emoções complicadas."
+
+
+Page 6
+No.96 Two Headed Skeleton 
+"A special variation of skeleton with two heads. Can throw bones in two different arcs."
+
+"Una variedad especial de esqueleto con cos cabezas. Puede tirar huesos en dos trayectorias diferentes."
+
+"Uma variação especial de esqueleto com duas cabeças. Atira ossos em dois arcos diferentes."
+
+
+No.97 Bust
+"A special variation of bust which can float in the air"
+
+"Una variedad especial de busto el cual puede flotar en el aire."
+
+"Uma variação especial de busto que pode flutuar pelos ares."
+
+
+No.98 Flying Picture *
+"Picture frame with hunchbacks drawn in it."
+
+"Cuadro con un dibujo de jorobados."
+
+"Quadro com uma pintura de corcundas nele."
+
+
+No.99 Modern Art
+"Art statues with element combinations difficult for humans to understand"
+
+"Estatuas artisticas con combinaciones de elementos dificil que humanos comprendan."
+
+"Uma estátua feita de uma combinação de elementos difíceis para humanos compreenderem."
+
+
+No.100 Artwork
+"Artworks built upon different parts of human bodies"
+
+"Obras de arte armadas por diferentes partes de cuerpos humanos."
+
+"Peças de arte formadas de partes diferentes de corpos humanos."
+
+
+No.101 Hell Picture (boss)
+"A large frame with several corpses sealed behind it"
+
+"Un cuadro de pintura con varios cadáveres sellados atras de el."
+
+"Uma pintura imensa com diversos cadáveres selados por trás dela."
+
+
+No.102 Autumn Man
+"A shy spirit which tend to use leaves of escape from human sight"
+
+"Un espiritu tímido que suele usar hojas para escapar de vista humana."
+
+"Um espírito tímido que costuma usar folhas para escapar do olho humano."
+
+
+No.103 Grave Digger
+"Special skeletons with an unpleasant aura reminiscent of graves"
+
+"Esqueletos especiales con una aura desagradable tal cual como de sepulturas."
+
+"Esqueletos estranhos com uma aura desagradável tal qual uma cova."
+
+
+No.104 Ice Bird *
+"Demonic ice shaped like a bird."
+
+"Hielo demoníaco en forma de pájaro."
+
+"Gelo demoníaco na forma de um pássaro."
+
+
+No.105 Frozen Mask *
+"Gigantic masks made of frozen spirits."
+
+"Máscaras gigantes hechas de espiritus congelados."
+
+"Máscaras gigantes feitas de espíritos congelados."
+
+
+No. 106 Water Element
+"Water bubbles only seen in warm and wet spots"
+
+"Burbujas de agua visas solamente en lugares tibios y humedos."
+
+"Bolhas d'água vistas apenas em locais húmidos e quentes."
+
+
+No.107 Water Spirit
+"A spirit rarely seen in front of the fountain"
+
+"Un espirisu raramente visto en frente de la fuente."
+
+"Um espírito raramente visto na frente da fonte."
+
+
+No.108 White Flower
+"A special flower which only appears in Spring"
+
+"Una flor especial que solo aparece en la Primavera."
+
+"Uma flor especial que desabrocha apenas na Primavera."
+
+
+No.109 Nightmare Plant (boss) *
+"Demonic plant capable of controlling the seasons in the Four Seasons Hall."
+
+"Planta demoníaca capaz de controlar las estaciones en el Salon de las Cuatro Estaciones."
+
+"Planta demoníaca capaz de alterar as estações no Salão das Quatro Estações."
+
+
+No.110 Weed
+"An eerie grass that feeds on blood."  
+
+"Una pastura espeluznante que se alimenta con sangre."
+
+"Grama estranha que se alimenta de sangue."
+
+
+No.111 Cursed Skeleton *
+"Skeletons indestructible except for holy magic."
+
+"Esqueletos indestruibles, excepto a magia sagrada."
+
+"Esqueletos indestrutíveis exceto por magia sagrada."
+
+
+No.112 Golden Pillar
+"Enhanced bone pillars made of a hard, unknown material similar to gold."
+
+"Pilares de huesos acentuados, hechos de un material desconocido duro, similar en color a oro."
+
+"Pilar de ossos aprimorado. Feito de um metal desconhecido similar a ouro."
+
+
+No.113 Fire Shade
+"A wraith that can control the heat."
+
+"Un espectro que puede controlar calor."
+
+"Um espectro que pode controlar o calor."
+
+
+No.114 Blood Barrel *
+"An unique wine barrel with blood occasionally dripping from it."
+
+"Un curioso barril de vino que ocasionalmente gotea sangre."
+
+"Um barril de vinho único de onde sanque ocasionalmente pinga."
+
+Page 7
+No.115 Bloody Zombie
+"Eastern Church soldiers dispatched 300 years ago."
+
+"Soldados de la Iglesia Ortodoxa, matados hace 300 años."
+
+"Soldados despachados pela Igreja Ortodoxa 300 anos atrás."
+
+
+No.116 Giant Skeleton
+"A giant condemned in ages past."
+
+"Un gigante que fue condenado en una era pasada."
+
+"Um gigante condenado eras atrás."
+
+
+No.117 Necromancer (sub boss)
+"Uses black magic to summon a stream of deadly lightning blast"
+
+"Utiliza magia negra para invocar una ráfaga de relampagos letales."
+
+"Utiliza magia negra para invocar um feixo de raios mortal."
+
+
+No.118 Cage
+"Used by haunted spirits in the Castle to trap foes"
+
+"Utilizada por espiritus embrujados en el Castillo, para capturar enemigos."
+
+"Utilizado por espíritos assombrados do castelo para capturar inimigos."
+
+
+No.119 Arachne
+"A spider which bodily fluids are highly toxic."
+
+"Una araña cuyos fluidos corporales son altamente toxicos."
+
+"Uma aranha cujos fluídos corporais são altamente tóxicos."
+
+
+No.120 Nephilia *
+"A furious spider nest in the Castle, spits venom tirelessly"
+
+"Un nido de arañas furioso que existe en el Castillo, el cual escupe veneno sin cansansio."
+
+"Um ninho de aranhas furioso no castelo. Cospe veneno incansavelmente."
+
+
+No.121 Stone Rose
+"A carnivorous plant that grew and developed a taste for human flesh."
+
+"Una planta carnivora que creció y adquirió gusto por carne humana."
+
+"Uma planta carnívora que cresceu e adquiriu gosto por carne humana."
+
+
+No.122 Carpet
+"Carpets animated through the works of poltergeists"
+
+"Alfombras animadas por travesuras de espíritus burlónes."
+
+"Carpetes animados pela travessura de poltergeists."
+
+
+No.123 Clothes
+"Clothes animated through the works of poltergeists"
+
+"Ropa animada por travesuras de espíritus burlónes."
+
+"Roupas animadas pela travessura de poltergeists."
+
+
+No.124 Axe Armor
+"An armored warrior equipped with a devastating axe."
+
+"Guerrero en armadura, equipado con una hacha devastadora."
+
+"Guerreiro de armadura equipado com um machado devastador."
+
+
+No.125 Yellow Ectoplasm
+
+"A special variant of Ectoplasm that takes away human's strength upon contacting"
+
+"Una variedad especial de Ectoplasma, que debilita a humanos cuando los toca."
+
+"Variante especial de ectoplasma que rouba a força da vítima com quem faz contato."
+
+
+No.126 Pudding
+"Gets this name because of its glue-like shape"
+
+"Recibió ese nombre por su pegajosa consistencia." 
+
+"Recebe esse nome pela sua consistência parecida com cola."
+
+
+No.127 Lost Skull
+"Differs from Lost Head by never having had a physical body and hiding from human sight."
+
+"Se distingue que la Lost Head por nunca haber tener cuerpo fisico, y por ocultarse a la vision humana."
+
+"Não ter um corpo físico e se esconder da visão humana o difere do Lost Head."
+
+
+No.128 Lady Zombie
+"Ladies buried near the corpse of Anna Von Viltheim"
+
+"Damas enterradas cerca de el cadáver de Anna Von Viltheim."
+
+"Senhoras que foram enterradas próximas do corpo de Anna Von Viltheim."
+
+
+No.129 Sadan Chair
+"Two skeletons carrying the sadan chair, with a headless female sitting on it"
+
+"Des esqueletos cargando un Palanquín, con una mujer decapitada sentada en el."
+
+"Dois esqueletos carregando uma cadeira de sadan, com uma moça sem cabeça sentada nela."
+
+
+No.130 Flower Maid
+"Maids tidy and clean the grave of Anna Von Viltheim"
+
+"Empleada que limpia la tumba de Anna Von Viltheim."
+
+"Empregadas mantendo a cova de Anna Von Viltheim limpa."
+
+
+No.131 Anna Von Viltheim (sub boss) *
+"The Corpse of Anna Von Viltheim, tormented for a hundred years."
+
+"El Cadáver de Anna Von Viltheim, atormentado por un siglo."
+
+"O cadáver de Anna Von Vilthem, atormendado por um século."
+
+No.132 Leviathan (boss)
+"A humongous amalgamation of human corpses."
+
+"Una enorme combinacion de cuerpos humanos."
+
+"Uma amálgama gigantesca de corpos humanos."
+
+
+No.133 Goliath *
+"Highest ranked among all Axe Armors. Guards the most important area of the Castle."
+
+"Una Armadura de Hacha de alto rango. Guarda la parte del castillo mas importante."
+
+"Axe Armor com a maior patente de todas. Guarda o local mais importante do castelo."
+
+Page 8
+No.134 Devil Worshipper A
+"One of the Devil Worshippers, attacks his foes by throwing sickles."
+
+"Uno de los devotas del Diablo, ataca sus enemigos tirando hozes."
+
+"Um dos Adoradores do Diabo. Ataca os inimigos arremessando foices."
+
+
+No.135 Devil Worshipper B
+"One of the Devil Worshippers, attacks his foes by throwing swords."
+
+"Uno de los devotas del Diablo, ataca sus enemigos tirando espadas."
+
+"Um dos Adoradores do Diabo. Ataca os inimigos arremessando espadas."
+
+
+No.136 Hunting Girl
+"An angel who hunts and slaughters man-beasts."
+
+"Una angel que caza y masacra hombre-bestias."
+
+"Um anjo que caça e destrói homens-besta."
+
+
+No.137 Decorative Head
+"For Decorative use at the rooms with illusions"
+
+"Para uso decorative en los cuartos con ilusiones."
+
+"Para uso decorativo em salas com ilusões."
+
+
+No.138 Illusionist (boss) *
+"Uses magic to confuse opponents in Illusion Chamber"
+
+"Usa magia para confundir sus enemigos en la Camara de Ilusion."
+
+"Utiliza magia para confundir os oponentes da Câmara Ilusória."
+
+
+No.139 Devil Worshipper C *
+"One of the Devil Worshippers, attacks his foes by throwing flasks filled with dark matter."
+
+"Uno de los devotas del Diablo, ataca sus enemigos tirando botellas llenas de materia oscura."
+
+"Um dos Adoradores do Diabo. Ataca os inimigos arremessando frascos cheios de matéria escura."
+
+
+No.140 Bow Master *
+"Bow Armors that guard the most important area of the Castle."
+
+"Armadura arquera que guarda la parte mas importante del Castillo."
+
+"Armaduras arqueiras que guardam a parte mais importante do castelo."
+
+
+No.141 Balkan
+"In addition to the capability to cast multiple spells, he's more physically durative than other Necromancers"
+
+"Capable of casting multiple spells, and more physically durable than other Necromancers."
+
+"En adicion a su abilidad de hechizar multiples encantos, el es mas fisicamente fuerte que otros nigromantes."
+
+"Capaz de lançar múltiplos feitiços, e mais fisicamente resistente que outros Necromantes."
+
+
+No.142 Shroud *
+"Shroud enshrouding spirits."
+
+"Mortaja que envuelve espiritus."
+
+"Mortalhas que abrigam espíritos."
+
+
+No.143 Gaibon
+"A fiend that serves the Grim Reaper. It can spit fire while flying."
+
+"Un malvado serviente de La Muerte. Puede escupir fuego mientras vuela."
+
+"Um demônio que serve o Ceifador. Ele pode cuspir fogo enquanto voa."
+
+
+No.144 Evil Slogra *
+"The wicked shadow of a fiend that serves the Grim Reaper. Fights on the ground with a spear."
+
+"La sombra macabra de un malvado sirviente de La Muerte.  Lucha en tierra fija, con una lanza."
+
+"Sombra perversa do demônio que serve o Ceifador. Luta no chão usando uma lança."
+
+No.145 Death (boss)
+"Sought to revive Lord Dracula by luring Efrain to France to rid the castle of Lucifer worshippers."
+
+"Trato de revivir al Señor Dracula, atrayendo a Efrain hasta Francia, para purgar el castillo de devotas de Lucifer."
+
+"Buscou reviver Drácula atraindo Efrain para a França, para limpar o castelo do culto de Lúcifer."
+
+
+No.146 Duke Guillecourt (boss)
+"Henri de Guillecourt (1717-1781) 
+Holds a Dark Ritual in order to summon the Fallen Angel"
+
+"Henri de Guillecourt (1717-1781)
+Llevó a cabo un Ritual Oscuro para invocar al Angel Caido."
+
+"Henri de Guillecourt (1717-1781) 
+Realizou um ritual escuro para invocar o Anjo Caído." 
+
+
+No.147 Servigny Shadow (sub boss)
+"Shadow of Maximilien Count of Servigny"
+
+"Sombra de Maximilien, Conde de Servigny."
+
+"Sombra de Maximilien Conde de Servigny"
+
+
+No.148 La Tourvelle Shadow (sub boss)
+"Shadow of Nicolas Xavier de La Tourvelle"
+
+"Sombra de Nicolas Xavier de La Tourvelle."
+
+"Sombra de Nicolas Xavier de La Tourvelle"
+
+
+No.149 Albaret Shadow (sub boss)
+"Shadow of Constance D'Albaret"
+
+"Sombra de Constance D'Albaret."
+
+"Sombra de Constance D'Albaret"
+
+
+No. 150 Angels of Death
+"Lucifer's servants"
+
+"Sirvientes de Lucifer."
+
+"Servos de Lúcifer."
+
+
+No. 151 Altered Lucifer (boss)
+"The Fallen Angel who brings Eternal Light. The botched ritual summoned him only partially."
+
+"El Angel Caido cual trae la Luz Eterna. El rito estropeado lo invocó solamente parcialmente. "
+
+"O Anjo Caído que traz a Luz Eterna. O ritual interrompido o trouxe de forma incompleta."
+
+
+No.152 Efrain Fake 2 (Doppenganger II boss)
+"A foul fiend that nests inside mirrors."
+
+"Un malvado sucio, que se esconde en reflejos de espejo."
+
+"Demônio asqueroso que se esconde nos espelhos."
