@@ -61,6 +61,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `CHANGED` - Terminate dx11 text size problems once and for all without breaking the vanilla dx9 text formula. (Aceearly1993)   
 `ADDED` - Instructions to make the game run in 1:1 pixel perfect mode.  (Aceearly1993)   
 `FIXED` - A irregular behavior that Attack motion will pull out after choosing a destination of ferryman/Garden of the Dead entrance statue.  (Aceearly1993)   
+`FIXED` - Hunter skeleton's HP information in enemy bestiary which was wrong in vanilla.  (Aceearly1993)   
 
 
 #### [1.4.3] - 2024/3/12 #### 
