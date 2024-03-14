@@ -27,6 +27,16 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 A reworked version of the keyboard control created by DragonX24.
 This file must be placed in the same directory the game locates if you downloaded the game and moved the game files to a fresh new location.
 
+#### NEW Hotkey Functions #### 
+
+Due to the limitation of original GUI, there're instructions to some new functions that cannot be directly embedded in the GUI...
+- Toggle anti-alias on/off: F5/F6
+
+To make the game display 1:1 pixel perfect scale:
+- You must make sure the display monitor's vertical size is above 1000.
+- You must make sure the windows display scale is exact 100%.
+- Toggle anti-alias to off after opening the game.
+
 
 #### Read this if antivirus softwares flagged the game as Malware ####
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
@@ -46,6 +56,14 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.4] - 2024/3/16 #### 
+
+`CHANGED` - Terminate dx11 text size problems once and for all without breaking the vanilla dx9 text formula. (Aceearly1993)   
+`ADDED` - Instructions to make the game run in 1:1 pixel perfect mode.  (Aceearly1993)   
+`FIXED` - A irregular behavior that Attack motion will pull out after choosing a destination of ferryman/Garden of the Dead entrance statue.  (Aceearly1993)   
+
+
+#### [1.4.3] - 2024/3/12 #### 
 (Catoblepas)  
 `ADDED` - Port the Gorgon 1.4.2 changes on Air Dash (Github issue #43) to Catoblepas build (1.4.0). (Aceearly1993)  
 
