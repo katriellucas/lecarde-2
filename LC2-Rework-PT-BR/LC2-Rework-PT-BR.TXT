@@ -276,7 +276,7 @@ Possui grande poder. Aumenta a velocidade de carregamento de Aura.
 
 P41:
 Allows the wearer to stay underwater without drowning.
-Permite o usuário permancer submerso sem se afogar.
+Permite o usuário permanecer submerso sem se afogar.
 
 P42:
 Has the power to dispel illusions in the CHAMBER OF ILLUSIONS.
@@ -2823,7 +2823,7 @@ Enquanto eu guardava a Galeria dos Horrores, uma cópia de mim mesmo saltou do e
 
 P36: 
 I couldn't hurt it with my own sword and had to run away...
-Eu não conseguia ferí-la com minha espada, e tive de fugir...
+Eu não conseguia feri-la com minha espada, e tive de fugir...
 
 P37: 
 I lost my sword during the fight, but fortunately I have managed to find a similar one.
@@ -3177,7 +3177,7 @@ O portão reagiu ao EMBLEMA DE CAVEIRA.
 
 P2:
 Equip the appropriate armor to get through the BLACK and WHITE energy rays.
-Equipe a armadura apropriada para atravessar os raios BRANCO e NEGRO de eneregia.
+Equipe a armadura apropriada para atravessar os raios BRANCO e NEGRO de energia.
 
 P3:
 The HOLY AURA BLAST's level max has increased.

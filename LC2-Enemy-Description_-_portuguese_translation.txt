@@ -36,7 +36,7 @@ No.4 Dead Fleaman *
 
 "受暗黑力量影响而能重新行动的跳蚤男的尸骸"
 
-"Cadáveres de Fleamen reanimados pela influência das trevas."
+"Cadáveres de Homens-pulgas reanimados pela influência das trevas."
 
 
 No.5 Bat *
@@ -290,14 +290,14 @@ No.36 Flea man
 
 "这些跳蚤男相比罗马地区的同族来说非常幸运"
 
-"Estes Flea men têm mais sorte do que suas contrapartes em Roma."
+"Estes Homens-pulgas têm mais sorte do que suas contrapartes em Roma."
 
 No.37 Bird *
 "Flea men love to travel riding on these birds."
 
 "跳蚤男们喜欢乘着这些阿泰尔鹰到处欣赏风景"
 
-"Flea men gostam de viajar montados nesses pássaros."
+"Homens-pulgas gostam de viajar montados nesses pássaros."
 
 
 No.38 Black Panther
@@ -856,7 +856,7 @@ No. 106 Water Element
 
 "只在温暖且有水的地方出现的特殊水泡"
 
-"Bolhas d'água vistas apenas em locais húmidos e quentes."
+"Bolhas d'água vistas apenas em locais úmidos e quentes."
 
 
 No.107 Water Spirit
@@ -920,7 +920,7 @@ No.114 Blood Barrel *
 
 "特殊的酒桶，里面时常会流出血"
 
-"Um barril de vinho único de onde sanque ocasionalmente pinga."
+"Um barril de vinho único de onde sangue ocasionalmente pinga."
 
 Page 7
 No.115 Bloody Zombie
@@ -944,7 +944,7 @@ No.117 Necromancer (sub boss)
 
 "会使用黑魔导术召唤致命的闪电屏障"
 
-"Utiliza magia negra para invocar um feixo de raios mortal."
+"Utiliza magia negra para invocar um feixe de raios mortal."
 
 
 No.118 Cage
@@ -1057,7 +1057,7 @@ No.131 Anna Von Viltheim (sub boss) *
 
 "安娜.冯.维尔特海姆的尸骸，带着痛苦与遗憾沉睡了百余年"
 
-"O cadáver de Anna Von Vilthem, atormendado por um século."
+"O cadáver de Anna Von Vilthem, atormentado por um século."
 
 No.132 Leviathan (boss)
 "A humongous amalgamation of human corpses."
