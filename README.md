@@ -61,6 +61,12 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.5] - 2024/3/22 #### 
+
+`ADDED` - Alternate build method of game binary and Infos for alternate build method at readme.  (Aceearly1993)  
+`FIXED` - A irregular behavior that sound effects will get overlap when healing at the save point statue under negative status. (Aceearly1993)  
+
+
 #### [1.4.4] - 2024/3/16 #### 
 
 `CHANGED` - Terminate dx11 text size problems once and for all without breaking the vanilla dx9 text formula. (Aceearly1993)   
