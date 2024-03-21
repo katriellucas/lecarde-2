@@ -37,6 +37,11 @@ To make the game display 1:1 pixel perfect scale:
 - You must make sure the windows display scale is exact 100%.
 - Toggle anti-alias to off after opening the game.
 
+#### About "Alternate build method" #### 
+
+"Alternate build method" is done as an attempt to keep a small quirk away - when saving at save spots, the game will get stuck for several seconds before finally active again.
+This way the game's pack method will be identical to vanilla but will cause antivirus flag to go mad so not recommended unless you want to go with loyalty and purity to vanilla.
+
 
 #### Read this if antivirus softwares flagged the game as Malware ####
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
