@@ -65,6 +65,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 `ADDED` - Alternate build method of game binary and Infos for alternate build method at readme.  (Aceearly1993)  
 `FIXED` - A irregular behavior that sound effects will get overlap when healing at the save point statue under negative status. (Aceearly1993)  
+`FIXED` - An oversight that one text size will exceed length of text box in guide section in German language. (Aceearly1993)  
 
 
 #### [1.4.4] - 2024/3/16 #### 
