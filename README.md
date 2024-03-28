@@ -61,6 +61,12 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.6] - 2024/3/29 #### 
+
+`ADDED` - A copy of title option menu to pause mnu so that players won't have to lose current progress in order to change system settings like control remap and language.  (Aceearly1993)  
+`CHANGED` - Speed of some actions in the actual title option menu screen to reflect the customizations done to the copied option menu inside pause menu.  (Aceearly1993)  
+`CHANGED` - Customizations to config saving mechanic to fit the new config screen.  (DragonX24)  
+
 #### [1.4.5] - 2024/3/22 #### 
 
 `ADDED` - Alternate build method of game binary and Infos for alternate build method at readme.  (Aceearly1993)  
