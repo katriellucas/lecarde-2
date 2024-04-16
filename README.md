@@ -61,6 +61,14 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.7] - 2024/4/17 #### 
+
+`CHANGED` - Update the item pickup display text format so that text is no longer bugged in CHS/JPN after changing language via system config in the midst of item pickup display time period.
+  (Aceearly1993)  
+`CHANGED` - Update the action stage text format so that text is no longer bugged in CHS/JPN after changing language via system config in the midst of stage exploring.
+  (Aceearly1993)  
+`CHANGED` - Minor adjusts to fit the changed text format after implementing system config.  (Aceearly1993)  
+
 #### [1.4.6] - 2024/3/29 #### 
 
 `ADDED` - A copy of title option menu to pause mnu so that players won't have to lose current progress in order to change system settings like control remap and language.  (Aceearly1993)  
