@@ -64,7 +64,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 #### [1.4.8] - 2024/5/3 #### 
 
 `CHANGED` - Logic of return function in title screen/system config so the return key won't get overlapped with confirm key in extreme conditions.  (Aceearly1993)  
-`CHANGED` - UI elements to reflect the changes in title screen/system.  (Aceearly1993)  
+`CHANGED` - UI elements to reflect the changes in title screen/system config.  (Aceearly1993)  
 
 #### [1.4.7] - 2024/4/17 #### 
 
