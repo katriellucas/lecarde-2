@@ -61,6 +61,11 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.8] - 2024/5/3 #### 
+
+`CHANGED` - Logic of return function in title screen/system config so the return key won't get overlapped with confirm key in extreme conditions.  (Aceearly1993)  
+`CHANGED` - UI elements to reflect the changes in title screen/system.  (Aceearly1993)  
+
 #### [1.4.7] - 2024/4/17 #### 
 
 `CHANGED` - Update the item pickup display text format so that text is no longer bugged in CHS/JPN after changing language via system config in the midst of item pickup display time period.
