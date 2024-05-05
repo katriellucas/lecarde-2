@@ -65,6 +65,8 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 `CHANGED` - Logic of return function in title screen/system config so the return key won't get overlapped with confirm key in extreme conditions.  (Aceearly1993)  
 `CHANGED` - UI elements to reflect the changes in title screen/system config.  (Aceearly1993)  
+`CHANGED` - Logic of return function in pause menu/map screen to match the quality in Chronicles of the Wolf.  (Aceearly1993)  
+
 
 #### [1.4.7] - 2024/4/17 #### 
 
