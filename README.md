@@ -61,6 +61,13 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.4.9] - 2024/6/28 #### 
+
+`CHANGED` - Update the item pickup display text format so that text is no longer bugged in several mileseconds before acrossing the action scene transition zones while the pickup textbox is still active.
+  (Aceearly1993)  
+`CHANGED` - Reworked Alucard air dash animation. (ACC (a.k.a."得枫.德广"))  
+
+
 #### [1.4.8] - 2024/5/3 #### 
 
 `CHANGED` - Logic of cursor speed in music box/monster bestiary menus so that they're easier to navigate.  (Aceearly1993)  
