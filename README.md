@@ -66,7 +66,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `CHANGED` - Update the item pickup display text format so that text is no longer bugged in several mileseconds before acrossing the action scene transition zones 
 while the pickup textbox is still active.  (Aceearly1993)  
 `CHANGED` - Reworked Alucard air dash animation. (ACC (a.k.a."得枫.德广"))  
-`FIXED` - Bugged behavior in puppet theater event that can lead to permanently losing Anna V.V. entry in enemy bestiary unless manually edit enemy bestiary region in save file.
+`FIXED` - Bugged behavior in puppet theater event that can lead to permanently losing Anna V.V. entry in enemy bestiary unless manually edit enemy bestiary region in save file.  
 `FIXED` - A vanilla bug which will cause softlocks upon knocked to area transition through dying.  (Aceearly1993)  
 `FIXED` - Incorrect information on mini map before actually explored the area in question.  (Aceearly1993)  
 `ADDED` - Copies of some enemies that can be triggered after beating a certain boss, get rid of the situation 
