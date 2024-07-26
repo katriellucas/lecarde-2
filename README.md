@@ -61,6 +61,16 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.5.0] - 2024/7/26 #### 
+
+`CHANGED` - Position of Enemy bestiary HP/ATK/DEF texts (to match the quality in Chronicles of the Wolf).  (Aceearly1993)  
+`CHANGED` - Update the enemy bestiary text format so that the rare item text will be obscured by darker color scheme if the item in question is yet to be collected. 
+This is done to better visualize if the rare enemy item drop is collected or not. (Aceearly1993)  
+`ADDED` - Function to remember if the game is set in full screen mode or windowed mode (to match the quality in Chronicles of the Wolf). (Aceearly1993)  
+`ADDED` - Copies of event controller objects in order to memorize if the rare enemy drop equipment is collected or not in enemy bestiary. (Aceearly1993)  
+`FIXED` - A vanilla bug which the attack power indicator of V.V. sword did not get instantly updated in the equipment menu. (Aceearly1993)  
+
+
 #### [1.4.9] - 2024/6/28 #### 
 
 `CHANGED` - Update the item pickup display text format so that text is no longer bugged in several mileseconds before acrossing the action scene transition zones 
