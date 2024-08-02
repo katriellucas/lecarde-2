@@ -61,6 +61,13 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.5.1] - 2024/8/2 #### 
+
+
+`ADDED` - Music player function hidden somewhere in the game.  (Aceearly1993)  
+`ADDED` - More event notations in the event groups.  (Aceearly1993)  
+
+
 #### [1.5.0] - 2024/7/26 #### 
 
 
