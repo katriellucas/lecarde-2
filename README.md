@@ -64,7 +64,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 #### [1.5.2] - 2024/8/8 #### 
 
 `CHANGED` - Eliminated the strange vanilla design choice that system hotkeys had used up "Space" keys; More user friendly for Players whose personal preferences are getting used to assign jump to "Space" key.    (Aceearly1993)  
-`CHANGED` - Map screen UI logic to fit the tweaks of Control Config function in title menu and system config screens.    (Aceearly1993)  
+`CHANGED` - UI logic to fit the tweaks of Control Config function in title menu and system config screens.    (Aceearly1993)  
 
 
 #### [1.5.1] - 2024/8/2 #### 
