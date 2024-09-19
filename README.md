@@ -68,6 +68,9 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `ADDED` - Availability of exiting the game without involving of mouse input.     (Aceearly1993)  
 `ADDED` - Availability of saving the current situation of anti-aliasing settings.     (Aceearly1993)  
 `CHANGED` - The term "DEFAULT CONTROLS" to "CONTROL CONFIG" in control setting screen.     (Aceearly1993)  
+`CHANGED` - Priority of attack event in the [move up/down on rope>attack] event string to be roughly the same as Christopher's in Belmont's Revenge.     (Aceearly1993)  
+`CHANGED` - Now you can cancel the delay after a sword swing while crouching (by holding left or right), roughly resembles 
+the properties in Alucard's crouching attack priority in Symphony of the Night.     (Aceearly1993)  
 
 
 #### [1.5.2] - 2024/8/8 #### 
