@@ -21,6 +21,8 @@ In Control Panel→ Devices and printers, find PS4 controller (usually labeled a
 
 The same could be applied to Xbox Controllers by repeating the setup above while your desired Xbox controller is plugged in.
 
+If your controller is NS type we cannot guarantee if it works 100% (too much problems with the game's bottom structure) but we provided baseline support and NS type controller label anyway.
+
 
 #### About "LC2_KeyBinding.ini" #### 
 
@@ -67,6 +69,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `ADDED` - Availability of mapping function keys to joypad's 11th and 12th buttons.    (Aceearly1993)  
 `ADDED` - Availability of exiting the game without involving of mouse input.     (Aceearly1993)  
 `ADDED` - Availability of saving the current situation of anti-aliasing settings.     (Aceearly1993)  
+`FIXED` - One instance at equipment screen that will cause confusions on Switch controller.     (Aceearly1993)  
 `CHANGED` - The term "DEFAULT CONTROLS" to "CONTROL CONFIG" in control setting screen.     (Aceearly1993)  
 `CHANGED` - Priority of attack event in the [move up/down on rope>attack] event string to be roughly the same as Christopher's in Belmont's Revenge.     (Aceearly1993)  
 `CHANGED` - Now you can cancel the delay after a sword swing while crouching (by holding left or right), roughly resembles 
