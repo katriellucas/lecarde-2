@@ -31,8 +31,7 @@ This file must be placed in the same directory the game locates if you downloade
 
 #### NEW Hotkey Functions #### 
 
-Due to the limitation of original GUI, there're instructions to some new functions that cannot be directly embedded in the GUI...
-- Toggle anti-alias on/off: F5/F6
+- (At video setting screen) Toggle anti-alias on/off: F5/F6
 
 To make the game display 1:1 pixel perfect scale:
 - You must make sure the display monitor's vertical size is above 1000.
@@ -69,6 +68,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `ADDED` - Availability of mapping function keys to joypad's 11th and 12th buttons.    (Aceearly1993)  
 `ADDED` - Availability of exiting the game without involving of mouse input.     (Aceearly1993)  
 `ADDED` - Availability of saving the current situation of anti-aliasing settings.     (Aceearly1993)  
+`ADDED` - Availability of function key inputs through xbox trigger buttons.     (Aceearly1993)  
 `FIXED` - One instance at equipment screen that will cause confusions on Switch controller.     (Aceearly1993)  
 `CHANGED` - The term "DEFAULT CONTROLS" to "CONTROL CONFIG" in control setting screen.     (Aceearly1993)  
 `CHANGED` - Priority of attack event in the [move up/down on rope>attack] event string to be roughly the same as Christopher's in Belmont's Revenge.     (Aceearly1993)  
