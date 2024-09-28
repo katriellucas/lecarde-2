@@ -62,6 +62,15 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.5.4] - 2024/10/1 #### 
+
+`ADDED` - Arrow notations of new texts at La Tourvelle's castle.    (Aceearly1993)  
+`ADDED` - More event notations in the project file.    (Aceearly1993)  
+`CHANGED` - Now if the stone hand had been used in front of Count Servigny's courtyard, the arrow notation will correctly disappear.     (Aceearly1993)  
+`CHANGED` - Organized the events of item sellers/vending machines into isolated groups for better visibility of any potential future editors.     (Aceearly1993)  
+`CHANGED` - Enhancements of Garden of the Dead A-letter panel blink effect due to requests.     (Aceearly1993)  
+
+
 #### [1.5.3] - 2024/9/14 #### 
 
 `ADDED` - Availability of changing and saving controller labels (XBOX/D-input/PS).    (Aceearly1993)  
