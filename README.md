@@ -24,6 +24,13 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 If your controller is NS type we cannot guarantee if it works 100% (too much problems with the game's bottom structure) but we provided baseline support and NS type controller label anyway.
 
 
+#### System compatibility warning #### 
+
+The game is only verified to be working as intended on windows revisions up until Windows 10 20H2 revision. 
+Beyond that revison it's out of my control and nor will there be any hope of making compatibilities specifically for the unintended system (at least from me).
+
+
+
 #### About "LC2_KeyBinding.ini" #### 
 
 A reworked version of the keyboard control created by DragonX24.
@@ -66,6 +73,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 `ADDED` - Arrow notations of new texts at La Tourvelle's castle.    (Aceearly1993)  
 `ADDED` - More event notations in the project file.    (Aceearly1993)  
+`FIXED` - Remaining instances where you may get softlocked by dying through poison while Efrain is acrossing area transitions zones in the process.     (Aceearly1993)  
 `CHANGED` - Now if the stone hand had been used in front of Count Servigny's courtyard, the arrow notation will correctly disappear.     (Aceearly1993)  
 `CHANGED` - Organized the events of item sellers/vending machines into isolated groups for better visibility of any potential future editors.     (Aceearly1993)  
 `CHANGED` - Enhancements of Garden of the Dead A-letter panel blink effect due to requests.     (Aceearly1993)  
