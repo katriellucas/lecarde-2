@@ -73,7 +73,9 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 `ADDED` - Arrow notations of new texts at La Tourvelle's castle.    (Aceearly1993)  
 `ADDED` - More event notations in the project file.    (Aceearly1993)  
-`FIXED` - Remaining instances where you may get softlocked by dying through poison while Efrain is crossing area transitions zones in the process.     (Aceearly1993)  
+`ADDED` - Auto save function upon reach all possible endings in order to let player not lose too much progress by meeting undesired endings.    (Aceearly1993)  
+`FIXED` - A softlock bug in game over> continue mechanic if you let the save slot keep empty on purpose by triggering an auto saving when you let Efrain reached the first town in the game.     (Aceearly1993)  
+`FIXED` - Remaining instances where you may get softlocked by dying through poison while Efrain is acrossing area transitions zones in the process.     (Aceearly1993)  
 `CHANGED` - Now if the stone hand had been used in front of Count Servigny's courtyard, the arrow notation will correctly disappear.     (Aceearly1993)  
 `CHANGED` - Organized the events of item sellers/vending machines into isolated groups for better visibility of any potential future editors.     (Aceearly1993)  
 `CHANGED` - Enhancements of Garden of the Dead A-letter panel blink effect due to requests.     (Aceearly1993)  
