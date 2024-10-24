@@ -74,6 +74,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `ADDED` - Arrow notations of new texts at La Tourvelle's castle.    (Aceearly1993)  
 `ADDED` - Arrow notations at save spots, warp spots, area transition room in Castle of Eternal night.    (Aceearly1993)  
 `ADDED` - Arrow notations on all road signs at village and earldoms.     (Aceearly1993)  
+`ADDED` - Arrow notations at top of ferryman's position when ferryman is prepared to bring you across the lake.     (Aceearly1993)  
 `ADDED` - More event notations in the project file.    (Aceearly1993)  
 `ADDED` - Simplified Chinese counterpart of "owned" embedded text in shops.    (Aceearly1993)  
 `ADDED` - Auto save function upon reach all possible endings in order to let player not lose too much progress by meeting undesired endings.    (Aceearly1993)  
