@@ -144,6 +144,11 @@ https://discord.gg/uAVxVqmZXx
 #### [1.6.7] - 2026/9/3 #### 
 
 `EXPERIMENT` - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
+`CHANGED` - Spotlights: Adjusted collision condition so that it's consistent to the condition used in [Chronicles of the Wolf]. (Aceearly1993)  
+`CHANGED` - Pause Menu/Mini Map: Adjusted timing of the game capable to receive exit input so that it's identical to the condition used in [Chronicles of the Wolf]. (Aceearly1993)  
+`CHANGED` - Pre-input of double jump/triple jump after air dash: Timing became slightly wider. (Aceearly1993)  
+`FIXED` - Isigny Village: Fixed a graphic order so that main character will always be in front of the funnel. (Aceearly1993)  
+`FIXED` - Eternal Light: An error in the stage name graphic so that it's more gramatically correct in German language variant. (Soul D. Sol/Aceearly1993)  
 
 
 #### [1.6.6] - 2026/7/2 #### 
