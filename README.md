@@ -149,7 +149,7 @@ https://discord.gg/uAVxVqmZXx
 `CHANGED` - Pre-input of double jump/triple jump after air dash: Timing became slightly wider. (Aceearly1993)  
 `FIXED` - Isigny Village: Fixed a graphic order so that main character will always be in front of the funnel. (Aceearly1993)  
 `FIXED` - Eternal Light: An error in the stage name graphic so that it's more gramatically correct in German language variant. (Soul D. Sol/Aceearly1993)  
-
+`FIXED` - Sarelle Cemetery: Fixed an unintended exploit in fake Efrain boss by adding invisible walls as soon as the dialogue speaks prior to the boss fight.  (Aceearly1993)  
 
 #### [1.6.6] - 2026/7/2 #### 
 
