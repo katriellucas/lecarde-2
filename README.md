@@ -50,6 +50,9 @@ Processor: Intel Core2Duo 2.20GHZ or higher - Memory 1GB  Ram-
 500 MB free Hard drive space   
 Video Card: Direct 3D9 Compatible   
 
+#### Access the Releases ####
+
+The latest stable releases can be accessed at >  http://github.com/katriellucas/lecarde-2/releases
 
 #### Read this if you encountered random crash exit when pausing #### 
 
