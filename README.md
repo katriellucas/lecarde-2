@@ -144,6 +144,13 @@ https://discord.gg/uAVxVqmZXx
 
 ## Changelog
 
+#### [1.6.8] - 2026/10/16 #### 
+
+`CHANGED` - Moved the rework project to the unaltered vanilla project file which OG developer had recovered and provided, as an attempt to gain better general stability.   (Aceearly1993)  
+`CHANGED` - Servigny Mansion: Very slightly edited the neutral graphic of a breakable wall in order to reduce explore progression problems as much as possible 
+without disobeying vanilla's progression flow.   (Aceearly1993)  
+
+
 #### [1.6.7] - 2026/9/3 #### 
 
 `EXPERIMENT` - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
