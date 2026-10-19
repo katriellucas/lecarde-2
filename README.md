@@ -149,6 +149,8 @@ https://discord.gg/uAVxVqmZXx
 `CHANGED` - Moved the rework project to the unaltered vanilla project file which OG developer had recovered and provided, as an attempt to gain better general stability.   (Aceearly1993)  
 `CHANGED` - Servigny Mansion: Very slightly edited the neutral graphic of a breakable wall in order to reduce explore progression problems as much as possible 
 without disobeying vanilla's progression flow.   (Aceearly1993)  
+`CHANGED` - La Tourvelle Earldom> La Petrix: Adjusted text box position so that it won't override main character.    (Aceearly1993)  
+`CHANGED` - Alucard walking: Slightly increased animation speed by 2 to reflect player's opinions.   (Aceearly1993)  
 
 
 #### [1.6.7] - 2026/9/3 #### 
