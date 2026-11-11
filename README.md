@@ -152,6 +152,9 @@ without disobeying vanilla's progression flow.   (Aceearly1993)
 `CHANGED` - La Tourvelle Earldom> La Perdrix: Adjusted road sign position so that it won't override main character.    (Aceearly1993)  
 `CHANGED` - Alucard walking: Slightly increased animation speed by 2 to reflect player's opinions.   (Aceearly1993)  
 `HOTFIX` - Temporarily Rollback the joystick 2 extension to the previous stable version just in case if the updated version isn't 100% compatible with OS versions higher than Win10 20H2 during the scene transition after game over.    (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player's inability to find controller label setting, isolated controller label setting as a individual option as visible as the logic technically could.  (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player cannot read correct XBOX controller label, The check of [if the current controller is XBOX controller] had been also applied to joystick slots 2, 3 and 4 instead of only reading slot 1.  (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player cannot read correct XBOX controller label, it's now capable to choose XBOX controller lable even if player isn't actually using first-party XBOX controller.    (Aceearly1993)  
 
 
 
